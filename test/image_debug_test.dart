@@ -24,6 +24,9 @@ void main() {
       print('🖼️  IMAGE EXTRACTION RESULTS');
       print('=' * 80);
 
+      final List<int> imageCounts = []; // Track image counts for median calculation
+      final Set<String> uniqueBrands = {}; // Track unique brands
+
       for (final file in files) {
         final fileName = file.path.split('\\').last;
 
@@ -47,8 +50,17 @@ void main() {
             print('🏢 BRAND: ${result['brand'] ?? 'Not found'}');
             print('🌐 SITE: ${result['site'] ?? 'N/A'}');
 
+            // Track unique brands (excluding null, empty, "No brand", "Not found")
+            if (result['brand'] != null &&
+                result['brand'].toString().isNotEmpty &&
+                result['brand'].toString() != 'No brand' &&
+                result['brand'].toString() != 'Not found') {
+              uniqueBrands.add(result['brand'].toString().trim());
+            }
+
             if (result['image'] != null) {
               final images = result['image'] as List;
+              imageCounts.add(images.length); // Track for median calculation
               print('🖼️  IMAGES FOUND: ${images.length}');
 
               if (images.isNotEmpty) {
@@ -60,6 +72,7 @@ void main() {
                 print('   ❌ No images extracted');
               }
             } else {
+              imageCounts.add(0); // No images found
               print('   ❌ Images field is null');
             }
 
@@ -77,9 +90,11 @@ void main() {
                 : description;
             print('📝 DESCRIPTION: $shortDesc');
           } else {
+            imageCounts.add(0); // No images when parsing fails
             print('❌ PARSING FAILED - No data extracted');
           }
         } catch (e) {
+          imageCounts.add(0); // No images when there's an error
           print('❌ ERROR processing $fileName: $e');
         }
 
@@ -92,6 +107,36 @@ void main() {
       print(
         '\n💡 TIP: You can copy these image URLs and paste them in your browser to see the actual images!',
       );
+
+      print('\n📊 Image Analysis Summary:');
+      print('📁 Total files tested: ${files.length}');
+      print('✅ Files with images: ${imageCounts.where((count) => count > 0).length}');
+      print('❌ Files without images: ${imageCounts.where((count) => count == 0).length}');
+
+      if (imageCounts.isNotEmpty) {
+        imageCounts.sort();
+
+        final totalImages = imageCounts.reduce((a, b) => a + b);
+        final avgImages = totalImages / imageCounts.length;
+        final maxImages = imageCounts.last;
+        final minImages = imageCounts.first;
+
+        // Calculate median
+        double medianImages;
+        final length = imageCounts.length;
+        if (length % 2 == 0) {
+          medianImages = (imageCounts[length ~/ 2 - 1] + imageCounts[length ~/ 2]) / 2.0;
+        } else {
+          medianImages = imageCounts[length ~/ 2].toDouble();
+        }
+
+        print('🖼️ Total images found: $totalImages');
+        print('🖼️ Average per file: ${avgImages.toStringAsFixed(1)}');
+        print('🖼️ Median per file: ${medianImages.toStringAsFixed(1)}');
+        print('🖼️ Max per file: $maxImages');
+        print('🖼️ Min per file: $minImages');
+        print('🏷️ Brand tested: ${uniqueBrands.length}');
+      }
     });
 
     // Test to show image extraction methods used

@@ -25,48 +25,103 @@ void main() {
 
       print('🚀 Running performance benchmark...');
 
-      final stopwatch = Stopwatch();
-      int totalTests = 0;
-      int successfulTests = 0;
+      final List<Duration> allTimes = [];
+      final List<int> imageCounts = []; // Track image counts for median calculation
+      final Set<String> uniqueBrands = {}; // Track unique brands
+      int successfulParses = 0;
 
       for (final file in files) {
+        final fileName = file.path.split('\\').last;
+        print('📄 Testing performance: $fileName');
+
         final content = await file.readAsString();
         final lines = content.split('\n');
+        final url = lines[0].trim();
+        final html = lines.skip(1).join('\n');
 
-        if (lines.isNotEmpty) {
-          final url = lines[0].trim();
-          final html = lines.skip(1).join('\n');
+        final stopwatch = Stopwatch();
 
+        // Run multiple iterations for this file
+        final fileTimes = <Duration>[];
+
+        for (int j = 0; j < 3; j++) {
+          stopwatch.reset();
           stopwatch.start();
           final result = await parseProduct(html, url);
           stopwatch.stop();
 
-          totalTests++;
-          if (result != null &&
+          fileTimes.add(stopwatch.elapsed);
+
+          // Check if parsing was successful
+          final success =
+              result != null &&
               result['name'] != null &&
+              result['description'] != null &&
               result['image'] != null &&
               (result['image'] as List).isNotEmpty &&
-              result['gallery'] != null &&
-              (result['gallery'] as List).isNotEmpty) {
-            successfulTests++;
-          }
+              result['price'] != null &&
+              result['priceCurrency'] != null;
 
-          final fileName = file.path.split('\\').last;
-          print(
-            '   ${fileName}: ${stopwatch.elapsedMilliseconds}ms - ${result != null ? "✅" : "❌"}',
-          );
-          stopwatch.reset();
+          if (success && j == 0) {
+            // Only count image count and brand once per file (first iteration)
+            successfulParses++;
+            imageCounts.add((result!['image'] as List).length);
+
+            // Track unique brands (excluding null, empty, "No brand", "Not found")
+            if (result['brand'] != null &&
+                result['brand'].toString().isNotEmpty &&
+                result['brand'].toString() != 'No brand' &&
+                result['brand'].toString() != 'Not found') {
+              uniqueBrands.add(result['brand'].toString().trim());
+            }
+          }
+        }
+
+        allTimes.addAll(fileTimes);
+
+        final avgTimeForFile =
+            fileTimes.map((d) => d.inMilliseconds).reduce((a, b) => a + b) / fileTimes.length;
+        print('   ⏱️ Average: ${avgTimeForFile.toStringAsFixed(1)}ms');
+      }
+
+      // Calculate statistics
+      final allMilliseconds = allTimes.map((d) => d.inMilliseconds).toList();
+      allMilliseconds.sort();
+
+      final totalTests = allTimes.length;
+      final avgTime = allMilliseconds.reduce((a, b) => a + b) / totalTests;
+      final medianTime = totalTests % 2 == 0
+          ? (allMilliseconds[totalTests ~/ 2 - 1] + allMilliseconds[totalTests ~/ 2]) / 2.0
+          : allMilliseconds[totalTests ~/ 2].toDouble();
+      final minTime = allMilliseconds.first;
+      final maxTime = allMilliseconds.last;
+
+      // Calculate median image count
+      double medianImageCount = 0;
+      if (imageCounts.isNotEmpty) {
+        imageCounts.sort();
+        final length = imageCounts.length;
+        if (length % 2 == 0) {
+          medianImageCount = (imageCounts[length ~/ 2 - 1] + imageCounts[length ~/ 2]) / 2.0;
+        } else {
+          medianImageCount = imageCounts[length ~/ 2].toDouble();
         }
       }
 
       print('\n📊 Performance Summary:');
-      print('   Total tests: $totalTests');
-      print('   Successful: $successfulTests');
-      print('   Success rate: ${((successfulTests / totalTests) * 100).toStringAsFixed(1)}%');
+      print('🏃 Total tests: $totalTests');
+      print('✅ Successful parses: $successfulParses');
+      print('⏱️ Average time: ${avgTime.toStringAsFixed(2)}ms');
+      print('⏱️ Median time: ${medianTime.toStringAsFixed(2)}ms');
+      print('⏱️ Min time: ${minTime}ms');
+      print('⏱️ Max time: ${maxTime}ms');
+      print('🏷️ Brand tested: ${uniqueBrands.length}');
+      print('🖼️ Median image count: ${medianImageCount.toStringAsFixed(1)}');
 
-      // Đảm bảo success rate >= 50%
+      // Đảm bảo success rate >= 50% (based on unique files, not iterations)
+      final filesTestCount = files.length;
       expect(
-        successfulTests / totalTests,
+        successfulParses / filesTestCount,
         greaterThanOrEqualTo(0.5),
         reason: 'Success rate should be at least 50%',
       );

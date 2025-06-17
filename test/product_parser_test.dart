@@ -116,26 +116,6 @@ void main() {
       }
     }
 
-    test('Test Shopify Product Parsing', () async {
-      await runTestFromFile('shopify_product.txt');
-    });
-
-    test('Test Basic Product Parsing', () async {
-      await runTestFromFile('basic_product.txt');
-    });
-
-    test('Test Vietnamese Product Parsing', () async {
-      await runTestFromFile('vietnamese_product.txt');
-    });
-
-    test('Test Complex eCommerce Product', () async {
-      await runTestFromFile('complex_product.txt');
-    });
-
-    test('Test Product with Embedded JSON', () async {
-      await runTestFromFile('embedded_json_product.txt');
-    });
-
     // Test với dữ liệu không hợp lệ
     test('Test Invalid HTML', () async {
       const invalidHtml = '<html><body><p>No product data here</p></body></html>';
@@ -188,6 +168,8 @@ void main() {
 
       int successCount = 0;
       int failCount = 0;
+      List<int> imageCounts = []; // Track image counts for median calculation
+      final Set<String> uniqueBrands = {}; // Track unique brands
 
       for (final file in files) {
         final fileName = file.path.split(Platform.pathSeparator).last;
@@ -195,9 +177,41 @@ void main() {
           print('\n🔍 Testing: $fileName');
           await runTestFromFile(fileName);
           successCount++;
+
+          // Get image count and brand for tracking
+          final content = await file.readAsString();
+          final lines = content.split('\n');
+          if (lines.isNotEmpty) {
+            final url = lines[0].trim();
+            final html = lines.skip(1).join('\n');
+            final result = await parseProduct(html, url);
+            if (result != null && result['image'] != null) {
+              imageCounts.add((result['image'] as List).length);
+
+              // Track unique brands (excluding null, empty, "No brand", "Not found")
+              if (result['brand'] != null &&
+                  result['brand'].toString().isNotEmpty &&
+                  result['brand'].toString() != 'No brand' &&
+                  result['brand'].toString() != 'Not found') {
+                uniqueBrands.add(result['brand'].toString().trim());
+              }
+            }
+          }
         } catch (e) {
           print('❌ Failed: $fileName - $e');
           failCount++;
+        }
+      }
+
+      // Calculate median image count
+      double medianImageCount = 0;
+      if (imageCounts.isNotEmpty) {
+        imageCounts.sort();
+        final length = imageCounts.length;
+        if (length % 2 == 0) {
+          medianImageCount = (imageCounts[length ~/ 2 - 1] + imageCounts[length ~/ 2]) / 2.0;
+        } else {
+          medianImageCount = imageCounts[length ~/ 2].toDouble();
         }
       }
 
@@ -206,6 +220,8 @@ void main() {
       print('   ❌ Failed: $failCount');
       print('   📁 Total files: ${files.length}');
       print('   📈 Success Rate: ${(successCount / files.length * 100).toStringAsFixed(1)}%');
+      print('   🏷️ Brand tested: ${uniqueBrands.length}');
+      print('   🖼️ Median Image Count: ${medianImageCount.toStringAsFixed(1)}');
 
       // Test sẽ pass nếu có ít nhất 1 file thành công
       expect(successCount, greaterThan(0), reason: 'At least one test file should pass');

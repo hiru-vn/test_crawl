@@ -112,6 +112,8 @@ void main() {
       int successCount = 0;
       int totalCount = 0;
       final List<Duration> parseTimes = [];
+      final List<int> imageCounts = []; // Track image counts for median calculation
+      final Set<String> uniqueBrands = {}; // Track unique brands
 
       for (final file in files) {
         final fileName = file.path.split('\\').last;
@@ -163,8 +165,18 @@ void main() {
           if (success) {
             successCount++;
             final imageCount = (result!['image'] as List).length;
+            imageCounts.add(imageCount); // Add to median calculation
             final galleryCount = (result['gallery'] as List).length;
             final brandInfo = result['brand'] != null ? result['brand'] : 'No brand';
+
+            // Track unique brands (excluding null, empty, "No brand", "Not found")
+            if (result['brand'] != null &&
+                result['brand'].toString().isNotEmpty &&
+                result['brand'].toString() != 'No brand' &&
+                result['brand'].toString() != 'Not found') {
+              uniqueBrands.add(result['brand'].toString().trim());
+            }
+
             testDetails[fileName] =
                 'Name: ${result['name']}, Brand: $brandInfo, Images: $imageCount, Gallery: $galleryCount, ' +
                 'Price: ${result['price']} ${result['priceCurrency']}, ' +
@@ -219,6 +231,19 @@ void main() {
         );
       }
 
+      // Calculate median image count
+      double medianImageCount = 0;
+      if (imageCounts.isNotEmpty) {
+        imageCounts.sort();
+        final length = imageCounts.length;
+        if (length % 2 == 0) {
+          medianImageCount = (imageCounts[length ~/ 2 - 1] + imageCounts[length ~/ 2]) / 2.0;
+        } else {
+          medianImageCount = imageCounts[length ~/ 2].toDouble();
+        }
+        print('🖼️  Median image count: ${medianImageCount.toStringAsFixed(1)}');
+      }
+
       // Test 5: Final summary
       printHeader('FINAL SUMMARY');
 
@@ -227,6 +252,10 @@ void main() {
       print('✅ Successful: $successCount');
       print('❌ Failed: ${totalCount - successCount}');
       print('📈 Success Rate: ${successRate.toStringAsFixed(1)}%');
+      print('🏷️ Brand tested: ${uniqueBrands.length}');
+      if (imageCounts.isNotEmpty) {
+        print('🖼️ Median Image Count: ${medianImageCount.toStringAsFixed(1)}');
+      }
 
       // Overall test result
       final overallSuccess = successRate >= 50.0; // Ít nhất 50% thành công
