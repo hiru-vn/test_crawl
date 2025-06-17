@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:flutter_test/flutter_test.dart';
-import '../lib/main.dart';
+import '../lib/product_crawl.dart';
 
 /// Test Runner để chạy tất cả tests và tạo báo cáo chi tiết
 void main() {

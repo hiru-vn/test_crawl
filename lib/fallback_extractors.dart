@@ -1,5 +1,5 @@
 import 'package:html/dom.dart';
-import 'main.dart'; // For ProductData class
+import 'product_crawl.dart'; // For ProductData class
 
 /// Specialized fallback extraction methods for edge cases
 /// These methods handle specific website patterns that don't follow standard practices

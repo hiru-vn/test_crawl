@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:flutter_test/flutter_test.dart';
-import '../lib/main.dart';
+import '../lib/product_crawl.dart';
 
 void main() {
   group('Image Extraction Debug', () {
