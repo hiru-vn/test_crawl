@@ -1,0 +1,3009 @@
+https://flore-flore.com/products/esme-tank-white?srsltid=AfmBOopL_e7GBtFTxyhWvqmAD2ZV-jkQ1Y6XyPXjVg4GKQFzc_89bOzC
+<html lang="en" style="--banner-enabled: 0; --header-h: 86px;"><head><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    <link rel="preconnect" href="https://cdn.shopify.com" crossorigin="">
+    <link rel="canonical" href="https://flore-flore.com/products/esme-tank-white">
+
+    <style>
+      [x-cloak] {
+        display: none !important;
+      }
+    </style>
+
+    
+      
+      <link rel="icon" href="data:,">
+    
+
+    
+<link rel="preload" href="https://use.typekit.net/pnm8cnn.css" as="style">
+<link rel="stylesheet" href="https://use.typekit.net/pnm8cnn.css">
+
+    
+
+<title>ESMÉ TANK | White - FLORE FLORE
+</title>
+
+
+  <meta name="description" content="A fitted crew neck tank with scooped-out armholes and a cut-off seam on the back, crafted from medium-weight organic cotton rib. Layer or wear on its own.">
+
+
+<meta property="og:site_name" content="FLORE FLORE">
+<meta property="og:url" content="https://flore-flore.com/products/esme-tank-white">
+<meta property="og:title" content="ESMÉ TANK | White">
+<meta property="og:type" content="product">
+<meta property="og:description" content="A fitted crew neck tank with scooped-out armholes and a cut-off seam on the back, crafted from medium-weight organic cotton rib. Layer or wear on its own.">
+
+  <meta property="og:image" content="http://flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ESMÉ TANK | White">
+<meta name="twitter:description" content="A fitted crew neck tank with scooped-out armholes and a cut-off seam on the back, crafted from medium-weight organic cotton rib. Layer or wear on its own.">
+
+  <meta property="twitter:image" content="http://flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350">
+
+
+
+    
+
+
+  <link href="//flore-flore.com/cdn/shop/t/23/assets/theme-DRcreNRJ.css" rel="stylesheet" type="text/css" media="all">
+
+
+
+
+  <script type="text/javascript" async="" src="https://static.klaviyo.com/onsite/js/X7UeED/klaviyo.js?company_id=X7UeED&amp;shop=flore-flore.myshopify.com"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/files/1/0449/2568/1820/t/4/assets/booster_currency.js?v=1624978055&amp;shop=flore-flore.myshopify.com"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/files/1/0449/2568/1820/t/4/assets/booster_currency.js?v=1624978055&amp;shop=flore-flore.myshopify.com"></script><script type="text/javascript" async="" src="https://tabs.stationmade.com/registered-scripts/tabs-by-station.js?shop=flore-flore.myshopify.com"></script><script type="text/javascript" async="" src="//flore-flore.com/cdn/s/trekkie.storefront.319cb6b35d0642d127040b9727c41cbf77f04cee.min.js"></script><script src="//flore-flore.com/cdn/shop/t/23/assets/theme-OYy3dvlb.js" type="module" crossorigin="anonymous"></script>
+
+
+
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="facebook-domain-verification" content="1lpusmpycrpogseob8khle5sxyz56v">
+<meta name="google-site-verification" content="IK3ufzoGgdoNdgaW2HNvfsBpmuV1rIcuKrKgPeB_9K4">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/57414746297/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="0c8235586afb45c4110a6272ff37476e">
+<link rel="alternate" type="application/json+oembed" href="https://flore-flore.com/products/esme-tank-white.oembed">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-NL"></script>
+<link rel="preconnect" href="https://shop.app" crossorigin="anonymous">
+<script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-NL&amp;shop_id=57414746297" crossorigin="anonymous"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":57414746297,"countryCode":"NL","currencyCode":"EUR","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/57414746297","merchantName":"FLORE FLORE","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","maestro","masterCard","amex"],"total":{"type":"pending","label":"FLORE FLORE","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"0c8235586afb45c4110a6272ff37476e","betas":["rich-media-storefront-analytics"],"domain":"flore-flore.com","predictiveSearch":true,"shopId":57414746297,"locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "flore-flore.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"EUR","rate":"1.0"};
+Shopify.country = "NL";
+Shopify.theme = {"name":"Flore Flore","id":167395688777,"schema_name":"Flore Flore","schema_version":"1.0.0","theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "flore-flore.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"product"}</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"init-windoid":["modules/v2/client.init-windoid_BTJnIz3s.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js"],"shop-button":["modules/v2/client.shop-button_BG1Wblqu.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js"],"init-fed-cm":["modules/v2/client.init-fed-cm_CPY-cxEq.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js"],"pay-button":["modules/v2/client.pay-button_DSHNdQ9C.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js"],"init-customer-accounts-sign-up":["modules/v2/client.init-customer-accounts-sign-up_FSKQa-Tj.en.esm.js","modules/v2/client.shop-login-button_fWRP-_1z.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js","modules/v2/chunk.modal_DroTRk6b.esm.js"],"shop-login-button":["modules/v2/client.shop-login-button_fWRP-_1z.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js","modules/v2/chunk.modal_DroTRk6b.esm.js"],"shop-toast-manager":["modules/v2/client.shop-toast-manager_DBsGI2Hd.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js"],"checkout-modal":["modules/v2/client.checkout-modal_D9uJO26n.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js","modules/v2/chunk.modal_DroTRk6b.esm.js"],"avatar":["modules/v2/client.avatar_BTnouDA3.en.esm.js"],"init-shop-email-lookup-coordinator":["modules/v2/client.init-shop-email-lookup-coordinator_D_MhkcyL.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js"],"init-customer-accounts":["modules/v2/client.init-customer-accounts_TrLx91nI.en.esm.js","modules/v2/client.shop-login-button_fWRP-_1z.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js","modules/v2/chunk.modal_DroTRk6b.esm.js"],"shop-cash-offers":["modules/v2/client.shop-cash-offers_DqK5IQZM.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js","modules/v2/chunk.modal_DroTRk6b.esm.js"],"shop-follow-button":["modules/v2/client.shop-follow-button_DxpQU4Xy.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js","modules/v2/chunk.modal_DroTRk6b.esm.js"],"init-shop-for-new-customer-accounts":["modules/v2/client.init-shop-for-new-customer-accounts_DxUjbEbz.en.esm.js","modules/v2/client.shop-login-button_fWRP-_1z.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js","modules/v2/chunk.modal_DroTRk6b.esm.js"],"lead-capture":["modules/v2/client.lead-capture_Cv0Gg3D3.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js","modules/v2/chunk.modal_DroTRk6b.esm.js"],"payment-terms":["modules/v2/client.payment-terms_RA6dtHV6.en.esm.js","modules/v2/chunk.common_DMf_DNs_.esm.js","modules/v2/chunk.modal_DroTRk6b.esm.js"]};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/tabs.stationmade.com\/registered-scripts\/tabs-by-station.js?shop=flore-flore.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/0449\/2568\/1820\/t\/4\/assets\/booster_currency.js?v=1624978055\u0026shop=flore-flore.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/0449\/2568\/1820\/t\/4\/assets\/booster_currency.js?v=1624978055\u0026shop=flore-flore.myshopify.com","https:\/\/static.klaviyo.com\/onsite\/js\/X7UeED\/klaviyo.js?company_id=X7UeED\u0026shop=flore-flore.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":57414746297,"offset":7200,"reqid":"2618cf3c-ab39-4080-8be9-e797534de364-1750126364","pageurl":"flore-flore.com\/products\/esme-tank-white?srsltid=AfmBOopL_e7GBtFTxyhWvqmAD2ZV-jkQ1Y6XyPXjVg4GKQFzc_89bOzC","u":"1a798a32dfb5","p":"product","rtyp":"product","rid":8638347706697};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
+<script integrity="sha256-w1TMG8bx+vw+BuOfT7Dh2avfdjByyjlNYGyp9vJB5oo=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//flore-flore.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-c354cc1bc6f1fafc3e06e39f4fb0e1d9abdf763072ca394d606ca9f6f241e68a.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//flore-flore.com/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-80e528be853eac23af2454534897ca9536b1d3d04aa043b042f34879a3c111c8.js?v=20220906"></script>
+<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://flore-flore.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
+  function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded",(function(){function t(){return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout")}if(t())Shopify.PaymentButton.init();else{new MutationObserver((function(e,n){t()&&(Shopify.PaymentButton.init(),n.disconnect())})).observe(document.body,{childList:!0,subtree:!0})}}));
+</script>
+<script id="scb4127" type="text/javascript" async="" src="https://flore-flore.com/cdn/shopifycloud/privacy-banner/storefront-banner.js"></script>
+<link rel="stylesheet" media="screen" href="https://flore-flore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
+
+<style id="shopify-accelerated-checkout-cart">
+        #shopify-buyer-consent {
+  margin-top: 1em;
+  display: inline-block;
+  width: 100%;
+}
+
+#shopify-buyer-consent.hidden {
+  display: none;
+}
+
+#shopify-subscription-policy-button {
+  background: none;
+  border: none;
+  padding: 0;
+  text-decoration: underline;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+#shopify-subscription-policy-button::before {
+  box-shadow: none;
+}
+
+      </style>
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+  <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 57414746297,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,d,r,n,o,i){if(void 0===i&&(i={}),!Boolean(null===(t=null===(a=window.Shopify)||void 0===a?void 0:a.analytics)||void 0===t?void 0:t.replayQueue)){var a,t;window.Shopify=window.Shopify||{};var s=window.Shopify;s.analytics=s.analytics||{};var l=s.analytics;l.replayQueue=[],l.publish=function(e,d,r){return l.replayQueue.push([e,d,r]),!0};try{self.performance.mark("wpm:start")}catch(e){}var u=function(){var e={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/},d=e.modern,r=e.legacy,n=navigator.userAgent;return n.match(d)?"modern":n.match(r)?"legacy":"unknown"}(),c="modern"===u?"modern":"legacy",f=(null!=o?o:{modern:"",legacy:""})[c],m=function(e){return[e.baseUrl,"/wpm","/b",e.hashVersion,"modern"===e.buildTarget?"m":"l",".js"].join("")}({baseUrl:r,hashVersion:n,buildTarget:c}),p=function(e){var d=e.version,r=e.bundleTarget,n=e.surface,o=e.pageUrl,i=e.monorailEndpoint;return{emit:function(e){var a=e.status,t=e.errorMsg,s=(new Date).getTime(),l=JSON.stringify({metadata:{event_sent_at_ms:s},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:d,bundle_target:r,page_url:o,status:a,surface:n,error_msg:t},metadata:{event_created_at_ms:s}}]});if(!i)return console&&console.warn&&console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."),!1;try{return self.navigator.sendBeacon.bind(self.navigator)(i,l)}catch(e){}var u=new XMLHttpRequest;try{return u.open("POST",i,!0),u.setRequestHeader("Content-Type","text/plain"),u.send(l),!0}catch(e){return console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."),!1}}}}({version:n,bundleTarget:u,surface:e.surface,pageUrl:self.location.href,monorailEndpoint:e.monorailEndpoint});try{i.browserTarget=u,function(e){var d=e.src,r=e.async,n=void 0===r||r,o=e.onload,i=e.onerror,a=e.sri,t=e.scriptDataAttributes,s=void 0===t?{}:t,l=document.createElement("script"),u=document.querySelector("head"),c=document.querySelector("body");if(l.async=n,l.src=d,a&&(l.integrity=a,l.crossOrigin="anonymous"),s)for(var f in s)if(Object.prototype.hasOwnProperty.call(s,f))try{l.dataset[f]=s[f]}catch(e){}if(o&&l.addEventListener("load",o),i&&l.addEventListener("error",i),u)u.appendChild(l);else{if(!c)throw new Error("Did not find a head or body element to append the script");c.appendChild(l)}}({src:m,async:!0,onload:function(){if(!function(){var e,d;return Boolean(null===(d=null===(e=window.Shopify)||void 0===e?void 0:e.analytics)||void 0===d?void 0:d.initialized)}()){var r=window.webPixelsManager.init(e)||void 0;if(r){d(r);var n=window.Shopify.analytics;n.replayQueue.forEach((function(e){var d=e[0],n=e[1],o=e[2];r.publishCustomEvent(d,n,o)})),n.replayQueue=[],n.publish=r.publishCustomEvent,n.visitor=r.visitor,n.initialized=!0}}},onerror:function(){return p.emit({status:"failed",errorMsg:"".concat(m," has failed to load")})},sri:function(e){var d=/^sha384-[A-Za-z0-9+/=]+$/;return"string"==typeof e&&d.test(e)}(f)?f:"",scriptDataAttributes:i}),p.emit({status:"loading"})}catch(e){p.emit({status:"failed",errorMsg:(null==e?void 0:e.message)||"Unknown error"})}}})({shopId: 57414746297,storefrontBaseUrl: "https://flore-flore.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: ["ac843a20"],webPixelsConfigList: [{"id":"1247314249","configuration":"{\"config\":\"{\\\"google_tag_ids\\\":[\\\"G-X8R59B78KL\\\",\\\"GT-MR4NKQ5P\\\"],\\\"target_country\\\":\\\"NL\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":\\\"G-X8R59B78KL\\\"},{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":\\\"G-X8R59B78KL\\\"},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"G-X8R59B78KL\\\",\\\"MC-Z1C231B1LS\\\"]},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"G-X8R59B78KL\\\",\\\"MC-Z1C231B1LS\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"G-X8R59B78KL\\\",\\\"MC-Z1C231B1LS\\\"]},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":\\\"G-X8R59B78KL\\\"},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":\\\"G-X8R59B78KL\\\"}],\\\"enable_monitoring_mode\\\":false}\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"26a08df6fb732969dd50810ae4fdc2c1","type":"APP","apiClientId":1780363,"privacyPurposes":[]},{"id":"1090847049","configuration":"{\"accountID\":\"57414746297\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"d7d64341679fcfe8ca26ee5e4b0b7e78","type":"APP","apiClientId":5263155,"privacyPurposes":["ANALYTICS"]},{"id":"344621385","configuration":"{\"pixel_id\":\"1017957236317009\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"b0d5a11b80f868de49df845559dff0d6","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0420","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0420","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,effectiveTopLevelDomain: "com",initData: {"shop":{"name":"FLORE FLORE","paymentSettings":{"currencyCode":"EUR"},"myshopifyDomain":"flore-flore.myshopify.com","countryCode":"NL","storefrontUrl":"https://flore-flore.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[{"price":{"amount":85.0,"currencyCode":"EUR"},"product":{"title":"ESMÉ TANK | White","vendor":"FLORE FLORE","id":"8638347706697","untranslatedTitle":"ESMÉ TANK | White","url":"/products/esme-tank-white","type":"Basics"},"id":"48543681216841","image":{"src":"//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350"},"sku":"ESM-TA-WH-XS","title":"White / XS","untranslatedTitle":"White / XS"},{"price":{"amount":85.0,"currencyCode":"EUR"},"product":{"title":"ESMÉ TANK | White","vendor":"FLORE FLORE","id":"8638347706697","untranslatedTitle":"ESMÉ TANK | White","url":"/products/esme-tank-white","type":"Basics"},"id":"48543681249609","image":{"src":"//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350"},"sku":"ESM-TA-WH-S","title":"White / S","untranslatedTitle":"White / S"},{"price":{"amount":85.0,"currencyCode":"EUR"},"product":{"title":"ESMÉ TANK | White","vendor":"FLORE FLORE","id":"8638347706697","untranslatedTitle":"ESMÉ TANK | White","url":"/products/esme-tank-white","type":"Basics"},"id":"48543681282377","image":{"src":"//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350"},"sku":"ESM-TA-WH-M","title":"White / M","untranslatedTitle":"White / M"},{"price":{"amount":85.0,"currencyCode":"EUR"},"product":{"title":"ESMÉ TANK | White","vendor":"FLORE FLORE","id":"8638347706697","untranslatedTitle":"ESMÉ TANK | White","url":"/products/esme-tank-white","type":"Basics"},"id":"48543681315145","image":{"src":"//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350"},"sku":"ESM-TA-WH-L","title":"White / L","untranslatedTitle":"White / L"},{"price":{"amount":85.0,"currencyCode":"EUR"},"product":{"title":"ESMÉ TANK | White","vendor":"FLORE FLORE","id":"8638347706697","untranslatedTitle":"ESMÉ TANK | White","url":"/products/esme-tank-white","type":"Basics"},"id":"48543681347913","image":{"src":"//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350"},"sku":"ESM-TA-WH-XL","title":"White / XL","untranslatedTitle":"White / XL"}],"purchasingCompany":null},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed", {});webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"price":{"amount":85.0,"currencyCode":"EUR"},"product":{"title":"ESMÉ TANK | White","vendor":"FLORE FLORE","id":"8638347706697","untranslatedTitle":"ESMÉ TANK | White","url":"/products/esme-tank-white","type":"Basics"},"id":"48543681216841","image":{"src":"//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350"},"sku":"ESM-TA-WH-XS","title":"White / XS","untranslatedTitle":"White / XS"}});},"https://flore-flore.com/cdn","0a4b528bw2defb8a1pb18962c6m9f7ddb6c",{"modern":"","legacy":""},{"shopId":"57414746297","storefrontBaseUrl":"https://flore-flore.com","extensionBaseUrl":"https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[\"ac843a20\"]","isMerchantRequest":"false","hashVersion":"0a4b528bw2defb8a1pb18962c6m9f7ddb6c"});</script><script async="" src="https://flore-flore.com/cdn/wpm/b0a4b528bw2defb8a1pb18962c6m9f7ddb6cm.js" data-shop-id="57414746297" data-storefront-base-url="https://flore-flore.com" data-extension-base-url="https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager" data-surface="storefront-renderer" data-enabled-beta-flags="[&quot;ac843a20&quot;]" data-is-merchant-request="false" data-hash-version="0a4b528bw2defb8a1pb18962c6m9f7ddb6c" data-browser-target="modern"></script><script>
+  window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+  window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+  window.ShopifyAnalytics.meta.currency = 'EUR';
+  var meta = {"product":{"id":8638347706697,"gid":"gid:\/\/shopify\/Product\/8638347706697","vendor":"FLORE FLORE","type":"Basics","variants":[{"id":48543681216841,"price":8500,"name":"ESMÉ TANK | White - White \/ XS","public_title":"White \/ XS","sku":"ESM-TA-WH-XS"},{"id":48543681249609,"price":8500,"name":"ESMÉ TANK | White - White \/ S","public_title":"White \/ S","sku":"ESM-TA-WH-S"},{"id":48543681282377,"price":8500,"name":"ESMÉ TANK | White - White \/ M","public_title":"White \/ M","sku":"ESM-TA-WH-M"},{"id":48543681315145,"price":8500,"name":"ESMÉ TANK | White - White \/ L","public_title":"White \/ L","sku":"ESM-TA-WH-L"},{"id":48543681347913,"price":8500,"name":"ESMÉ TANK | White - White \/ XL","public_title":"White \/ XL","sku":"ESM-TA-WH-XL"}]},"page":{"pageType":"product","resourceType":"product","resourceId":8638347706697}};
+  for (var attr in meta) {
+    window.ShopifyAnalytics.meta[attr] = meta[attr];
+  }
+</script>
+<script class="analytics">
+  (function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 57414746297,
+      theme_id: 167395688777,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//flore-flore.com/cdn/s/trekkie.storefront.319cb6b35d0642d127040b9727c41cbf77f04cee.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//flore-flore.com/cdn/s/trekkie.storefront.319cb6b35d0642d127040b9727c41cbf77f04cee.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//flore-flore.com/cdn/s/trekkie.storefront.319cb6b35d0642d127040b9727c41cbf77f04cee.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":57414746297,"isMerchantRequest":null,"themeId":167395688777,"themeCityHash":"1153914686588896315","contentLanguage":"en","currency":"EUR"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":8638347706697,"shopifyEmitted":true});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"EUR","variantId":48543681216841,"productId":8638347706697,"productGid":"gid:\/\/shopify\/Product\/8638347706697","name":"ESMÉ TANK | White - White \/ XS","price":"85.00","sku":"ESM-TA-WH-XS","brand":"FLORE FLORE","variant":"White \/ XS","category":"Basics","nonInteraction":true},undefined,undefined,{"shopifyEmitted":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"EUR","variantId":48543681216841,"productId":8638347706697,"productGid":"gid:\/\/shopify\/Product\/8638347706697","name":"ESMÉ TANK | White - White \/ XS","price":"85.00","sku":"ESM-TA-WH-XS","brand":"FLORE FLORE","variant":"White \/ XS","category":"Basics","nonInteraction":true,"referer":"https:\/\/flore-flore.com\/products\/esme-tank-white?srsltid=AfmBOopL_e7GBtFTxyhWvqmAD2ZV-jkQ1Y6XyPXjVg4GKQFzc_89bOzC"});
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//flore-flore.com/cdn/shopifycloud/shopify/assets/shop_events_listener-f55dd2979ec32029c7d9e0b454ab8b33f79c01ca039d17a6f5c9b95647564b19.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script><script async="" src="//flore-flore.com/cdn/shopifycloud/shopify/assets/shop_events_listener-f55dd2979ec32029c7d9e0b454ab8b33f79c01ca039d17a6f5c9b95647564b19.js"></script>
+  <script>
+  if (!window.ga || (window.ga && typeof window.ga !== 'function')) {
+    window.ga = function ga() {
+      (window.ga.q = window.ga.q || []).push(arguments);
+      if (window.Shopify && window.Shopify.analytics && typeof window.Shopify.analytics.publish === 'function') {
+        window.Shopify.analytics.publish("ga_stub_called", {}, {sendTo: "google_osp_migration"});
+      }
+      console.error("Shopify's Google Analytics stub called with:", Array.from(arguments), "\nSee https://help.shopify.com/manual/promoting-marketing/pixels/pixel-migration#google for more information.");
+    };
+    if (window.Shopify && window.Shopify.analytics && typeof window.Shopify.analytics.publish === 'function') {
+      window.Shopify.analytics.publish("ga_stub_initialized", {}, {sendTo: "google_osp_migration"});
+    }
+  }
+</script>
+<script defer="" src="https://flore-flore.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-1.6.6.min.js" data-application="storefront-renderer" data-shop-id="57414746297" data-render-region="gcp-europe-west3" data-page-type="product" data-theme-instance-id="167395688777" data-theme-name="Flore Flore" data-theme-version="1.0.0" data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10" data-shs="true"></script>
+<script src="https://flore-flore.com/wpm@0a4b528bw2defb8a1pb18962c6m9f7ddb6c/app/web-pixel-1247314249@26a08df6fb732969dd50810ae4fdc2c1/pixel.modern.js" async="" data-pixel-id="1247314249" data-pixel-type="APP"></script><link rel="dns-prefetch preconnect" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/" crossorigin=""><style id="shopify-pc__banner__styles">
+    .shopify-pc__banner__dialog h2 {
+      color: hsl(229deg, 0%, 0%, 100%);
+      font-family: inherit;
+      font-size: 120%;
+      margin: 0 0 .5em 0;
+      padding: 0;
+      font-weight: bold;
+    }
+    .shopify-pc__banner__dialog p {
+      color: hsl(229deg, 0%, 0%, 100%);
+      font-family: inherit;
+      line-height: 1.3;
+      margin: 0;
+      padding: 0;
+    }
+    .shopify-pc__banner__dialog a {
+      color: hsl(229deg, 0%, 0%, 100%);
+      text-decoration: underline;
+    }
+    .shopify-pc__banner__dialog button {
+      border: none;
+      text-decoration: none;
+      font-family: inherit;
+      padding: 10px 25px;
+      margin-top: 15px;
+      font-size: 100%;
+      flex-basis: 50%;
+      border-radius: 2px;
+      line-height: 120%;
+      height: unset;
+      text-align: center;
+    }
+    .shopify-pc__banner__dialog button:focus {
+      outline: none;
+      box-shadow: 0 0 0 4px hsl(201deg, 90%, 80%, 100%);
+    }
+    .shopify-pc__banner__dialog button:hover {
+      cursor: pointer;
+    }
+    .shopify-pc__banner__dialog button.shopify-pc__banner__btn-accept {
+      border: 1px solid hsl(229deg, 0%, 0%, 100%);
+      
+    border: 1px solid hsl(229deg, 0%, 0%, 100%);
+    color: hsl(229deg, 0%, 0%, 100%);
+    background: hsl(0deg, 0%, 100%, 100%);
+  
+    }
+    .shopify-pc__banner__dialog button.shopify-pc__banner__btn-manage-prefs {
+      text-decoration: underline;
+      padding: 0;
+      
+    border: none;
+    color: hsl(229deg, 0%, 0%, 100%);
+    background: transparent;
+  
+    }
+    .shopify-pc__banner__dialog button.shopify-pc__banner__btn-manage-prefs:focus {
+      box-shadow: none;
+    }
+    .shopify-pc__banner__dialog button.shopify-pc__banner__btn-manage-prefs:focus span {
+      outline: 2px solid hsl(201deg, 90%, 80%, 100%);
+    }
+    .shopify-pc__banner__dialog button.shopify-pc__banner__btn-decline {
+      border: 1px solid hsl(229deg, 0%, 0%, 100%);
+      
+    border: 1px solid hsl(229deg, 0%, 0%, 100%);
+    color: hsl(229deg, 0%, 0%, 100%);
+    background: hsl(0deg, 0%, 100%, 100%);
+  
+    }
+    .shopify-pc__banner__body p a:focus {
+      outline: 2px solid hsl(201deg, 90%, 80%, 100%);
+      box-shadow: none;
+    }
+    
+    .shopify-pc__banner__dialog {
+      
+    position: fixed;
+    z-index: 2000000;
+    box-shadow: 0px 4px 10px rgb(63 63 68 / 40%);
+    max-height: 90%;
+    box-sizing: border-box;
+    opacity: 1;
+    padding: 32px;
+    background-color: hsl(0deg, 0%, 100%, 100%);
+    overflow: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    border: none;
+    text-align: left;
+  
+      bottom: 0;
+      left: 0;
+      max-width: 650px;
+      border-top-right-radius: 3px;
+    }
+    
+    .shopify-pc__banner__wrapper {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-direction: column;
+    }
+  
+    .shopify-pc__banner__body {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    .shopify-pc__banner__btns {
+      display: flex;
+      justify-content: flex-end;
+      width: 100%;
+      flex-direction: row;
+      gap: 20px;
+    }
+    
+      @media only screen and (max-width: 480px) {
+        
+      .shopify-pc__banner__btns {
+        flex-direction: column;
+        gap: 3px;
+      }
+      .shopify-pc__banner__btns-granular :nth-child(1) {
+        order: 3;
+      }
+      .shopify-pc__banner__btns-granular :nth-child(2) {
+        order: 1;
+      }
+      .shopify-pc__banner__btns-granular :nth-child(3) {
+        order: 2;
+      }
+    
+      }
+    
+  
+  </style><style type="text/css">
+@font-face {
+	font-family: 'Atlassian Sans Ext';
+	font-style: normal;
+	font-weight: 100 900;
+	font-display: swap;
+	src: url('chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/AtlassianSans-cyrillic-ext.woff2') format('woff2');
+	unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+	font-family: 'Atlassian Sans Ext';
+	font-style: normal;
+	font-weight: 100 900;
+	font-display: swap;
+	src: url('chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/AtlassianSans-cyrillic.woff2') format('woff2');
+	unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+@font-face {
+	font-family: 'Atlassian Sans Ext';
+	font-style: normal;
+	font-weight: 100 900;
+	font-display: swap;
+	src: url('chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/AtlassianSans-vietnamese.woff2') format('woff2');
+	unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0,
+		U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+	font-family: 'Atlassian Sans Ext';
+	font-style: normal;
+	font-weight: 100 900;
+	font-display: swap;
+	src: url('chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/AtlassianSans-latin.woff2') format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304,
+		U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+	font-family: 'Atlassian Sans Ext';
+	font-style: normal;
+	font-weight: 100 900;
+	font-display: swap;
+	src: url('chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/AtlassianSans-latin-ext.woff2') format('woff2');
+	unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308,
+		U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,
+		U+2C60-2C7F, U+A720-A7FF;
+}</style><style></style><script src="https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/jquery-3-4.js?59" type="text/javascript"></script><style></style><style>.big-ol-cart-notice.bacurrDark{--barcurr-banner-color:#ffffff;--barcurr-banner-bg:#313132;--barcurr-banner-border:#223}.big-ol-cart-notice{font-size: 16px;position:relative;padding:.72rem 1.22rem;margin-bottom:1rem;border-radius:.25rem;border:1px solid transparent;text-align:center;--barcurr-banner-border:#b8daf2;--barcurr-banner-bg:#cce5f2;--barcurr-banner-color:#004082;color:var(--barcurr-banner-color);background-color:var(--barcurr-banner-bg)}.barcurr-onmouse-orig-val{transform:translateY(20px);transition:all .2s ease;position:absolute;opacity:0}.barcurr-money-show{text-transform:none;transition:all .3s ease-in-out;box-shadow:0 0 20px -3px #ccc,0 -7px 20px -15px #ccc;width:-webkit-max-content;width:-moz-max-content;width:max-content;display:block;border-radius:7px;background:#fff;font-size:15px;padding:7px 16px;top:2px;left:0;opacity:1;position:absolute;text-align:center;z-index:999999}.barcurr-money-show:after{border-color:#fff transparent;border-style:solid;border-width:0 7px 7px;top:-6px;content:"";display:block;left:31px;position:absolute}.bacurr-cur-blocker{display:inline!important;line-height:1}.bacurr-cur-block{display:inline-block!important;line-height:1}.barcurr-onwards-and-upwards{opacity:1;transform:translateY(0);-webkit-animation:barcurr-onwards-and-upwards .4s ease;animation:barcurr-onwards-and-upwards .4s ease}@-webkit-keyframes barcurr-onwards-and-upwards{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}@keyframes barcurr-onwards-and-upwards{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}span.bacurr-money{color:inherit!important;cursor:pointer} baDropdownStyle.bacurrDark{--bacurrHover-bg:#595959;--bacurrBackground:#404040;--bacurrSelect-color:#fff;--bacurrBorder-color:#313131;--bacurrShadow1:rgba(97, 97, 97, 0.24);--bacurrShadow2:rgba(96, 96, 96, 0.32);--bacurrArrow:#d7d8de;--bacurrSroll-bar-color:#4d4d4e}.baDropdownStyle{--bacurrSelect-height:40px;--bacurrBorder-color:hsla(0, 0%, 82%, 0.39);--bacurrShadow1:#e8e8e2;--bacurrShadow2:rgba(0, 0, 0, 0.15);--bacurrArrow:#474942;--bacurrSroll-bar-color:#e6e6e2;--bacurrHover-bg:#eceef2;all:unset;direction:ltr;position:fixed;bottom:40px;left:40px;z-index:999999999999;display:flex;align-items:center;--bacurrSelect-color:#222;--bacurrBackground:#fffff;--bacurrSelect-width:110px}.baDropdownStyle.top_right{top:40px;right:40px;left:unset;bottom:unset}.baDropdownStyle.bottom_right{bottom:40px;left:unset;position:fixed;right:40px}.baDropdownStyle.top_left{bottom:unset;top:40px;left:40px}.baDropdownStyle.barcurr-relative{left:auto;margin-left:10px;position:relative;bottom:auto}.baDropdownStyle.barcurr-relative .bacurr-dropdown-choices,.baDropdownStyle.top_left .bacurr-dropdown-choices,.baDropdownStyle.top_right .bacurr-dropdown-choices{bottom:unset;top:100%}.baDropdownStyle.barcurr-relative .bacurr-dropdown-choices,.baDropdownStyle.bottom_right .bacurr-dropdown-choices,.baDropdownStyle.top_right .bacurr-dropdown-choices{left:unset}@media screen and (max-width:768px){.baDropdownStyle.hideOnMobile{display:none!important}}@media (min-width:768px){.baDropdownStyle.desktopHidden{display:none!important}}.baDropdownStyle.bacurrSmallSize{transform:scale(.8)}@media (max-width:480px){.baDropdownStyle.mobBL{top:unset!important;bottom:20px!important;left:20px!important;right:unset!important}.baDropdownStyle.mobBR{top:unset!important;left:unset!important;position:fixed!important;bottom:20px!important;right:20px!important}.baDropdownStyle{position:fixed!important;bottom:20px;left:20px;top:unset;right:unset}.baDropdownStyle.mobTL{top:20px!important;left:20px!important;right:unset!important;bottom:unset!important}.baDropdownStyle.barcurr-mobile_relative{margin-left:10px!important;position:relative!important;bottom:auto!important;left:auto!important}.baDropdownStyle.mobTR{bottom:unset!important;top:20px!important;right:20px!important;left:unset!important}.baDropdownStyle.barcurr-mobile_relative .bacurr-dropdown-choices,.baDropdownStyle.mobTL .bacurr-dropdown-choices,.baDropdownStyle.mobTR .bacurr-dropdown-choices{bottom:unset!important;top:100%!important}.baDropdownStyle.barcurr-mobile_relative .bacurr-dropdown-choices,.baDropdownStyle.mobBR .bacurr-dropdown-choices,.baDropdownStyle.mobTR .bacurr-dropdown-choices{left:unset!important}.baDropdownStyle.mobBL .bacurr-dropdown-choices,.baDropdownStyle.mobTL .bacurr-dropdown-choices{left:0!important}}.baDropdownStyle .countryContainer{display:inline-block}.baDropdownStyle .bacurr-choice-invisible{display:none;visibility:hidden;padding-right:10px}.baDropdownStyle .bacurr-dropdownChoices{display:flex;align-items:center;position:relative;font-size:16px;color:var(--bacurrSelect-color);-webkit-text-fill-color:var(--bacurrSelect-color);width:auto!important;height:var(--bacurrSelect-height);text-align:left;cursor:pointer}.baDropdownStyle .bacurr-dropdownChoices .baCountry{display:inline-block;vertical-align:middle;width:30px;height:20px}.baDropdownStyle .bacurr-dropdownChoices span{margin:0 7px;font-size:14px}.baDropdownStyle .bacurr-dropdownChoices ::-webkit-scrollbar{width:.4em;height:.4em}.baDropdownStyle .bacurr-choiceDesign{font-size:15px;position:relative;background-color:var(--bacurrBackground);margin:0 auto;padding:7px;border-radius:5px;box-shadow:4px 4px 9px var(--bacurrShadow1),-4px -4px 9px var(--bacurrShadow1);display:flex;align-items:center;cursor:pointer;transition:all .5s ease-in;width:100%}.baDropdownStyle .bacurr-dropdownChoices ::-webkit-scrollbar-track-piece{background:var(--bacurrBackground)}.baDropdownStyle .bacurr-dropdownChoices ::-webkit-scrollbar-thumb{background:var(--bacurrSroll-bar-color)}.baDropdownStyle .bacurr-choiceDesign:after{border-radius:3px;display:flex;right:0;align-items:center;top:5px;margin:auto 0 auto auto;transition:all .2s cubic-bezier(1,-.29,1,1);content:"";width:auto;border:6px solid transparent;border-top:6px solid var(--bacurrArrow);position:relative}.baDropdownStyle .bacurr-choiceDesign.active:after,.baDropdownStyle .bacurr-choiceDesign:active:after{border-right-color:transparent;border-top-color:transparent;top:-3px;border-left-color:transparent;border-bottom-color:var(--bacurrSelect-color)}.baDropdownStyle .bacurr-dropdown-choices{background-color:var(--bacurrBackground);box-shadow:0 0 16px -5px var(--bacurrShadow2);margin:8px 0;padding:0;list-style:none;border-radius:7px;display:none;position:absolute;bottom:42px;top:auto;width:-webkit-max-content;width:-moz-max-content;width:max-content;right:0;left:0;z-index:999999999;max-height:302px;max-width:266px;overflow-y:auto;overflow-x:hidden}.baDropdownStyle.barcurr-showCurrencyOnly .bacurr-choiceDesign{width:auto!important}.baDropdownStyle.barcurr-showCurrencyOnly .ba-chosen{padding:0 4px}.baDropdownStyle.barcurr-showFlagOnly .ba-chosen{display:none!important}.baDropdownStyle.barcurr-showFlagOnly .bacurr-choiceDesign{width:auto!important}.baDropdownStyle .bacurr-dropdown-choices li{margin:0;padding:13px 14px;white-space:nowrap;border-top:1px solid var(--bacurrBorder-color);width:100%;transition:all .12s ease-in}.baDropdownStyle .bacurr-dropdown-choices li:hover{background:var(--bacurrHover-bg)}.baDropdownStyle .bacurr-dropdown-choices li[rel=hide]{display:none}.baDropdownStyle.borderLine .bacurr-choiceDesign{border:1px solid var(--bacurrBorder-color);box-shadow:none}.baDropdownStyle.noBorder .bacurr-choiceDesign{border:none;box-shadow:none}.baDropdownStyle .bacurrSelected{display:none}.baDropdownStyle.baCountry-circle .bacurr-dropdownChoices .baCountry{width:25px;height:25px;background-position-x:-7px;background-size:38px!important;border-radius:50px}.baDropdownStyle.baCountry-flat .bacurr-dropdownChoices .baCountry{border-radius:0!important}.baDropdownStyle.barcurr-showCurrencyOnly .bacurr-choiceDesign .baCountry{display:none!important;width:0!important} .baCurrMultiStyle{--bacurrLayer1:#eee;--bacurrLayer2:#eee}.baCurrMultiStyle.bacurrDark{--bacurrLayer1:#313131;--bacurrLayer2:#262626}.baCurrMultiStyle .bacurr-choiceDesign{box-shadow:-1px -1px 10px rgba(0,0,0,.15),0 1px 1px rgba(0,0,0,.15),0 9px 0 -5px var(--bacurrLayer1),0 9px 1px -4px rgba(0,0,0,.15),0 18px 0 -10px var(--bacurrLayer2),0 18px 1px -9px rgba(0,0,0,.15)!important}.baCurrMultiStyle .active{box-shadow:-1px -1px 10px rgba(0,0,0,.15),0 1px 1px rgba(0,0,0,.15),0 10px 0 -5px var(--bacurrLayer1),0 10px 1px -4px rgba(0,0,0,.15),0 20px 0 -10px var(--bacurrLayer2),0 20px 1px -9px rgba(0,0,0,.15)!important} @media(max-width:768px){ .baDropdownStyle.mobile_bottom_left:not(.hideOnMobile){all:unset!important;bottom:20px!important;left:20px!important;right:unset!important;position:fixed!important;display: flex!important;z-index:999999999999!important;  }  .baDropdownStyle.mobile_bottom_right:not(.hideOnMobile){all:unset!important;bottom:20px!important;right:20px!important;left:unset!important;position:fixed!important;display: flex!important;z-index:999999999999!important;  }  .baDropdownStyle.mobile_top_left:not(.hideOnMobile){bottom:unset!important;top:20px!important;left:20px!important;right:unset!important;position:fixed!important;display: flex!important;z-index:999999999999!important;}  .baDropdownStyle.mobile_top_right:not(.hideOnMobile){all:unset!important;top:20px!important;right:20px!important;left:unset!important;bottom:unset!important;direction:ltr;position:fixed!important;display: flex!important;z-index:999999999999!important;}} @media(max-width:768px){ .baDropdownStyle.mobile_top_left:not(.hideOnMobile) ul.bacurr-dropdown-choices{ left: 50px!important; }  @media(max-width:768px){ .baDropdownStyle.mobile_top_right:not(.hideOnMobile) ul.bacurr-dropdown-choices{ left: 50px!important; transform: translateX(-200px)!important; }  @media(max-width:768px){ .baDropdownStyle.mobile_bottom_left:not(.hideOnMobile) ul.bacurr-dropdown-choices{ top: -150px!important; left: 50px!important; important; max-height: 200px!important; overflow-y: scroll!important;  } } @media(max-width:768px){ .baCountry{ border-radius:0px!important } .baDropdownStyle.mobile_bottom_right:not(.hideOnMobile) ul.bacurr-dropdown-choices{ top: -150px!important; transform: translateX(-80px)!important; max-height: 200px!important; overflow-y: scroll!important;   } }</style><style></style><style></style><style></style><script src="https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/jquery-3-4.js?59" type="text/javascript"></script><style></style><style>.big-ol-cart-notice.bacurrDark{--barcurr-banner-color:#ffffff;--barcurr-banner-bg:#313132;--barcurr-banner-border:#223}.big-ol-cart-notice{font-size: 16px;position:relative;padding:.72rem 1.22rem;margin-bottom:1rem;border-radius:.25rem;border:1px solid transparent;text-align:center;--barcurr-banner-border:#b8daf2;--barcurr-banner-bg:#cce5f2;--barcurr-banner-color:#004082;color:var(--barcurr-banner-color);background-color:var(--barcurr-banner-bg)}.barcurr-onmouse-orig-val{transform:translateY(20px);transition:all .2s ease;position:absolute;opacity:0}.barcurr-money-show{text-transform:none;transition:all .3s ease-in-out;box-shadow:0 0 20px -3px #ccc,0 -7px 20px -15px #ccc;width:-webkit-max-content;width:-moz-max-content;width:max-content;display:block;border-radius:7px;background:#fff;font-size:15px;padding:7px 16px;top:2px;left:0;opacity:1;position:absolute;text-align:center;z-index:999999}.barcurr-money-show:after{border-color:#fff transparent;border-style:solid;border-width:0 7px 7px;top:-6px;content:"";display:block;left:31px;position:absolute}.bacurr-cur-blocker{display:inline!important;line-height:1}.bacurr-cur-block{display:inline-block!important;line-height:1}.barcurr-onwards-and-upwards{opacity:1;transform:translateY(0);-webkit-animation:barcurr-onwards-and-upwards .4s ease;animation:barcurr-onwards-and-upwards .4s ease}@-webkit-keyframes barcurr-onwards-and-upwards{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}@keyframes barcurr-onwards-and-upwards{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}span.bacurr-money{color:inherit!important;cursor:pointer} baDropdownStyle.bacurrDark{--bacurrHover-bg:#595959;--bacurrBackground:#404040;--bacurrSelect-color:#fff;--bacurrBorder-color:#313131;--bacurrShadow1:rgba(97, 97, 97, 0.24);--bacurrShadow2:rgba(96, 96, 96, 0.32);--bacurrArrow:#d7d8de;--bacurrSroll-bar-color:#4d4d4e}.baDropdownStyle{--bacurrSelect-height:40px;--bacurrBorder-color:hsla(0, 0%, 82%, 0.39);--bacurrShadow1:#e8e8e2;--bacurrShadow2:rgba(0, 0, 0, 0.15);--bacurrArrow:#474942;--bacurrSroll-bar-color:#e6e6e2;--bacurrHover-bg:#eceef2;all:unset;direction:ltr;position:fixed;bottom:40px;left:40px;z-index:999999999999;display:flex;align-items:center;--bacurrSelect-color:#222;--bacurrBackground:#fffff;--bacurrSelect-width:110px}.baDropdownStyle.top_right{top:40px;right:40px;left:unset;bottom:unset}.baDropdownStyle.bottom_right{bottom:40px;left:unset;position:fixed;right:40px}.baDropdownStyle.top_left{bottom:unset;top:40px;left:40px}.baDropdownStyle.barcurr-relative{left:auto;margin-left:10px;position:relative;bottom:auto}.baDropdownStyle.barcurr-relative .bacurr-dropdown-choices,.baDropdownStyle.top_left .bacurr-dropdown-choices,.baDropdownStyle.top_right .bacurr-dropdown-choices{bottom:unset;top:100%}.baDropdownStyle.barcurr-relative .bacurr-dropdown-choices,.baDropdownStyle.bottom_right .bacurr-dropdown-choices,.baDropdownStyle.top_right .bacurr-dropdown-choices{left:unset}@media screen and (max-width:768px){.baDropdownStyle.hideOnMobile{display:none!important}}@media (min-width:768px){.baDropdownStyle.desktopHidden{display:none!important}}.baDropdownStyle.bacurrSmallSize{transform:scale(.8)}@media (max-width:480px){.baDropdownStyle.mobBL{top:unset!important;bottom:20px!important;left:20px!important;right:unset!important}.baDropdownStyle.mobBR{top:unset!important;left:unset!important;position:fixed!important;bottom:20px!important;right:20px!important}.baDropdownStyle{position:fixed!important;bottom:20px;left:20px;top:unset;right:unset}.baDropdownStyle.mobTL{top:20px!important;left:20px!important;right:unset!important;bottom:unset!important}.baDropdownStyle.barcurr-mobile_relative{margin-left:10px!important;position:relative!important;bottom:auto!important;left:auto!important}.baDropdownStyle.mobTR{bottom:unset!important;top:20px!important;right:20px!important;left:unset!important}.baDropdownStyle.barcurr-mobile_relative .bacurr-dropdown-choices,.baDropdownStyle.mobTL .bacurr-dropdown-choices,.baDropdownStyle.mobTR .bacurr-dropdown-choices{bottom:unset!important;top:100%!important}.baDropdownStyle.barcurr-mobile_relative .bacurr-dropdown-choices,.baDropdownStyle.mobBR .bacurr-dropdown-choices,.baDropdownStyle.mobTR .bacurr-dropdown-choices{left:unset!important}.baDropdownStyle.mobBL .bacurr-dropdown-choices,.baDropdownStyle.mobTL .bacurr-dropdown-choices{left:0!important}}.baDropdownStyle .countryContainer{display:inline-block}.baDropdownStyle .bacurr-choice-invisible{display:none;visibility:hidden;padding-right:10px}.baDropdownStyle .bacurr-dropdownChoices{display:flex;align-items:center;position:relative;font-size:16px;color:var(--bacurrSelect-color);-webkit-text-fill-color:var(--bacurrSelect-color);width:auto!important;height:var(--bacurrSelect-height);text-align:left;cursor:pointer}.baDropdownStyle .bacurr-dropdownChoices .baCountry{display:inline-block;vertical-align:middle;width:30px;height:20px}.baDropdownStyle .bacurr-dropdownChoices span{margin:0 7px;font-size:14px}.baDropdownStyle .bacurr-dropdownChoices ::-webkit-scrollbar{width:.4em;height:.4em}.baDropdownStyle .bacurr-choiceDesign{font-size:15px;position:relative;background-color:var(--bacurrBackground);margin:0 auto;padding:7px;border-radius:5px;box-shadow:4px 4px 9px var(--bacurrShadow1),-4px -4px 9px var(--bacurrShadow1);display:flex;align-items:center;cursor:pointer;transition:all .5s ease-in;width:100%}.baDropdownStyle .bacurr-dropdownChoices ::-webkit-scrollbar-track-piece{background:var(--bacurrBackground)}.baDropdownStyle .bacurr-dropdownChoices ::-webkit-scrollbar-thumb{background:var(--bacurrSroll-bar-color)}.baDropdownStyle .bacurr-choiceDesign:after{border-radius:3px;display:flex;right:0;align-items:center;top:5px;margin:auto 0 auto auto;transition:all .2s cubic-bezier(1,-.29,1,1);content:"";width:auto;border:6px solid transparent;border-top:6px solid var(--bacurrArrow);position:relative}.baDropdownStyle .bacurr-choiceDesign.active:after,.baDropdownStyle .bacurr-choiceDesign:active:after{border-right-color:transparent;border-top-color:transparent;top:-3px;border-left-color:transparent;border-bottom-color:var(--bacurrSelect-color)}.baDropdownStyle .bacurr-dropdown-choices{background-color:var(--bacurrBackground);box-shadow:0 0 16px -5px var(--bacurrShadow2);margin:8px 0;padding:0;list-style:none;border-radius:7px;display:none;position:absolute;bottom:42px;top:auto;width:-webkit-max-content;width:-moz-max-content;width:max-content;right:0;left:0;z-index:999999999;max-height:302px;max-width:266px;overflow-y:auto;overflow-x:hidden}.baDropdownStyle.barcurr-showCurrencyOnly .bacurr-choiceDesign{width:auto!important}.baDropdownStyle.barcurr-showCurrencyOnly .ba-chosen{padding:0 4px}.baDropdownStyle.barcurr-showFlagOnly .ba-chosen{display:none!important}.baDropdownStyle.barcurr-showFlagOnly .bacurr-choiceDesign{width:auto!important}.baDropdownStyle .bacurr-dropdown-choices li{margin:0;padding:13px 14px;white-space:nowrap;border-top:1px solid var(--bacurrBorder-color);width:100%;transition:all .12s ease-in}.baDropdownStyle .bacurr-dropdown-choices li:hover{background:var(--bacurrHover-bg)}.baDropdownStyle .bacurr-dropdown-choices li[rel=hide]{display:none}.baDropdownStyle.borderLine .bacurr-choiceDesign{border:1px solid var(--bacurrBorder-color);box-shadow:none}.baDropdownStyle.noBorder .bacurr-choiceDesign{border:none;box-shadow:none}.baDropdownStyle .bacurrSelected{display:none}.baDropdownStyle.baCountry-circle .bacurr-dropdownChoices .baCountry{width:25px;height:25px;background-position-x:-7px;background-size:38px!important;border-radius:50px}.baDropdownStyle.baCountry-flat .bacurr-dropdownChoices .baCountry{border-radius:0!important}.baDropdownStyle.barcurr-showCurrencyOnly .bacurr-choiceDesign .baCountry{display:none!important;width:0!important} .baCurrMultiStyle{--bacurrLayer1:#eee;--bacurrLayer2:#eee}.baCurrMultiStyle.bacurrDark{--bacurrLayer1:#313131;--bacurrLayer2:#262626}.baCurrMultiStyle .bacurr-choiceDesign{box-shadow:-1px -1px 10px rgba(0,0,0,.15),0 1px 1px rgba(0,0,0,.15),0 9px 0 -5px var(--bacurrLayer1),0 9px 1px -4px rgba(0,0,0,.15),0 18px 0 -10px var(--bacurrLayer2),0 18px 1px -9px rgba(0,0,0,.15)!important}.baCurrMultiStyle .active{box-shadow:-1px -1px 10px rgba(0,0,0,.15),0 1px 1px rgba(0,0,0,.15),0 10px 0 -5px var(--bacurrLayer1),0 10px 1px -4px rgba(0,0,0,.15),0 20px 0 -10px var(--bacurrLayer2),0 20px 1px -9px rgba(0,0,0,.15)!important} @media(max-width:768px){ .baDropdownStyle.mobile_bottom_left:not(.hideOnMobile){all:unset!important;bottom:20px!important;left:20px!important;right:unset!important;position:fixed!important;display: flex!important;z-index:999999999999!important;  }  .baDropdownStyle.mobile_bottom_right:not(.hideOnMobile){all:unset!important;bottom:20px!important;right:20px!important;left:unset!important;position:fixed!important;display: flex!important;z-index:999999999999!important;  }  .baDropdownStyle.mobile_top_left:not(.hideOnMobile){bottom:unset!important;top:20px!important;left:20px!important;right:unset!important;position:fixed!important;display: flex!important;z-index:999999999999!important;}  .baDropdownStyle.mobile_top_right:not(.hideOnMobile){all:unset!important;top:20px!important;right:20px!important;left:unset!important;bottom:unset!important;direction:ltr;position:fixed!important;display: flex!important;z-index:999999999999!important;}} @media(max-width:768px){ .baDropdownStyle.mobile_top_left:not(.hideOnMobile) ul.bacurr-dropdown-choices{ left: 50px!important; }  @media(max-width:768px){ .baDropdownStyle.mobile_top_right:not(.hideOnMobile) ul.bacurr-dropdown-choices{ left: 50px!important; transform: translateX(-200px)!important; }  @media(max-width:768px){ .baDropdownStyle.mobile_bottom_left:not(.hideOnMobile) ul.bacurr-dropdown-choices{ top: -150px!important; left: 50px!important; important; max-height: 200px!important; overflow-y: scroll!important;  } } @media(max-width:768px){ .baCountry{ border-radius:0px!important } .baDropdownStyle.mobile_bottom_right:not(.hideOnMobile) ul.bacurr-dropdown-choices{ top: -150px!important; transform: translateX(-80px)!important; max-height: 200px!important; overflow-y: scroll!important;   } }</style><style></style><style></style><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/polyfills.CB1KJRlB.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/app.D76sHIn4.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/page-OnePage.DF-BZQr4.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/DeliveryMethodSelectorSection.DD1jqXWb.js" crossorigin=""><script type="text/javascript" async="" src="https://static-tracking.klaviyo.com/onsite/js/fender_analytics.bcac7f58cf9a9770bb02.js?cb=1&amp;v2-route=1" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://static-tracking.klaviyo.com/onsite/js/static.b75b0459cacc803751b4.js?cb=1&amp;v2-route=1" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://static.klaviyo.com/onsite/js/runtime.4a9cc4ffb2b180975ae1.js?cb=1&amp;v2-route=1" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://static.klaviyo.com/onsite/js/sharedUtils.058fed03b52a037fab17.js?cb=1&amp;v2-route=1" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms~onsite-triggering~customerHubRoot~renderWishlistButton~.668ea7f9a542b68405e6.js?cb=1&amp;v2-route=1" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms~reviews~atlas.0201e888d834a3782e3a.js?cb=1&amp;v2-route=1" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms.614dc0a9416c4e541dcc.js?cb=1&amp;v2-route=1" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://static.klaviyo.com/onsite/js/default~in_app_forms~signup_forms~onsite-triggering.0b3d85c7bfafd6ac6a48.js?cb=1&amp;v2-route=1" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://static.klaviyo.com/onsite/js/default~in_app_forms~signup_forms.37747e177c0651b95a93.js?cb=1&amp;v2-route=1" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://static.klaviyo.com/onsite/js/signup_forms.0ce870ac87d3e1a1730b.js?cb=1&amp;v2-route=1" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://static.klaviyo.com/onsite/js/event_adapter.9c6ff4ec605a8ad44584.js?cb=1&amp;v2-route=1" crossorigin="anonymous"></script><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useIsOriginatedFromShop.BuVkhFef.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/ShopPayLogo.Eq20br7i.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/VaultedPayment.LndIzrUh.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/LocalizationExtensionField.DsDdHvkt.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/ShopPayOptInDisclaimer.DmhhNMim.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/ShipmentBreakdown.C396b56q.js" crossorigin=""><script type="module" defer="" src="https://flore-flore.com/cdn/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js"></script><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/MerchandiseModal.BjkSE5Z9.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/StackedMerchandisePreview.r8Hemv93.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/PayButtonSection.Dwt4--mW.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/component-ShopPayVerificationSwitch.B6du7PFC.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useSubscribeMessenger.EPeCXf1h.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/index.Bwm8oLQc.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/app.StLsYNZx.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/OnePage.PMX4OSBO.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/DeliveryMethodSelectorSection.mzIofv1F.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/ShopPayLogo.DCOTvxC3.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/VaultedPayment.OxMVm7u-.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/StackedMerchandisePreview.CKAakmU8.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/ShopPayVerificationSwitch.DW7NMDXG.css" crossorigin=""><style id="kl-custom-fonts">
+
+@import 'https://use.typekit.net/pnm8cnn.css';
+@import 'https://use.typekit.net/oyt2dqb.css';
+
+@font-face {
+        font-family: 'ParnasoItalic'; 
+        src: url(https://cdn.shopify.com/s/files/1/0574/1474/6297/files/Parnaso-RegularItalic.woff?v=1674820283);
+        font-weight: 400;
+        font-style: italic;
+        font-display: swap;
+      }
+@font-face {
+        font-family: 'ParnasoMediumCondensed'; 
+        src: url(https://cdn.shopify.com/s/files/1/0574/1474/6297/files/Parnaso-MediumCondensed.woff?v=1674820293);
+        font-weight: 600;
+        font-style: normal;
+        font-display: swap;
+      }
+@font-face {
+        font-family: 'ParnasoNormal'; 
+        src: url(https://cdn.shopify.com/s/files/1/0574/1474/6297/files/Parnaso-Regular.woff?v=1674820288);
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+      }
+</style><link rel="prefetch" fetchpriority="low" as="image" href="https://cdn.shopify.com/s/files/1/0574/1474/6297/files/Asset_6CHECKOUTLOGO_x320.png?v=1732711943" crossorigin=""></head>
+
+  <body data-new-gr-c-s-check-loaded="14.1240.0" data-gr-ext-installed=""><section id="shopify-pc__banner" class="shopify-pc__banner__dialog" role="alertdialog" aria-modal="false" aria-labelledby="shopify-pc__banner__body-title" style="display: block;"><div class="shopify-pc__banner__wrapper"><div class="shopify-pc__banner__body"><h2 id="shopify-pc__banner__body-title">Cookies</h2><p>We use cookies to provide the best experience on our website. <a id="shopify-pc__banner__body-policy-link" href="https://flore-flore.myshopify.com/policies/privacy-policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a></p></div><div class="shopify-pc__banner__btns shopify-pc__banner__btns-granular"><button id="shopify-pc__banner__btn-manage-prefs" class="shopify-pc__banner__btn-manage-prefs" aria-haspopup="dialog" type="button"><span>Manage preferences</span></button><button id="shopify-pc__banner__btn-accept" class="shopify-pc__banner__btn-accept" type="button">Accept</button><button id="shopify-pc__banner__btn-decline" class="shopify-pc__banner__btn-decline" type="button">Decline</button></div></div></section>
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;position: absolute; width: 0; height: 0; overflow: hidden;" width="0" height="0">
+  <defs>
+  <symbol id="icon-logo" fill="currentColor" viewBox="0 0 96 66">
+    <path d="M33.88 16.262C33.88 7.852 38.919 0 45.306 0c6.388 0 11.251 6.988 11.251 15.487 0 8.5-4.3 16.35-11.294 16.35-7.384 0-11.381-6.601-11.381-15.574Zm18.113-.257c0-7.03-1.304-15.487-6.733-15.487-4.953 0-6.777 8.153-6.777 15.487s1.39 15.358 6.777 15.358c4.996 0 6.733-7.853 6.733-15.358ZM.865 30.5l-.869.819v.173h7.08v-.173l-.826-.82-.067-.066c-.347-.345-.54-.536-.54-1.186V15.27h4.91c1.519 0 2.039.646 2.474 1.768l.782 2.071h.261v-8.153h-.305l-.564 1.855c-.346 1.166-.912 1.726-2.562 1.726H5.643V2.154c0-.82.174-1.209.956-1.209h3.648c3.033 0 4.748 2.478 6.185 4.554.127.183.251.363.375.538l.304-.086L15.807.429H-.003v.173l.868.862c.39.346.563.563.563 1.166v26.617c0 .693-.171.863-.563 1.253Zm17.07 0-.869.819v.17H33.79l.912-6.168-.305-.086c-1.304 3.28-3.866 5.738-7.602 5.738h-2.65c-1.257 0-1.432-.69-1.432-1.466V2.63c0-.606.172-.82.564-1.166l.869-.862V.429h-7.08v.173l.869.862c.39.346.564.563.564 1.166v26.617c0 .693-.172.863-.564 1.253Zm40.14 0-.868.82v.173h7.08v-.173l-.826-.82c-.433-.389-.607-.605-.607-1.295V15.83h1.348l7.776 15.66h22.195l.912-6.168-.305-.086c-1.304 3.28-3.866 5.738-7.602 5.738h-2.692c-1.305 0-1.392-.776-1.392-1.552V15.27h4.91c1.519 0 2.039.647 2.474 1.769l.782 2.071h.261v-8.153h-.305l-.563 1.855c-.346 1.166-1 1.726-2.65 1.726h-4.909V2.155c0-.82.175-1.209.956-1.209h3.648c2.93 0 4.527 2.244 6.003 4.318.187.263.371.522.557.774l.305-.086L93.257.43h-15.81v.173l.868.862c.39.346.564.563.564 1.166v26.617c0 .693-.172.863-.564 1.252l-.866.817-.78-.69a7.23 7.23 0 0 1-1.261-1.897l-6.69-13.03c4.604-.516 7.166-3.277 7.166-7.247 0-5.909-4.081-8.023-8.903-8.023h-9.775v.173l.869.862c.39.346.563.563.563 1.166v26.617c0 .65-.171.863-.563 1.252Zm13.38-22.13c0 4.055-1.347 6.903-5.083 6.903h-3.518V2.07c0-.82.261-1.122 1.13-1.122h2.086c3.04 0 5.385 1.509 5.385 7.42ZM.865 64.66l-.869.82v.173h7.08v-.173l-.826-.82-.067-.066c-.347-.345-.54-.536-.54-1.185V49.43h4.91c1.519 0 2.039.646 2.474 1.768l.782 2.072h.261v-8.154h-.305l-.564 1.855c-.346 1.166-.912 1.726-2.562 1.726H5.643V36.315c0-.82.174-1.209.956-1.209h3.648c3.033 0 4.748 2.478 6.185 4.554.127.183.251.363.375.538l.304-.086-1.304-5.522H-.003v.173l.868.863c.39.346.563.562.563 1.165v26.618c0 .692-.171.862-.563 1.252Zm16.201.82.869-.82c.392-.389.564-.56.564-1.251V36.79c0-.603-.174-.82-.564-1.165l-.869-.863v-.173h7.08v.173l-.869.863c-.392.346-.564.56-.564 1.165v26.877c0 .776.175 1.466 1.433 1.466h2.65c3.735 0 6.297-2.458 7.601-5.738l.305.086-.912 6.169H17.066v-.171Zm28.24-31.319c-6.385 0-11.425 7.85-11.425 16.263 0 8.973 3.997 15.574 11.381 15.574 6.995 0 11.294-7.85 11.294-16.35 0-8.499-4.865-15.487-11.25-15.487Zm-.046.52c5.429 0 6.733 8.455 6.733 15.486 0 7.505-1.737 15.358-6.733 15.358-5.386 0-6.777-8.024-6.777-15.358 0-7.334 1.824-15.487 6.777-15.487Zm11.947 30.801.869-.82c.392-.389.563-.603.563-1.251V36.793c0-.603-.174-.82-.563-1.166l-.869-.862v-.173h9.775c4.822 0 8.903 2.114 8.903 8.023 0 3.97-2.562 6.731-7.166 7.248l6.69 13.029a7.23 7.23 0 0 0 1.26 1.898l.781.69.866-.817c.392-.39.564-.56.564-1.252V36.793c0-.603-.175-.82-.564-1.166l-.869-.862v-.173h15.811l1.305 5.522-.305.086c-.186-.252-.37-.511-.557-.774-1.476-2.074-3.073-4.318-6.002-4.318H84.05c-.781 0-.956.39-.956 1.21V48.7h4.91c1.65 0 2.303-.56 2.649-1.726l.563-1.855h.305v8.154h-.261l-.782-2.072c-.435-1.122-.955-1.769-2.475-1.769h-4.909v14.152c0 .776.087 1.552 1.392 1.552h2.692c3.736 0 6.298-2.458 7.602-5.738l.305.086-.912 6.169H71.978l-7.776-15.66h-1.348v13.374c0 .69.174.906.607 1.296l.825.819v.173h-7.079v-.173Zm9.165-16.05c3.736 0 5.083-2.847 5.083-6.903 0-5.912-2.344-7.42-5.385-7.42h-2.086c-.869 0-1.13.302-1.13 1.122v13.201h3.518Z"></path>
+  </symbol>
+  <symbol id="icon-mark" fill="none" viewBox="0 0 82 102">
+    <g clip-path="url(#a)">
+      <path fill="#353535" fill-rule="evenodd" d="M11.91 87.014C19.617 96.678 29.877 102 40.801 102v-.004c10.924 0 21.184-5.322 28.893-14.985C77.373 77.385 81.6 64.597 81.6 50.998c0-13.598-4.227-26.386-11.905-36.012C61.985 5.322 51.725 0 40.802 0 29.878 0 19.614 5.322 11.905 14.986 4.227 24.61 0 37.4 0 50.998c0 13.599 4.227 26.39 11.91 36.017ZM1.122 50.998c0-27.51 17.8-49.89 39.679-49.89s39.68 22.38 39.68 49.89-17.801 49.89-39.68 49.89-39.68-22.38-39.68-49.89Zm12.282 34.638c7.312 9.279 17.041 14.39 27.396 14.39v-.004c10.355 0 20.084-5.11 27.396-14.39 7.293-9.253 11.31-21.555 11.31-34.633 0-13.079-4.017-25.377-11.31-34.633-7.312-9.28-17.04-14.39-27.396-14.39-10.355 0-20.084 5.11-27.396 14.393-7.292 9.253-11.31 21.555-11.31 34.633 0 13.079 4.018 25.377 11.31 34.634ZM2.772 50.999c0-26.666 17.06-48.36 38.03-48.36 20.97 0 38.03 21.694 38.03 48.36 0 26.665-17.06 48.36-38.03 48.36-20.97 0-38.03-21.695-38.03-48.36Z" clip-rule="evenodd"></path>
+      <path fill="#231F20" d="m28.05 79.796 1.555-1.39c.699-.66 1.012-.954 1.012-2.122v-45.16c0-1.025-.31-1.39-1.012-1.975l-1.554-1.462v-.294h28.3l2.334 9.37-.546.146c-2.723-3.66-5.83-8.638-11.742-8.638h-6.529c-1.401 0-1.71.66-1.71 2.05v21.005H47.1c2.955 0 3.967-.95 4.586-2.929l1.012-3.147h.542v13.832h-.466l-1.398-3.513c-.778-1.903-1.71-3-4.432-3h-8.786v23.715c0 1.172.39 1.462 1.088 2.122l1.478 1.39v.294H28.05v-.294Z"></path>
+      <path fill="#353535" d="m26.738 78.628 1.566-1.383c.702-.656 1.015-.946 1.015-2.11V30.223c0-1.017-.313-1.383-1.015-1.963l-1.566-1.455v-.29H55.2l2.344 9.317-.546.143c-2.738-3.641-5.865-8.59-11.806-8.59h-6.568c-1.409 0-1.722.656-1.722 2.04v20.887h8.992c2.971 0 3.987-.946 4.613-2.91l1.016-3.128h.545v13.757h-.47l-1.408-3.494c-.783-1.892-1.722-2.985-4.456-2.985h-8.835v23.583c0 1.164.389 1.454 1.095 2.11l1.486 1.383v.29H26.734v-.29h.004Z"></path>
+    </g>
+    <defs>
+      <clipPath id="a">
+        <path fill="#fff" d="M0 0h81.6v102H0z"></path>
+      </clipPath>
+    </defs>
+  </symbol>
+  <symbol id="icon-cart" fill="none" viewBox="0 0 23 39">
+    <path stroke="#000" stroke-miterlimit="10" d="M11.542 3.905S9.423 1 7.321 1C5.96 1 6.027 2.497 6.165 2.83c.297.713 1.47 1.239 5.377 1.081"></path>
+    <path stroke="#000" stroke-miterlimit="10" d="M11.61 3.812s-.633.087-1.123.724c-.49.638-1.052 2.643-2.163 3.38-1.343.894-2.521.537-2.521.537"></path>
+    <path stroke="#000" stroke-miterlimit="10" d="M11.37 3.812s.632.087 1.122.724c.49.638 1.051 2.643 2.163 3.38 1.343.894 2.52.537 2.52.537"></path>
+    <path stroke="#000" stroke-miterlimit="10" d="M11.545 3.905S13.669 1 15.767 1c1.359 0 1.293 1.497 1.155 1.83-.297.713-1.47 1.239-5.377 1.081"></path>
+    <path fill="#000" fill-rule="evenodd" d="M1 5.084H.5v33.274h22.091V5.084h-6.697v1h5.697v31.274H1.5V6.084h5.703v-1H1Zm8.11 21.695-.28.287V27.136h2.306v-.059l-.27-.286a3.648 3.648 0 0 0-.028-.031c-.109-.12-.17-.186-.17-.408V21.49h1.597c.49 0 .66.222.803.614l.253.719h.083V19.98h-.1l-.18.643c-.116.409-.298.602-.837.602h-1.624v-4.308c0-.287.06-.421.314-.421h1.188c.984 0 1.542.858 2.01 1.578l.126.193.1-.03-.425-1.923H8.83v.059l.28.298c.127.117.182.193.182.403v9.266c0 .245-.055.304-.181.438Z" clip-rule="evenodd"></path>
+  </symbol>
+  <symbol id="icon-menu" fill="none" viewBox="0 0 14 11">
+    <path fill="#000" d="M0 10h14v1H0zM0 5h14v1H0zM0 0h14v1H0z"></path>
+  </symbol>
+  <symbol id="icon-close" fill="none" viewBox="0 0 11 11">
+    <path stroke="#000" d="m.354.646 10 10M.646 10.646l10-10"></path>
+  </symbol>
+  <symbol id="icon-chevron" fill="none" viewBox="0 0 11 11">
+    <path stroke="#000" d="M9.485 1.243 5.242 5.485 1 1.243"></path>
+  </symbol>
+  <symbol id="icon-carret" fill="none" viewBox="0 0 5 5">
+    <path fill="#8E8E8E" d="M2.59 4.564.504.406h4.158L2.59 4.564Z"></path>
+  </symbol>
+  </defs>
+</svg>
+
+
+    <div id="shopify-section-banner" class="shopify-section">
+
+
+</div>
+    <div id="shopify-section-header" class="shopify-section sticky inset-x-0 top-0 z-10 bg-background"><header x-data="header" x-resize="updateHeight($height)" class="border-y-4 border-black py-1">
+  <div class="relative flex w-full items-center justify-between border-y border-black px-3 py-[1.375rem] md:px-6 md:py-11 md:text-[0.875rem] md:leading-[1.2]">
+    
+      <nav role="navigation" aria-label="Main navigation" class="hidden md:block md:translate-y-[4px]">
+        <ul class="flex gap-6">
+          
+            
+              
+                <li>
+                  <button x-data="" aria-controls="menu" aria-label="Toggle menu" :aria-expanded="$store.global.menuOpen" @click="$store.global.open('menuOpen')" :class="{ 'underline': $store.global.menuOpen }" class="decoration-1 underline-offset-2 outline-none hover:underline" aria-expanded="false">
+                    Collection
+                  </button>
+                </li>
+              
+            
+          
+            
+              <li>
+                <a href="/pages/story" class="decoration-1 underline-offset-2 hover:underline">
+                  Story
+                </a>
+              </li>
+            
+          
+        </ul>
+      </nav>
+
+      <button x-data="" aria-controls="menu" aria-label="Toggle mobile menu" :aria-expanded="$store.global.menuOpen" @click="$store.global.open('menuOpen')" class="flex items-center justify-center md:hidden" aria-expanded="false">
+        <span x-show="!$store.global.menuOpen">
+          
+
+
+
+
+  <svg class="w-4 aspect-[5/4]">
+    <use xlink:href="#icon-menu"></use>
+  </svg>
+
+
+        </span>
+
+        <span x-show="$store.global.menuOpen" style="display: none;">
+          
+
+
+
+
+  <svg class="w-3.5 aspect-square">
+    <use xlink:href="#icon-close"></use>
+  </svg>
+
+
+        </span>
+      </button>
+    
+
+    <div class="absolute left-1/2 top-1/2 z-10 flex -translate-x-1/2 -translate-y-1/2">
+      <a href="/" aria-label="Go to homepage" class="md:flex md:translate-y-[2px] md:flex-col md:items-center md:gap-2">
+        
+
+
+
+
+  <svg class="h-12 aspect-[7/5] md:h-16">
+    <use xlink:href="#icon-logo"></use>
+  </svg>
+
+
+        <span class="hidden md:block md:-translate-x-[2px] md:italic md:-tracking-[0.01em]">
+          Cotton Classics
+        </span>
+      </a>
+    </div>
+
+    <nav role="navigation" aria-label="Secondary navigation" class="md:ml-auto md:translate-y-[4px]">
+      <ul class="flex gap-6">
+        <li class="hidden md:block">
+          
+            <a href="/account/login" class="decoration-1 underline-offset-2 hover:underline">
+              Account
+            </a>
+          
+        </li>
+
+        <li>
+          <button x-data="" aria-controls="search" aria-label="Toggle search" :aria-expanded="$store.global.searchOpen" @click="$store.global.open('searchOpen')" :class="{ 'underline': $store.global.searchOpen }" class="hidden decoration-1 underline-offset-2 outline-none hover:underline md:block" aria-expanded="false">
+            Search
+          </button>
+        </li>
+
+        <li>
+          <button x-data="" aria-controls="cart" aria-label="Toggle cart" :aria-expanded="$store.cart.active" @click="$store.cart.open()" aria-expanded="false">
+            <div class="relative">
+              <span class="select-none opacity-0">Cart</span>
+
+              <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 md:-translate-y-[65%]">
+                
+
+
+
+
+  <svg class="h-8 aspect-[9/16] md:h-9">
+    <use xlink:href="#icon-cart"></use>
+  </svg>
+
+
+
+                <sup class="absolute -right-2 top-0.5 text-[0.625rem] md:-right-2.5 md:top-2.5">
+                  <span x-text="$store.cart.count" x-show="$store.cart.count &gt; 0" style="display: none;">0</span>
+                </sup>
+              </div>
+            </div>
+          </button>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<div x-data="" id="menu" x-trap.noscroll="$store.global.menuOpen" x-show="$store.global.menuOpen" @click.outside="$store.global.close('menuOpen')" @keyup.escape="$store.global.close('menuOpen')" class="fixed left-0 top-[var(--offset)] h-[calc(100%-var(--offset))] w-full bg-grey/[0.95] p-3 pt-5 text-base leading-[1.5] text-yellow md:w-96 md:px-6 md:py-5" style="display: none;">
+  
+    <div class="hidden md:flex md:h-full md:flex-col md:justify-between md:gap-6">
+      <ul class="no-scroll h-full overflow-y-scroll">
+        
+  
+    
+      
+        <li>
+          <a href="/collections/new-arrivals" class="decoration-1 underline-offset-2 hover:underline">
+            New Arrivals
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/basics" class="decoration-1 underline-offset-2 hover:underline">
+            Basics
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/lightweight" class="decoration-1 underline-offset-2 hover:underline">
+            Lightweight
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/polos" class="decoration-1 underline-offset-2 hover:underline">
+            Polos
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/bodies" class="decoration-1 underline-offset-2 hover:underline">
+            Bodies
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/dresses-and-skirts" class="decoration-1 underline-offset-2 hover:underline">
+            Dresses &amp; Skirts
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/shirts" class="decoration-1 underline-offset-2 hover:underline">
+            Shirts
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/trousers" class="decoration-1 underline-offset-2 hover:underline">
+            Trousers
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/products/gift-card" class="decoration-1 underline-offset-2 hover:underline">
+            Gift Card
+          </a>
+        </li>
+      
+    
+  
+
+  
+
+
+      </ul>
+
+      
+        
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=3671" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=500 500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=720 720w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=960 960w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=1066 1066w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=1280 1280w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=1500 1500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=1800 1800w" width="3671" height="4590" loading="eager" class="aspect-square object-cover hidden [@media(min-height:768px)]:block" sizes="384px" fetchpriority="high">
+
+
+      
+    </div>
+
+    <div class="flex h-full flex-col justify-between gap-3 overflow-hidden md:hidden">
+      <div x-data="{ open: false }" class="no-scroll h-full min-h-0 shrink-0 basis-1/2 overflow-y-scroll">
+        <ul :class="open ? 'hidden': 'block'" class="flex h-full flex-col items-center block">
+          
+            
+              
+                <li>
+                  <button aria-controls="menu" aria-label="Open menu" :aria-expanded="open" @click="open = true" class="outline-none" aria-expanded="false">
+                    Collection
+                  </button>
+                </li>
+              
+            
+          
+            
+              <li>
+                <a href="/pages/story">
+                  Story
+                </a>
+              </li>
+            
+          
+
+          <li>
+            
+              <a href="/account/login">Account</a>
+            
+          </li>
+
+          <li>
+            <button x-data="" aria-controls="search" aria-label="Toggle search" :aria-expanded="$store.global.searchOpen" @click="$store.global.open('searchOpen')" aria-expanded="false">
+              Search
+            </button>
+          </li>
+        </ul>
+
+        <div x-show="open" class="flex flex-col items-center gap-6" style="display: none;">
+          <button @click="open = false" class="italic">Back</button>
+
+          <ul class="flex flex-col items-center">
+            
+  
+    
+      
+        <li>
+          <a href="/collections/new-arrivals" class="decoration-1 underline-offset-2 hover:underline">
+            New Arrivals
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/basics" class="decoration-1 underline-offset-2 hover:underline">
+            Basics
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/lightweight" class="decoration-1 underline-offset-2 hover:underline">
+            Lightweight
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/polos" class="decoration-1 underline-offset-2 hover:underline">
+            Polos
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/bodies" class="decoration-1 underline-offset-2 hover:underline">
+            Bodies
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/dresses-and-skirts" class="decoration-1 underline-offset-2 hover:underline">
+            Dresses &amp; Skirts
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/shirts" class="decoration-1 underline-offset-2 hover:underline">
+            Shirts
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/collections/trousers" class="decoration-1 underline-offset-2 hover:underline">
+            Trousers
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/products/gift-card" class="decoration-1 underline-offset-2 hover:underline">
+            Gift Card
+          </a>
+        </li>
+      
+    
+  
+
+  
+
+
+          </ul>
+        </div>
+      </div>
+
+      
+        
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=3671" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=500 500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=720 720w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=960 960w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=1066 1066w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=1280 1280w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=1500 1500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_CORE_1_copy.jpg?v=1732195095&amp;width=1800 1800w" width="3671" height="4590" loading="lazy" class="aspect-square object-cover hidden [@media(min-height:768px)]:block" sizes="100vw" fetchpriority="auto">
+
+
+      
+    </div>
+  
+</div>
+
+
+
+</div>
+    <div id="shopify-section-cart" class="shopify-section"><div x-data="" id="cart" x-trap.noscroll="$store.cart.active" x-show="$store.cart.active" @click.outside="$store.cart.close()" @keyup.escape="$store.global.close()" x-transition:enter="duration-500 transition-transform ease-in-out transform" x-transition:enter-start="translate-x-full" x-transition:enter-end="" x-transition:leave="duration-500 transition-transform ease-in-out transform" x-transition:leave-start="" x-transition:leave-end="translate-x-full" class="fixed right-0 top-[var(--offset)] z-10 h-[calc(100%-var(--offset))] w-full bg-mauve/[0.98] p-3 text-[0.875rem] leading-[1.2] text-yellow md:w-96 md:px-6 md:py-5" style="display: none;">
+  <div class="flex h-full flex-col">
+    <div class="flex justify-between">
+      <div class="flex gap-1">
+        <h3>Cart</h3>
+        <span x-show="$store.cart.count &gt; 0" x-text="$store.cart.count" class="before:content-['('] after:content-[')']" style="display: none;">0</span>
+      </div>
+
+      <button @click="$store.cart.close()" class="italic outline-none">Close</button>
+    </div>
+
+    
+
+    <div class="relative mt-[4.75rem] h-full border-t border-yellow/50 md:mt-[9.875rem]">
+      <template x-if="$store.cart.count &gt; 0">
+        <div class="absolute inset-0">
+          <div class="no-scroll h-full overflow-y-scroll">
+            <div class="mt-3 flex flex-col gap-2.5 pb-[9.875rem]">
+              <template x-for="line in $store.cart.cartLines" :key="line.key">
+                <div x-data="cartLine" class="grid grid-cols-3 gap-6">
+  <a :href="line.url" :aria-label="line.title">
+    <img :alt="line.title" :src="line.image" width="94" height="114" class="aspect-[4/5] object-cover">
+  </a>
+
+  <div class="col-span-2 flex flex-col justify-between md:pb-0.5">
+    <div class="flex flex-col">
+      <h2 x-text="line.properties._title"></h2>
+      <span x-text="line.variant_title"></span>
+      <span x-money="line.final_line_price" class="mt-2 italic"></span>
+    </div>
+
+    <div class="flex justify-between">
+      <div class="flex items-center gap-5">
+        <button type="button" @click="decreaseQty(line.id, line.quantity)">
+          -
+        </button>
+        <span x-text="line.quantity"></span>
+        <button type="button" @click="increaseQty(line.id, line.quantity)">
+          +
+        </button>
+      </div>
+
+      <button @click="remove(line.id)" aria-label="Remove item" class="italic underline decoration-1 underline-offset-2 opacity-50 hover:opacity-100">
+        Remove
+      </button>
+    </div>
+  </div>
+</div>
+
+              </template>
+            </div>
+          </div>
+
+          <div class="sticky bottom-0 -mx-4 bg-mauve md:-mx-6">
+            <div class="flex w-full flex-col gap-[0.3125rem] p-3 md:px-6 md:py-5">
+              
+      <button @click="$store.cart.close()" class="flex w-full items-center justify-center border border-yellow bg-mauve p-2.5 text-center text-yellow ring-1 ring-inset ring-yellow ring-offset-[3px] ring-offset-mauve">
+        <span class="translate-y-[2px]">Continue Shopping</span>
+      </button>
+      
+
+              <form method="post" action="/cart" enctype="multipart/form-data">
+                <input type="hidden" name="form_type" value="cart">
+                <button type="submit" name="checkout" class="flex w-full items-center justify-center border border-grey bg-grey p-2.5 text-center text-yellow ring-1 ring-inset ring-yellow ring-offset-[3px] ring-offset-grey">
+                  <div class="translate-y-[2px]">
+                    Checkout –
+                    <span x-money="$store.cart.totalPrice">€0.00</span>
+                  </div>
+                </button>
+              </form>
+
+              
+                <div class="mt-[0.3125rem]">
+                  <div class="text-center text-[0.6875rem] italic leading-[1.2] -tracking-[0.02em] [&amp;_a]:underline [&amp;_a]:decoration-[0.01em] [&amp;_a]:underline-offset-2">
+                    <p>By proceeding to the checkout, I agree to the <a href="/pages/shipping-returns" title="Shipping &amp; Returns">shipping and returns policy</a> and general <a href="/pages/terms-conditions" title="Terms &amp; Conditions">terms and conditions</a>.</p>
+                  </div>
+                </div>
+              
+            </div>
+          </div>
+        </div>
+      </template>
+
+      <template x-if="$store.cart.count === 0">
+        <div class="absolute inset-0">
+          <div class="mt-3 flex h-full flex-col">
+            <p class="flex-1 text-center">Your cart is empty</p>
+          </div>
+
+          <div class="sticky bottom-0 -mx-4 bg-mauve md:-mx-6">
+            <div class="flex w-full flex-col gap-[0.3125rem] p-3 md:px-6 md:py-5">
+              
+      <button @click="$store.cart.close()" class="flex w-full items-center justify-center border border-yellow bg-mauve p-2.5 text-center text-yellow ring-1 ring-inset ring-yellow ring-offset-[3px] ring-offset-mauve">
+        <span class="translate-y-[2px]">Continue Shopping</span>
+      </button>
+      
+            </div>
+          </div>
+        </div>
+      </template><div class="absolute inset-0">
+          <div class="mt-3 flex h-full flex-col">
+            <p class="flex-1 text-center">Your cart is empty</p>
+          </div>
+
+          <div class="sticky bottom-0 -mx-4 bg-mauve md:-mx-6">
+            <div class="flex w-full flex-col gap-[0.3125rem] p-3 md:px-6 md:py-5">
+              
+      <button @click="$store.cart.close()" class="flex w-full items-center justify-center border border-yellow bg-mauve p-2.5 text-center text-yellow ring-1 ring-inset ring-yellow ring-offset-[3px] ring-offset-mauve">
+        <span class="translate-y-[2px]">Continue Shopping</span>
+      </button>
+      
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+
+
+</div>
+    <div id="shopify-section-search" class="shopify-section"><div x-data="" id="search" x-trap.noscroll="$store.global.searchOpen" x-show="$store.global.searchOpen" @click.outside="$store.global.close('searchOpen')" @keyup.escape="$store.global.close('searchOpen')" class="fixed inset-x-0 top-[var(--offset)] z-10 h-[calc(100%-var(--offset))] bg-mauve/[0.98] text-yellow md:h-auto" style="display: none;">
+  <div class="flex h-full items-center justify-center px-3 md:min-h-[12rem] md:px-6">
+    <div class="mx-auto w-full max-w-96 text-[0.875rem] leading-[1.2]">
+      <form action="/search">
+  <fieldset class="flex justify-between gap-2 border-b border-yellow">
+    <input type="hidden" readonly="" name="type" value="product">
+    <div class="w-full">
+      <label for="search" class="sr-only">Search</label>
+      <input type="text" id="search" name="q" value="" class="w-full bg-transparent outline-none">
+    </div>
+    <button type="submit" class="whitespace-nowrap">Search</button>
+  </fieldset>
+</form>
+
+    </div>
+  </div>
+</div>
+</div>
+
+    <main>
+      <div id="shopify-section-template--22592393183561__main" class="shopify-section">
+
+<div class="grid flex-1 gap-5 p-3 pb-10 md:grid-cols-12 md:items-start md:gap-6 md:px-6 md:pt-8">
+  <div class="md:col-span-7 lg:col-span-6 lg:col-start-2">
+    
+      <div x-data="carousel" style="--carousel-height: 861.328125px;" class="md:grid md:grid-cols-7 md:gap-6 lg:grid-cols-6">
+  <div x-ref="thumbs" class="md:animate-fade hidden md:block md:overflow-hidden">
+    <div class="-mt-2.5 flex max-h-[var(--carousel-height)] touch-pan-x select-none flex-col" style="transform: translate3d(0px, 0px, 0px);">
+      
+        
+        <div :style="{ opacity: currentIndex === 0 ? 1 : 0.2 }" class="min-h-0 shrink-0 grow-0 basis-full pt-2.5 opacity-100" style="opacity: 1;">
+          <button @click="scrollTo(0)" class="flex">
+            
+              
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350&amp;width=1080" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350&amp;width=500 500w" width="1080" height="1350" loading="eager" class="aspect-[6/7] object-cover" sizes="8.33vw" fetchpriority="high">
+
+
+            
+          </button>
+        </div>
+      
+        
+        <div :style="{ opacity: currentIndex === 1 ? 1 : 0.2 }" class="min-h-0 shrink-0 grow-0 basis-full pt-2.5 opacity-20" style="opacity: 0.2;">
+          <button @click="scrollTo(1)" class="flex">
+            
+              
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_2.jpg?v=1748960354&amp;width=1080" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_2.jpg?v=1748960354&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_2.jpg?v=1748960354&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_2.jpg?v=1748960354&amp;width=500 500w" width="1080" height="1350" loading="eager" class="aspect-[6/7] object-cover" sizes="8.33vw" fetchpriority="high">
+
+
+            
+          </button>
+        </div>
+      
+        
+        <div :style="{ opacity: currentIndex === 2 ? 1 : 0.2 }" class="min-h-0 shrink-0 grow-0 basis-full pt-2.5 opacity-20" style="opacity: 0.2;">
+          <button @click="scrollTo(2)" class="flex">
+            
+              
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=1400" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=165 165w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=360 360w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=500 500w" width="1400" height="1750" loading="eager" class="aspect-[6/7] object-cover" sizes="8.33vw" fetchpriority="high">
+
+
+            
+          </button>
+        </div>
+      
+        
+        <div :style="{ opacity: currentIndex === 3 ? 1 : 0.2 }" class="min-h-0 shrink-0 grow-0 basis-full pt-2.5 opacity-20" style="opacity: 0.2;">
+          <button @click="scrollTo(3)" class="flex">
+            
+              
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=1400" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=165 165w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=360 360w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=500 500w" width="1400" height="1750" loading="eager" class="aspect-[6/7] object-cover" sizes="8.33vw" fetchpriority="high">
+
+
+            
+          </button>
+        </div>
+      
+        
+        <div :style="{ opacity: currentIndex === 4 ? 1 : 0.2 }" class="min-h-0 shrink-0 grow-0 basis-full pt-2.5 opacity-20" style="opacity: 0.2;">
+          <button @click="scrollTo(4)" class="flex">
+            
+              
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=1400" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=165 165w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=360 360w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=500 500w" width="1400" height="1750" loading="eager" class="aspect-[6/7] object-cover" sizes="8.33vw" fetchpriority="high">
+
+
+            
+          </button>
+        </div>
+      
+        
+        <div :style="{ opacity: currentIndex === 5 ? 1 : 0.2 }" class="min-h-0 shrink-0 grow-0 basis-full pt-2.5 opacity-20" style="opacity: 0.2;">
+          <button @click="scrollTo(5)" class="flex">
+            
+              
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=1400" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=165 165w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=360 360w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=500 500w" width="1400" height="1750" loading="eager" class="aspect-[6/7] object-cover" sizes="8.33vw" fetchpriority="high">
+
+
+            
+          </button>
+        </div>
+      
+    </div>
+  </div>
+
+  <div x-ref="container" x-resize="setHeight($height)" class="overflow-hidden md:col-span-6 lg:col-span-5">
+    <div class="-ml-3 flex touch-pan-y select-none md:-ml-6" style="transform: translate3d(0px, 0px, 0px);">
+      
+        <div class="min-w-0 shrink-0 grow-0 basis-full pl-3 md:pl-6" style="transform: translate3d(0px, 0px, 0px);">
+          
+            
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350&amp;width=1080" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350&amp;width=500 500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350&amp;width=720 720w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350&amp;width=960 960w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350&amp;width=1066 1066w" width="1080" height="1350" loading="eager" class="aspect-[3/4] object-cover" sizes="(min-width: 768px) 42vw, 100vw" fetchpriority="high">
+
+
+          
+        </div>
+      
+        <div class="min-w-0 shrink-0 grow-0 basis-full pl-3 md:pl-6">
+          
+            
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_2.jpg?v=1748960354&amp;width=1080" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_2.jpg?v=1748960354&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_2.jpg?v=1748960354&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_2.jpg?v=1748960354&amp;width=500 500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_2.jpg?v=1748960354&amp;width=720 720w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_2.jpg?v=1748960354&amp;width=960 960w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_White_2.jpg?v=1748960354&amp;width=1066 1066w" width="1080" height="1350" loading="eager" class="aspect-[3/4] object-cover" sizes="(min-width: 768px) 42vw, 100vw" fetchpriority="high">
+
+
+          
+        </div>
+      
+        <div class="min-w-0 shrink-0 grow-0 basis-full pl-3 md:pl-6">
+          
+            
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=1400" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=165 165w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=360 360w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=500 500w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=720 720w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=960 960w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=1066 1066w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13756_157.jpg?v=1748960356&amp;width=1280 1280w" width="1400" height="1750" loading="eager" class="aspect-[3/4] object-cover" sizes="(min-width: 768px) 42vw, 100vw" fetchpriority="high">
+
+
+          
+        </div>
+      
+        <div class="min-w-0 shrink-0 grow-0 basis-full pl-3 md:pl-6">
+          
+            
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=1400" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=165 165w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=360 360w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=500 500w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=720 720w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=960 960w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=1066 1066w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13784_159.jpg?v=1748960359&amp;width=1280 1280w" width="1400" height="1750" loading="eager" class="aspect-[3/4] object-cover" sizes="(min-width: 768px) 42vw, 100vw" fetchpriority="high">
+
+
+          
+        </div>
+      
+        <div class="min-w-0 shrink-0 grow-0 basis-full pl-3 md:pl-6">
+          
+            
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=1400" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=165 165w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=360 360w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=500 500w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=720 720w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=960 960w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=1066 1066w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13782_158.jpg?v=1748960361&amp;width=1280 1280w" width="1400" height="1750" loading="eager" class="aspect-[3/4] object-cover" sizes="(min-width: 768px) 42vw, 100vw" fetchpriority="high">
+
+
+          
+        </div>
+      
+        <div class="min-w-0 shrink-0 grow-0 basis-full pl-3 md:pl-6">
+          
+            
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=1400" alt="ESMÉ TANK | White" srcset="//flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=165 165w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=360 360w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=500 500w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=720 720w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=960 960w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=1066 1066w, //flore-flore.com/cdn/shop/files/250320_FLOREFLORE_E-COMM_13804_160.jpg?v=1748960364&amp;width=1280 1280w" width="1400" height="1750" loading="eager" class="aspect-[3/4] object-cover" sizes="(min-width: 768px) 42vw, 100vw" fetchpriority="high">
+
+
+          
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+    
+  </div>
+
+  <div x-data="productVariant('48543681216841')" @variant:change.window="setVariant($event.detail)" class="md:sticky md:top-[calc(var(--offset-init)+1.5rem)] md:col-span-5 lg:col-span-3 lg:col-start-9">
+    <div class="flex flex-col gap-5 md:mt-[12vmax] md:gap-10 lg:mx-auto lg:max-w-96">
+      <div class="flex justify-between text-[1.375rem] leading-none">
+        <h2>Esmé Tank</h2>
+
+
+        
+          
+
+
+  <span class="italic">€85</span>
+
+
+        
+      </div>
+
+      
+
+
+
+
+  <div class="flex flex-col gap-5 md:gap-6">
+    
+      
+
+<div class="flex flex-col gap-2">
+  <div class="flex text-[0.875rem] italic leading-[1.2]">
+    <h2 class="whitespace-nowrap">Core Collection</h2>
+
+    
+    
+
+    
+      
+    
+      
+        
+        
+
+    
+      <span class="whitespace-nowrap before:mx-1.5 before:content-['–']">White</span>
+    
+  </div>
+
+  <ul class="flex flex-wrap gap-4">
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-black?variant=48544062505289">
+          <div style="
+              background-color: #000000;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Black</span>
+          </div>
+        </a>
+      </li>
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-white?variant=48543681216841">
+          <div style="
+              background-color: #ffffff;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] !shadow-[0_0_0_1px_#000] ring-1 ring-inset ring-offset-[1px] ring-white">
+            <span class="sr-only">White</span>
+          </div>
+        </a>
+      </li>
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-navy?variant=48544142426441">
+          <div style="
+              background-color: #132257;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Navy</span>
+          </div>
+        </a>
+      </li>
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-heather-grey?variant=48543618335049">
+          <div style="
+              background-color: #dddddd;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Heather Grey</span>
+          </div>
+        </a>
+      </li>
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-off-white?variant=48544081281353">
+          <div style="
+              background-color: #e8ded2;
+              box-shadow: 0 0 0 1px #e7e7e7;
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Off White</span>
+          </div>
+        </a>
+      </li>
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-red?variant=49452024725833">
+          <div style="
+              background-color: #a70d27;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Red</span>
+          </div>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+    
+
+    
+      
+
+<div class="flex flex-col gap-2">
+  <div class="flex text-[0.875rem] italic leading-[1.2]">
+    <h2 class="whitespace-nowrap">Seasonal Collection</h2>
+
+    
+    
+
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+
+    
+  </div>
+
+  <ul class="flex flex-wrap gap-4">
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-cherry?variant=52346888814921">
+          <div style="
+              background-color: #77142e;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Cherry</span>
+          </div>
+        </a>
+      </li>
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-mushroom?variant=52347010384201">
+          <div style="
+              background-color: #616159;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Mushroom</span>
+          </div>
+        </a>
+      </li>
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-baby-pink?variant=51969369145673">
+          <div style="
+              background-color: #f3e4e7;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Baby Pink</span>
+          </div>
+        </a>
+      </li>
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-butter?variant=48601321931081">
+          <div style="
+              background-color: #fff3c9;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Butter</span>
+          </div>
+        </a>
+      </li>
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-flore-blue?variant=48543543329097">
+          <div style="
+              background-color: #768acf;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Flore Blue</span>
+          </div>
+        </a>
+      </li>
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-raspberry?variant=51969454473545">
+          <div style="
+              background-color: #ce3f51;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Raspberry</span>
+          </div>
+        </a>
+      </li>
+    
+      
+
+      <li>
+        <a href="/products/esme-tank-crocus?variant=49195444240713">
+          <div style="
+              background-color: #d28abc;
+              
+            " class="h-[1.125rem] w-[0.875rem] rounded-[50%] ">
+            <span class="sr-only">Crocus</span>
+          </div>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+    
+  </div>
+
+
+
+      <div class="flex flex-col gap-16 md:gap-3">
+        
+
+<div x-data="{ index: 0 }" class="order-last flex flex-col gap-2 text-[0.875rem] leading-[1.2] md:order-none">
+  <div class="flex gap-[1.875rem]">
+    
+      <button @click="index = 0" :style="index !== 0 &amp;&amp; { color: '#959EA3', 'text-decoration-line': 'none' }" class="whitespace-nowrap italic text-black underline decoration-1 underline-offset-2" style="false">
+        Details
+      </button>
+    
+    
+      <button @click="index = 1" :style="index === 1  &amp;&amp; { color: '#000' }" :class="{ 'underline underline-offset-2 decoration-1': index === 1 }" class="whitespace-nowrap italic text-grey" style="false">
+        Material Care
+      </button>
+    
+    
+      <button @click="index = 2" :style="index === 2  &amp;&amp; { color: '#000' }" :class="{ 'underline underline-offset-2 decoration-1': index === 2 }" class="whitespace-nowrap italic text-grey" style="false">
+        Size Guide
+      </button>
+    
+  </div>
+
+  <div>
+    
+      <div :class="index === 0 ? 'block' : 'hidden'" class="block">
+        <div class="metafield-rich_text_field"><p>A fitted crew neck tank with scooped-out armholes and a cut-off seam on the back, crafted from medium-weight organic cotton rib. Layer or wear on its own.</p></div>
+      </div>
+    
+
+    
+      <div :class="index === 1 ? 'block' : 'hidden'" class="hidden">
+        <div class="metafield-rich_text_field"><p>100% Organic Cotton<br>
+Made in Portugal<br>
+Wash at or below 30°C<br>
+Do not tumble dry<br>
+Iron low</p></div>
+      </div>
+    
+
+    
+      <div :class="index === 2 ? 'block' : 'hidden'" class="hidden">
+        
+          <div class="rt mb-2">
+            <div class="metafield-rich_text_field"><p>Our FLORE FLORE silhouettes are designed to be fitted. If you are in between sizes, we recommend sizing up.<br>
+<br>
+Marie is 172cm and wears our Esmé Tank in White in a Small.</p></div>
+          </div>
+        
+
+        
+          <table class="w-full table-auto">
+            
+              <tbody><tr>
+                
+                  <td>Esmé Tank</td>
+                
+                  <td>XS</td>
+                
+                  <td>S</td>
+                
+                  <td>M</td>
+                
+                  <td>L</td>
+                
+                  <td>XL</td>
+                
+              </tr>
+            
+              <tr>
+                
+                  <td>Length</td>
+                
+                  <td>52.5</td>
+                
+                  <td>54</td>
+                
+                  <td>56.5</td>
+                
+                  <td>58</td>
+                
+                  <td>59.5</td>
+                
+              </tr>
+            
+              <tr>
+                
+                  <td>Chest</td>
+                
+                  <td>65</td>
+                
+                  <td>69</td>
+                
+                  <td>73</td>
+                
+                  <td>77</td>
+                
+                  <td>81</td>
+                
+              </tr>
+            
+              <tr>
+                
+                  <td>Armhole</td>
+                
+                  <td>15.5</td>
+                
+                  <td>16</td>
+                
+                  <td>16.5</td>
+                
+                  <td>17</td>
+                
+                  <td>17.5</td>
+                
+              </tr>
+            
+          </tbody></table>
+        
+      </div>
+    
+  </div>
+</div>
+
+
+        <div class="flex flex-col gap-y-2 text-[0.875rem] leading-[1.2]">
+          
+
+
+  <div x-data="productVariantPickerCustom" class="relative">
+    <button x-ref="button" @click="toggle()" class="flex min-h-[2.3rem] w-full items-center justify-between border border-grey bg-background px-4 py-2">
+      <span x-text="selected ? selected : 'Select Size'" :style="selected &amp;&amp; { 'font-style': 'normal', color: '#000' }" class="translate-y-[3px] italic text-[#8E8E8E]" style="null">Select Size</span>
+
+      <span :class="{ 'rotate-180': open }">
+        
+
+
+
+
+  <svg class="w-[0.375rem] aspect-square">
+    <use xlink:href="#icon-carret"></use>
+  </svg>
+
+
+      </span>
+    </button>
+
+    <div x-show="open" x-trap="open" x-anchor.bottom-start.offset.-1="$refs.button" @click.outside="close()" class="w-full" style="display: none; left: 12px; top: 1182.72px; position: absolute;">
+      <ul class="flex flex-col gap-[0.3125rem] border border-grey bg-background px-4 pb-2 pt-4">
+        
+          <li>
+            <a href="#" @click.prevent="updateVariant('XS', '48543681216841')" class="uppercase decoration-1 underline-offset-2 hover:underline">XS</a>
+          </li>
+        
+          <li>
+            <a href="#" @click.prevent="updateVariant('S', '48543681249609')" class="uppercase decoration-1 underline-offset-2 hover:underline">S</a>
+          </li>
+        
+          <li>
+            <a href="#" @click.prevent="updateVariant('M', '48543681282377')" class="uppercase decoration-1 underline-offset-2 hover:underline">M</a>
+          </li>
+        
+          <li>
+            <a href="#" @click.prevent="updateVariant('L', '48543681315145')" class="uppercase decoration-1 underline-offset-2 hover:underline">L</a>
+          </li>
+        
+          <li>
+            <a href="#" @click.prevent="updateVariant('XL', '48543681347913')" class="uppercase decoration-1 underline-offset-2 hover:underline">XL</a>
+          </li>
+        
+      </ul>
+    </div>
+
+    <script type="application/json">
+      [{"id":48543681216841,"title":"White \/ XS","option1":"White","option2":"XS","option3":null,"sku":"ESM-TA-WH-XS","requires_shipping":true,"taxable":true,"featured_image":{"id":61442822963529,"product_id":8638347706697,"position":1,"created_at":"2025-06-03T16:19:10+02:00","updated_at":"2025-06-03T16:19:10+02:00","alt":null,"width":1080,"height":1350,"src":"\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350","variant_ids":[48543681216841,48543681249609,48543681282377,48543681315145,48543681347913]},"available":true,"name":"ESMÉ TANK | White - White \/ XS","public_title":"White \/ XS","options":["White","XS"],"price":8500,"weight":50,"compare_at_price":null,"inventory_management":"shopify","barcode":"6090427321349","featured_media":{"alt":null,"id":52107346477385,"position":1,"preview_image":{"aspect_ratio":0.8,"height":1350,"width":1080,"src":"\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":48543681249609,"title":"White \/ S","option1":"White","option2":"S","option3":null,"sku":"ESM-TA-WH-S","requires_shipping":true,"taxable":true,"featured_image":{"id":61442822963529,"product_id":8638347706697,"position":1,"created_at":"2025-06-03T16:19:10+02:00","updated_at":"2025-06-03T16:19:10+02:00","alt":null,"width":1080,"height":1350,"src":"\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350","variant_ids":[48543681216841,48543681249609,48543681282377,48543681315145,48543681347913]},"available":true,"name":"ESMÉ TANK | White - White \/ S","public_title":"White \/ S","options":["White","S"],"price":8500,"weight":50,"compare_at_price":null,"inventory_management":"shopify","barcode":"6090427491424","featured_media":{"alt":null,"id":52107346477385,"position":1,"preview_image":{"aspect_ratio":0.8,"height":1350,"width":1080,"src":"\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":48543681282377,"title":"White \/ M","option1":"White","option2":"M","option3":null,"sku":"ESM-TA-WH-M","requires_shipping":true,"taxable":true,"featured_image":{"id":61442822963529,"product_id":8638347706697,"position":1,"created_at":"2025-06-03T16:19:10+02:00","updated_at":"2025-06-03T16:19:10+02:00","alt":null,"width":1080,"height":1350,"src":"\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350","variant_ids":[48543681216841,48543681249609,48543681282377,48543681315145,48543681347913]},"available":true,"name":"ESMÉ TANK | White - White \/ M","public_title":"White \/ M","options":["White","M"],"price":8500,"weight":50,"compare_at_price":null,"inventory_management":"shopify","barcode":"6090429913962","featured_media":{"alt":null,"id":52107346477385,"position":1,"preview_image":{"aspect_ratio":0.8,"height":1350,"width":1080,"src":"\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":48543681315145,"title":"White \/ L","option1":"White","option2":"L","option3":null,"sku":"ESM-TA-WH-L","requires_shipping":true,"taxable":true,"featured_image":{"id":61442822963529,"product_id":8638347706697,"position":1,"created_at":"2025-06-03T16:19:10+02:00","updated_at":"2025-06-03T16:19:10+02:00","alt":null,"width":1080,"height":1350,"src":"\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350","variant_ids":[48543681216841,48543681249609,48543681282377,48543681315145,48543681347913]},"available":true,"name":"ESMÉ TANK | White - White \/ L","public_title":"White \/ L","options":["White","L"],"price":8500,"weight":50,"compare_at_price":null,"inventory_management":"shopify","barcode":"6090430329356","featured_media":{"alt":null,"id":52107346477385,"position":1,"preview_image":{"aspect_ratio":0.8,"height":1350,"width":1080,"src":"\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":48543681347913,"title":"White \/ XL","option1":"White","option2":"XL","option3":null,"sku":"ESM-TA-WH-XL","requires_shipping":true,"taxable":true,"featured_image":{"id":61442822963529,"product_id":8638347706697,"position":1,"created_at":"2025-06-03T16:19:10+02:00","updated_at":"2025-06-03T16:19:10+02:00","alt":null,"width":1080,"height":1350,"src":"\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350","variant_ids":[48543681216841,48543681249609,48543681282377,48543681315145,48543681347913]},"available":true,"name":"ESMÉ TANK | White - White \/ XL","public_title":"White \/ XL","options":["White","XL"],"price":8500,"weight":50,"compare_at_price":null,"inventory_management":"shopify","barcode":"6090430454430","featured_media":{"alt":null,"id":52107346477385,"position":1,"preview_image":{"aspect_ratio":0.8,"height":1350,"width":1080,"src":"\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+  </div>
+
+
+          <form x-data="productForm" method="post" action="/cart/add" enctype="multipart/form-data" @submit.prevent="submit()">
+  <input type="hidden" name="id" x-model="id" value="48543681216841">
+  <input type="hidden" name="quantity" value="1">
+  <input type="hidden" name="properties[_title]" value="Esmé Tank">
+  <button type="submit" :disabled="!selectedVariant?.available" class="flex w-full items-center justify-center bg-grey p-2.5 text-center text-yellow ring-1 ring-inset ring-yellow ring-offset-[3px] ring-offset-grey disabled:cursor-not-allowed" disabled="disabled">
+    <span class="translate-y-[2px]">Add to Cart</span>
+  </button>
+</form>
+
+          <template x-if="selectedVariant &amp;&amp; !selectedVariant?.available">
+  <div x-data="notify('Y5jhws', 'X7UeED')" class="flex flex-col gap-5">
+    <button @click="visible = !visible" class="w-full text-center text-[0.6875rem] italic leading-[1.2] -tracking-[0.02em]">
+      Be notified when this item is available
+    </button>
+
+    <form x-ref="form" x-show="visible" @submit.prevent="submit()">
+      <fieldset class="flex justify-between gap-2 border-b border-black">
+        <input type="hidden" name="id" :value="selectedVariant?.id">
+
+        <label for="email-notify" class="sr-only">Email</label>
+        <input type="email" id="email-notify" name="email" autocomplete="email" spellcheck="false" autocorrect="off" autocapitalize="off" placeholder="Email" required="" class="w-full bg-transparent outline-none placeholder:text-black">
+        <button type="submit" class="whitespace-nowrap italic">Submit</button>
+      </fieldset>
+
+      <span x-text="message" class="block py-1 text-[0.6875rem] italic leading-[1.2] -tracking-[0.02em]">
+        &nbsp;
+      </span>
+    </form>
+  </div>
+</template>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="application/ld+json">
+  {"@context":"http:\/\/schema.org\/","@id":"\/products\/esme-tank-white#product","@type":"ProductGroup","brand":{"@type":"Brand","name":"FLORE FLORE"},"category":"Basics","description":"A fitted crew neck tank with scooped-out armholes and a cut-off seam on the back, crafted from medium-weight organic cotton rib. Layer or wear on its own.","hasVariant":[{"@id":"\/products\/esme-tank-white?variant=48543681216841#variant","@type":"Product","gtin":"6090427321349","image":"https:\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350\u0026width=1920","name":"ESMÉ TANK | White - White \/ XS","offers":{"@id":"\/products\/esme-tank-white?variant=48543681216841#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"85.00","priceCurrency":"EUR","url":"https:\/\/flore-flore.com\/products\/esme-tank-white?variant=48543681216841"},"sku":"ESM-TA-WH-XS"},{"@id":"\/products\/esme-tank-white?variant=48543681249609#variant","@type":"Product","gtin":"6090427491424","image":"https:\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350\u0026width=1920","name":"ESMÉ TANK | White - White \/ S","offers":{"@id":"\/products\/esme-tank-white?variant=48543681249609#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"85.00","priceCurrency":"EUR","url":"https:\/\/flore-flore.com\/products\/esme-tank-white?variant=48543681249609"},"sku":"ESM-TA-WH-S"},{"@id":"\/products\/esme-tank-white?variant=48543681282377#variant","@type":"Product","gtin":"6090429913962","image":"https:\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350\u0026width=1920","name":"ESMÉ TANK | White - White \/ M","offers":{"@id":"\/products\/esme-tank-white?variant=48543681282377#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"85.00","priceCurrency":"EUR","url":"https:\/\/flore-flore.com\/products\/esme-tank-white?variant=48543681282377"},"sku":"ESM-TA-WH-M"},{"@id":"\/products\/esme-tank-white?variant=48543681315145#variant","@type":"Product","gtin":"6090430329356","image":"https:\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350\u0026width=1920","name":"ESMÉ TANK | White - White \/ L","offers":{"@id":"\/products\/esme-tank-white?variant=48543681315145#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"85.00","priceCurrency":"EUR","url":"https:\/\/flore-flore.com\/products\/esme-tank-white?variant=48543681315145"},"sku":"ESM-TA-WH-L"},{"@id":"\/products\/esme-tank-white?variant=48543681347913#variant","@type":"Product","gtin":"6090430454430","image":"https:\/\/flore-flore.com\/cdn\/shop\/files\/FLORE_FLORE_Esme_Tank_White_1_16fd2e3c-5c9b-457f-8754-d256973f9bc9.jpg?v=1748960350\u0026width=1920","name":"ESMÉ TANK | White - White \/ XL","offers":{"@id":"\/products\/esme-tank-white?variant=48543681347913#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"85.00","priceCurrency":"EUR","url":"https:\/\/flore-flore.com\/products\/esme-tank-white?variant=48543681347913"},"sku":"ESM-TA-WH-XL"}],"name":"ESMÉ TANK | White","productGroupID":"8638347706697","url":"https:\/\/flore-flore.com\/products\/esme-tank-white"}
+</script>
+
+
+</div><div id="shopify-section-template--22592393183561__product_recommendations_hy7Ti4" class="shopify-section">
+  <div id="product-recommendations" x-data="productRecommendations('product_id=8638347706697&amp;limit=6&amp;section_id=template--22592393183561__product_recommendations_hy7Ti4&amp;intent=related')">
+    <div class="px-3 pb-10 md:px-6 md:pb-[3.75rem]">
+      
+        <div class="py-5 md:py-[1.875rem]">
+          <h2 class="text-center text-[1.125rem] italic md:text-[1.375rem] md:leading-[1.5]">
+            Complementary styles
+          </h2>
+        </div>
+      
+
+      <ul class="no-scroll flex gap-2 overflow-x-auto max-md:snap-x max-md:snap-mandatory md:grid md:grid-cols-6 md:gap-6 md:overflow-visible max-md:[&amp;&gt;*]:min-w-0 max-md:[&amp;&gt;*]:shrink-0 max-md:[&amp;&gt;*]:grow-0 max-md:[&amp;&gt;*]:basis-[calc(25%-0.375rem)] max-md:[&amp;&gt;*]:snap-start">
+        
+          
+            
+
+<li>
+  <a href="/products/esme-tank-black?pr_prod_strat=jac&amp;pr_rec_id=d7918a51e&amp;pr_rec_pid=8638398169417&amp;pr_ref_pid=8638347706697&amp;pr_seq=uniform" class="flex flex-col gap-2.5">
+    
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Black_1_6c61197b-52f9-47ca-a378-24fce71e9993.jpg?v=1732710838" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Black_1_6c61197b-52f9-47ca-a378-24fce71e9993.jpg?v=1732710838&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Black_1_6c61197b-52f9-47ca-a378-24fce71e9993.jpg?v=1732710838&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Black_1_6c61197b-52f9-47ca-a378-24fce71e9993.jpg?v=1732710838&amp;width=500 500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Black_1_6c61197b-52f9-47ca-a378-24fce71e9993.jpg?v=1732710838&amp;width=720 720w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Black_1_6c61197b-52f9-47ca-a378-24fce71e9993.jpg?v=1732710838&amp;width=960 960w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Black_1_6c61197b-52f9-47ca-a378-24fce71e9993.jpg?v=1732710838&amp;width=1066 1066w" width="1080" height="1350" loading="lazy" class="aspect-[4/5] object-cover" sizes="(min-width: 768px) 33.33vw, 16.66vw" fetchpriority="auto">
+
+
+
+    <div class="hidden md:flex md:flex-col md:text-[0.875rem] md:leading-[1.2]">
+      <div class="flex justify-between">
+        <h2>Esmé Tank</h2>
+
+        
+
+
+  <span class="italic">€85</span>
+
+
+      </div>
+
+      
+        <span class="italic text-[#706E6F]">Available in more colours</span>
+      
+    </div>
+  </a>
+</li>
+
+          
+            
+
+<li>
+  <a href="/products/esme-tank-off-white?pr_prod_strat=e5_desc&amp;pr_rec_id=d7918a51e&amp;pr_rec_pid=8638400561481&amp;pr_ref_pid=8638347706697&amp;pr_seq=uniform" class="flex flex-col gap-2.5">
+    
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Off_White.jpg?v=1748963897" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Off_White.jpg?v=1748963897&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Off_White.jpg?v=1748963897&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Off_White.jpg?v=1748963897&amp;width=500 500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Off_White.jpg?v=1748963897&amp;width=720 720w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Off_White.jpg?v=1748963897&amp;width=960 960w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Off_White.jpg?v=1748963897&amp;width=1066 1066w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Off_White.jpg?v=1748963897&amp;width=1280 1280w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Off_White.jpg?v=1748963897&amp;width=1500 1500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Off_White.jpg?v=1748963897&amp;width=1800 1800w" width="4500" height="5625" loading="lazy" class="aspect-[4/5] object-cover" sizes="(min-width: 768px) 33.33vw, 16.66vw" fetchpriority="auto">
+
+
+
+    <div class="hidden md:flex md:flex-col md:text-[0.875rem] md:leading-[1.2]">
+      <div class="flex justify-between">
+        <h2>Esmé Tank</h2>
+
+        
+
+
+  <span class="italic">€85</span>
+
+
+      </div>
+
+      
+        <span class="italic text-[#706E6F]">Available in more colours</span>
+      
+    </div>
+  </a>
+</li>
+
+          
+            
+
+<li>
+  <a href="/products/car-tee-white?pr_prod_strat=jac&amp;pr_rec_id=d7918a51e&amp;pr_rec_pid=8638408556873&amp;pr_ref_pid=8638347706697&amp;pr_seq=uniform" class="flex flex-col gap-2.5">
+    
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Car_Tee_White_1.jpg?v=1732197058" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Car_Tee_White_1.jpg?v=1732197058&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Car_Tee_White_1.jpg?v=1732197058&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Car_Tee_White_1.jpg?v=1732197058&amp;width=500 500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Car_Tee_White_1.jpg?v=1732197058&amp;width=720 720w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Car_Tee_White_1.jpg?v=1732197058&amp;width=960 960w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Car_Tee_White_1.jpg?v=1732197058&amp;width=1066 1066w" width="1080" height="1350" loading="lazy" class="aspect-[4/5] object-cover" sizes="(min-width: 768px) 33.33vw, 16.66vw" fetchpriority="auto">
+
+
+
+    <div class="hidden md:flex md:flex-col md:text-[0.875rem] md:leading-[1.2]">
+      <div class="flex justify-between">
+        <h2>Car Tee</h2>
+
+        
+
+
+  <span class="italic">€95</span>
+
+
+      </div>
+
+      
+        <span class="italic text-[#706E6F]">Available in more colours</span>
+      
+    </div>
+  </a>
+</li>
+
+          
+            
+
+<li>
+  <a href="/products/esme-tank-navy?pr_prod_strat=e5_desc&amp;pr_rec_id=d7918a51e&amp;pr_rec_pid=8638408851785&amp;pr_ref_pid=8638347706697&amp;pr_seq=uniform" class="flex flex-col gap-2.5">
+    
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Navy_1.jpg?v=1732099532" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Navy_1.jpg?v=1732099532&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Navy_1.jpg?v=1732099532&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Navy_1.jpg?v=1732099532&amp;width=500 500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Navy_1.jpg?v=1732099532&amp;width=720 720w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Navy_1.jpg?v=1732099532&amp;width=960 960w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Navy_1.jpg?v=1732099532&amp;width=1066 1066w" width="1080" height="1350" loading="lazy" class="aspect-[4/5] object-cover" sizes="(min-width: 768px) 33.33vw, 16.66vw" fetchpriority="auto">
+
+
+
+    <div class="hidden md:flex md:flex-col md:text-[0.875rem] md:leading-[1.2]">
+      <div class="flex justify-between">
+        <h2>Esmé Tank</h2>
+
+        
+
+
+  <span class="italic">€85</span>
+
+
+      </div>
+
+      
+        <span class="italic text-[#706E6F]">Available in more colours</span>
+      
+    </div>
+  </a>
+</li>
+
+          
+            
+
+<li>
+  <a href="/products/hillie-tank-white?pr_prod_strat=jac&amp;pr_rec_id=d7918a51e&amp;pr_rec_pid=8646458507593&amp;pr_ref_pid=8638347706697&amp;pr_seq=uniform" class="flex flex-col gap-2.5">
+    
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Hillie_Tank_White_1.jpg?v=1732210281" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Hillie_Tank_White_1.jpg?v=1732210281&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Hillie_Tank_White_1.jpg?v=1732210281&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Hillie_Tank_White_1.jpg?v=1732210281&amp;width=500 500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Hillie_Tank_White_1.jpg?v=1732210281&amp;width=720 720w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Hillie_Tank_White_1.jpg?v=1732210281&amp;width=960 960w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Hillie_Tank_White_1.jpg?v=1732210281&amp;width=1066 1066w" width="1080" height="1350" loading="lazy" class="aspect-[4/5] object-cover" sizes="(min-width: 768px) 33.33vw, 16.66vw" fetchpriority="auto">
+
+
+
+    <div class="hidden md:flex md:flex-col md:text-[0.875rem] md:leading-[1.2]">
+      <div class="flex justify-between">
+        <h2>Hillie Tank</h2>
+
+        
+
+
+  <span class="italic">€85</span>
+
+
+      </div>
+
+      
+        <span class="italic text-[#706E6F]">Available in more colours</span>
+      
+    </div>
+  </a>
+</li>
+
+          
+            
+
+<li>
+  <a href="/products/esme-tank-red?pr_prod_strat=e5_desc&amp;pr_rec_id=d7918a51e&amp;pr_rec_pid=8880701309257&amp;pr_ref_pid=8638347706697&amp;pr_seq=uniform" class="flex flex-col gap-2.5">
+    
+
+
+
+
+  <img src="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Red_1.jpg?v=1732100222" srcset="//flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Red_1.jpg?v=1732100222&amp;width=165 165w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Red_1.jpg?v=1732100222&amp;width=360 360w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Red_1.jpg?v=1732100222&amp;width=500 500w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Red_1.jpg?v=1732100222&amp;width=720 720w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Red_1.jpg?v=1732100222&amp;width=960 960w, //flore-flore.com/cdn/shop/files/FLORE_FLORE_Esme_Tank_Red_1.jpg?v=1732100222&amp;width=1066 1066w" width="1080" height="1350" loading="lazy" class="aspect-[4/5] object-cover" sizes="(min-width: 768px) 33.33vw, 16.66vw" fetchpriority="auto">
+
+
+
+    <div class="hidden md:flex md:flex-col md:text-[0.875rem] md:leading-[1.2]">
+      <div class="flex justify-between">
+        <h2>Esmé Tank</h2>
+
+        
+
+
+  <span class="italic">€85</span>
+
+
+      </div>
+
+      
+        <span class="italic text-[#706E6F]">Available in more colours</span>
+      
+    </div>
+  </a>
+</li>
+
+          
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+</div>
+    </main>
+
+    <footer id="shopify-section-footer" class="shopify-section"><div class="grid min-h-60 grid-cols-6 gap-3 bg-[#F0F0F0] px-3 py-[1.375rem] text-[0.875rem] leading-[1.2] md:grid-cols-12 md:gap-6 md:px-6 md:py-[1.375rem]">
+  <div class="col-span-full flex flex-col gap-[0.3125rem] md:col-span-4 md:max-w-80">
+    
+      <h3 class="italic">Newsletter Sign Up</h3>
+    
+
+    
+      <div class="rt">
+        <p>Sign up to discover new collections, stories from our world, and exclusive offers––with 10% off your first order. For privacy details, see our <a href="/pages/privacy-policy" title="Privacy Policy">Privacy Policy</a>.</p>
+      </div>
+    
+
+    <div class="mt-5 max-w-60 md:mt-auto md:max-w-full">
+      <form x-data="newsletter('Y5jhws', 'X7UeED')" @submit.prevent="submit()">
+  <fieldset class="flex justify-between gap-2 border-b border-black">
+    <label for="email" class="sr-only">Email</label>
+    <input type="email" id="email" name="email" autocomplete="email" spellcheck="false" autocorrect="off" autocapitalize="off" placeholder="Email" required="" class="w-full bg-transparent outline-none placeholder:text-black">
+    <button type="submit" class="whitespace-nowrap italic">Sign up</button>
+  </fieldset>
+
+  <span x-text="message" class="block py-1 text-[0.6875rem] italic leading-[1.2] -tracking-[0.02em]"></span>
+</form>
+
+    </div>
+  </div>
+
+  <div class="order-last col-span-full md:order-none md:col-span-4 md:mt-0">
+    <div class="flex items-center justify-center py-10 md:h-full md:py-0">
+      
+
+
+
+
+  <svg class="h-[6.25rem] aspect-[4/5] md:[15rem]">
+    <use xlink:href="#icon-mark"></use>
+  </svg>
+
+
+    </div>
+
+    <div class="md:hidden">
+      
+  <div x-data="localizationForm('Netherlands', 'NL', 'EUR')">
+    <form method="post" action="/localization" id="localization_form" accept-charset="UTF-8" class="shopify-localization-form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="localization"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="_method" value="put"><input type="hidden" name="return_to" value="/products/esme-tank-white?srsltid=AfmBOopL_e7GBtFTxyhWvqmAD2ZV-jkQ1Y6XyPXjVg4GKQFzc_89bOzC">
+      <input type="hidden" name="country_code" x-model="selected" value="">
+
+      <fieldset class="relative flex gap-3">
+        <label>Country/Region:</label>
+
+        <div class="relative flex items-center justify-center gap-[0.3125rem]">
+          <button type="button" x-ref="button" x-text="text" @click="toggle()" class="border-b border-black before:absolute before:inset-0">Netherlands (EUR)</button>
+
+          <span :class="{ 'rotate-180 -translate-y-1': open }" class="pointer-events-none">
+            
+
+
+
+
+  <svg class="w-2.5 aspect-square">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+
+
+          </span>
+        </div>
+
+        <div x-show="open" x-trap="open" x-anchor.offset.10.top="$refs.button" @click.outside="close()" class="no-scroll max-h-[14.625rem] overflow-y-auto border border-black bg-background px-3 py-2.5" style="display: none; left: 176.812px; top: 2263.84px; position: absolute;">
+          <ul>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Australia', 'AU', 'AUD')" class="whitespace-nowrap leading-5">
+                  Australia (AUD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Austria', 'AT', 'EUR')" class="whitespace-nowrap leading-5">
+                  Austria (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Belgium', 'BE', 'EUR')" class="whitespace-nowrap leading-5">
+                  Belgium (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Canada', 'CA', 'CAD')" class="whitespace-nowrap leading-5">
+                  Canada (CAD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('China', 'CN', 'CNY')" class="whitespace-nowrap leading-5">
+                  China (CNY)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Croatia', 'HR', 'EUR')" class="whitespace-nowrap leading-5">
+                  Croatia (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Cyprus', 'CY', 'EUR')" class="whitespace-nowrap leading-5">
+                  Cyprus (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Czechia', 'CZ', 'CZK')" class="whitespace-nowrap leading-5">
+                  Czechia (CZK)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Denmark', 'DK', 'DKK')" class="whitespace-nowrap leading-5">
+                  Denmark (DKK)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Estonia', 'EE', 'EUR')" class="whitespace-nowrap leading-5">
+                  Estonia (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Finland', 'FI', 'EUR')" class="whitespace-nowrap leading-5">
+                  Finland (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('France', 'FR', 'EUR')" class="whitespace-nowrap leading-5">
+                  France (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Germany', 'DE', 'EUR')" class="whitespace-nowrap leading-5">
+                  Germany (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Greece', 'GR', 'EUR')" class="whitespace-nowrap leading-5">
+                  Greece (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Hong Kong SAR', 'HK', 'HKD')" class="whitespace-nowrap leading-5">
+                  Hong Kong SAR (HKD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Hungary', 'HU', 'HUF')" class="whitespace-nowrap leading-5">
+                  Hungary (HUF)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Iceland', 'IS', 'ISK')" class="whitespace-nowrap leading-5">
+                  Iceland (ISK)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('India', 'IN', 'INR')" class="whitespace-nowrap leading-5">
+                  India (INR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Ireland', 'IE', 'EUR')" class="whitespace-nowrap leading-5">
+                  Ireland (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Israel', 'IL', 'ILS')" class="whitespace-nowrap leading-5">
+                  Israel (ILS)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Italy', 'IT', 'EUR')" class="whitespace-nowrap leading-5">
+                  Italy (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Japan', 'JP', 'JPY')" class="whitespace-nowrap leading-5">
+                  Japan (JPY)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Kazakhstan', 'KZ', 'KZT')" class="whitespace-nowrap leading-5">
+                  Kazakhstan (KZT)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Latvia', 'LV', 'EUR')" class="whitespace-nowrap leading-5">
+                  Latvia (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Lithuania', 'LT', 'EUR')" class="whitespace-nowrap leading-5">
+                  Lithuania (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Luxembourg', 'LU', 'EUR')" class="whitespace-nowrap leading-5">
+                  Luxembourg (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Macao SAR', 'MO', 'MOP')" class="whitespace-nowrap leading-5">
+                  Macao SAR (MOP)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Malaysia', 'MY', 'MYR')" class="whitespace-nowrap leading-5">
+                  Malaysia (MYR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Mexico', 'MX', 'EUR')" class="whitespace-nowrap leading-5">
+                  Mexico (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Monaco', 'MC', 'EUR')" class="whitespace-nowrap leading-5">
+                  Monaco (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Netherlands', 'NL', 'EUR')" class="whitespace-nowrap leading-5">
+                  Netherlands (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('New Zealand', 'NZ', 'NZD')" class="whitespace-nowrap leading-5">
+                  New Zealand (NZD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('North Macedonia', 'MK', 'MKD')" class="whitespace-nowrap leading-5">
+                  North Macedonia (MKD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Norway', 'NO', 'EUR')" class="whitespace-nowrap leading-5">
+                  Norway (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Oman', 'OM', 'EUR')" class="whitespace-nowrap leading-5">
+                  Oman (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Poland', 'PL', 'PLN')" class="whitespace-nowrap leading-5">
+                  Poland (PLN)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Portugal', 'PT', 'EUR')" class="whitespace-nowrap leading-5">
+                  Portugal (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Romania', 'RO', 'RON')" class="whitespace-nowrap leading-5">
+                  Romania (RON)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Singapore', 'SG', 'SGD')" class="whitespace-nowrap leading-5">
+                  Singapore (SGD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Slovakia', 'SK', 'EUR')" class="whitespace-nowrap leading-5">
+                  Slovakia (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Slovenia', 'SI', 'EUR')" class="whitespace-nowrap leading-5">
+                  Slovenia (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('South Africa', 'ZA', 'EUR')" class="whitespace-nowrap leading-5">
+                  South Africa (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('South Korea', 'KR', 'KRW')" class="whitespace-nowrap leading-5">
+                  South Korea (KRW)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Spain', 'ES', 'EUR')" class="whitespace-nowrap leading-5">
+                  Spain (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Sweden', 'SE', 'SEK')" class="whitespace-nowrap leading-5">
+                  Sweden (SEK)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Switzerland', 'CH', 'CHF')" class="whitespace-nowrap leading-5">
+                  Switzerland (CHF)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Taiwan', 'TW', 'TWD')" class="whitespace-nowrap leading-5">
+                  Taiwan (TWD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('United Arab Emirates', 'AE', 'AED')" class="whitespace-nowrap leading-5">
+                  United Arab Emirates (AED)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('United Kingdom', 'GB', 'GBP')" class="whitespace-nowrap leading-5">
+                  United Kingdom (GBP)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('United States', 'US', 'USD')" class="whitespace-nowrap leading-5">
+                  United States (USD)
+                </a>
+              </li>
+            
+          </ul>
+        </div>
+      </fieldset>
+    </form>
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="col-span-full mt-20 grid grid-cols-subgrid gap-3 md:col-span-4 md:mt-0 md:gap-6">
+    
+      <ul class="col-span-3 flex flex-col gap-[0.3125rem] md:col-span-2">
+        
+          <li>
+            <a href="/pages/shipping-returns" class="decoration-1 underline-offset-2 hover:underline">Shipping &amp; Returns </a>
+          </li>
+        
+          <li>
+            <a href="/pages/washing-care" class="decoration-1 underline-offset-2 hover:underline">Washing &amp; Care</a>
+          </li>
+        
+          <li>
+            <a href="/pages/size-guide" class="decoration-1 underline-offset-2 hover:underline">Size Guide</a>
+          </li>
+        
+          <li>
+            <a href="/pages/faq" class="decoration-1 underline-offset-2 hover:underline">FAQ</a>
+          </li>
+        
+          <li>
+            <a href="/pages/stockists" class="decoration-1 underline-offset-2 hover:underline">Stockists</a>
+          </li>
+        
+          <li>
+            <a href="/pages/contact" class="decoration-1 underline-offset-2 hover:underline">Contact</a>
+          </li>
+        
+          <li>
+            <a href="/pages/jobs" class="decoration-1 underline-offset-2 hover:underline">Jobs</a>
+          </li>
+        
+
+        
+          
+            <li>
+              <a href="https://www.instagram.com/floreflore.world/" target="_blank" rel="noopener noreferrer" class="decoration-1 underline-offset-2 hover:underline">Instagram</a>
+            </li>
+          
+        
+      </ul>
+    
+
+    
+      <ul class="col-span-3 flex flex-col gap-[0.3125rem] md:col-span-2">
+        
+          <li>
+            <a href="/pages/privacy-policy" class="decoration-1 underline-offset-2 hover:underline">Privacy Policy</a>
+          </li>
+        
+          <li>
+            <a href="/pages/terms-conditions" class="decoration-1 underline-offset-2 hover:underline">Terms &amp; Conditions</a>
+          </li>
+        
+      </ul>
+    
+
+    <div class="hidden md:col-span-full md:ml-auto md:mt-auto md:block md:whitespace-nowrap">
+      
+  <div x-data="localizationForm('Netherlands', 'NL', 'EUR')">
+    <form method="post" action="/localization" id="localization_form" accept-charset="UTF-8" class="shopify-localization-form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="localization"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="_method" value="put"><input type="hidden" name="return_to" value="/products/esme-tank-white?srsltid=AfmBOopL_e7GBtFTxyhWvqmAD2ZV-jkQ1Y6XyPXjVg4GKQFzc_89bOzC">
+      <input type="hidden" name="country_code" x-model="selected" value="">
+
+      <fieldset class="relative flex gap-3">
+        <label>Country/Region:</label>
+
+        <div class="relative flex items-center justify-center gap-[0.3125rem]">
+          <button type="button" x-ref="button" x-text="text" @click="toggle()" class="border-b border-black before:absolute before:inset-0">Netherlands (EUR)</button>
+
+          <span :class="{ 'rotate-180 -translate-y-1': open }" class="pointer-events-none">
+            
+
+
+
+
+  <svg class="w-2.5 aspect-square">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+
+
+          </span>
+        </div>
+
+        <div x-show="open" x-trap="open" x-anchor.offset.10.top="$refs.button" @click.outside="close()" class="no-scroll max-h-[14.625rem] overflow-y-auto border border-black bg-background px-3 py-2.5" style="display: none; left: 5px; top: 617px; position: absolute;">
+          <ul>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Australia', 'AU', 'AUD')" class="whitespace-nowrap leading-5">
+                  Australia (AUD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Austria', 'AT', 'EUR')" class="whitespace-nowrap leading-5">
+                  Austria (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Belgium', 'BE', 'EUR')" class="whitespace-nowrap leading-5">
+                  Belgium (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Canada', 'CA', 'CAD')" class="whitespace-nowrap leading-5">
+                  Canada (CAD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('China', 'CN', 'CNY')" class="whitespace-nowrap leading-5">
+                  China (CNY)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Croatia', 'HR', 'EUR')" class="whitespace-nowrap leading-5">
+                  Croatia (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Cyprus', 'CY', 'EUR')" class="whitespace-nowrap leading-5">
+                  Cyprus (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Czechia', 'CZ', 'CZK')" class="whitespace-nowrap leading-5">
+                  Czechia (CZK)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Denmark', 'DK', 'DKK')" class="whitespace-nowrap leading-5">
+                  Denmark (DKK)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Estonia', 'EE', 'EUR')" class="whitespace-nowrap leading-5">
+                  Estonia (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Finland', 'FI', 'EUR')" class="whitespace-nowrap leading-5">
+                  Finland (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('France', 'FR', 'EUR')" class="whitespace-nowrap leading-5">
+                  France (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Germany', 'DE', 'EUR')" class="whitespace-nowrap leading-5">
+                  Germany (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Greece', 'GR', 'EUR')" class="whitespace-nowrap leading-5">
+                  Greece (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Hong Kong SAR', 'HK', 'HKD')" class="whitespace-nowrap leading-5">
+                  Hong Kong SAR (HKD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Hungary', 'HU', 'HUF')" class="whitespace-nowrap leading-5">
+                  Hungary (HUF)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Iceland', 'IS', 'ISK')" class="whitespace-nowrap leading-5">
+                  Iceland (ISK)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('India', 'IN', 'INR')" class="whitespace-nowrap leading-5">
+                  India (INR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Ireland', 'IE', 'EUR')" class="whitespace-nowrap leading-5">
+                  Ireland (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Israel', 'IL', 'ILS')" class="whitespace-nowrap leading-5">
+                  Israel (ILS)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Italy', 'IT', 'EUR')" class="whitespace-nowrap leading-5">
+                  Italy (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Japan', 'JP', 'JPY')" class="whitespace-nowrap leading-5">
+                  Japan (JPY)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Kazakhstan', 'KZ', 'KZT')" class="whitespace-nowrap leading-5">
+                  Kazakhstan (KZT)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Latvia', 'LV', 'EUR')" class="whitespace-nowrap leading-5">
+                  Latvia (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Lithuania', 'LT', 'EUR')" class="whitespace-nowrap leading-5">
+                  Lithuania (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Luxembourg', 'LU', 'EUR')" class="whitespace-nowrap leading-5">
+                  Luxembourg (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Macao SAR', 'MO', 'MOP')" class="whitespace-nowrap leading-5">
+                  Macao SAR (MOP)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Malaysia', 'MY', 'MYR')" class="whitespace-nowrap leading-5">
+                  Malaysia (MYR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Mexico', 'MX', 'EUR')" class="whitespace-nowrap leading-5">
+                  Mexico (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Monaco', 'MC', 'EUR')" class="whitespace-nowrap leading-5">
+                  Monaco (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Netherlands', 'NL', 'EUR')" class="whitespace-nowrap leading-5">
+                  Netherlands (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('New Zealand', 'NZ', 'NZD')" class="whitespace-nowrap leading-5">
+                  New Zealand (NZD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('North Macedonia', 'MK', 'MKD')" class="whitespace-nowrap leading-5">
+                  North Macedonia (MKD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Norway', 'NO', 'EUR')" class="whitespace-nowrap leading-5">
+                  Norway (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Oman', 'OM', 'EUR')" class="whitespace-nowrap leading-5">
+                  Oman (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Poland', 'PL', 'PLN')" class="whitespace-nowrap leading-5">
+                  Poland (PLN)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Portugal', 'PT', 'EUR')" class="whitespace-nowrap leading-5">
+                  Portugal (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Romania', 'RO', 'RON')" class="whitespace-nowrap leading-5">
+                  Romania (RON)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Singapore', 'SG', 'SGD')" class="whitespace-nowrap leading-5">
+                  Singapore (SGD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Slovakia', 'SK', 'EUR')" class="whitespace-nowrap leading-5">
+                  Slovakia (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Slovenia', 'SI', 'EUR')" class="whitespace-nowrap leading-5">
+                  Slovenia (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('South Africa', 'ZA', 'EUR')" class="whitespace-nowrap leading-5">
+                  South Africa (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('South Korea', 'KR', 'KRW')" class="whitespace-nowrap leading-5">
+                  South Korea (KRW)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Spain', 'ES', 'EUR')" class="whitespace-nowrap leading-5">
+                  Spain (EUR)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Sweden', 'SE', 'SEK')" class="whitespace-nowrap leading-5">
+                  Sweden (SEK)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Switzerland', 'CH', 'CHF')" class="whitespace-nowrap leading-5">
+                  Switzerland (CHF)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('Taiwan', 'TW', 'TWD')" class="whitespace-nowrap leading-5">
+                  Taiwan (TWD)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('United Arab Emirates', 'AE', 'AED')" class="whitespace-nowrap leading-5">
+                  United Arab Emirates (AED)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('United Kingdom', 'GB', 'GBP')" class="whitespace-nowrap leading-5">
+                  United Kingdom (GBP)
+                </a>
+              </li>
+            
+              <li>
+                <a href="#" @click.prevent="setLocalizationValue('United States', 'US', 'USD')" class="whitespace-nowrap leading-5">
+                  United States (USD)
+                </a>
+              </li>
+            
+          </ul>
+        </div>
+      </fieldset>
+    </form>
+  </div>
+
+
+    </div>
+  </div>
+</div>
+
+
+</footer>
+  
+
+<div id="loom-companion-mv3" ext-id="liecbddmkiiihnedobmlmillhodjkdmb"><div id="shadow-host-companion"></div></div><template id="auto-clicker-autofill-popup">
+  <style>
+    @import url(https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css);
+    @import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500&subset=latin-ext);
+    #body {
+      background: white;
+      border-radius: 5px;
+      box-shadow: 0 30px 50px 0 rgb(44 49 59 / 20%);
+      overflow: hidden;
+      font-size: 14px;
+      font-family: 'Poppins', sans-serif;
+      min-width: 250px;
+      max-width: 400px;
+    }
+    .modal-dialog {
+      margin: auto;
+    }
+    .modal-content {
+      border: none;
+    }
+    /*Header*/
+    .modal-header {
+      --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+      padding-left: 0;
+      height: 47px;
+      background: rgba(112.520718, 44.062154, 249.437846, 0.1);
+      color: #fff;
+      border: none;
+    }
+    .modal-header button.btn {
+      color: #712cf9;
+      width: 1em;
+      height: 1em;
+      display: flex;
+      box-sizing: content-box;
+      justify-content: center;
+      align-items: center;
+      padding: 0;
+      --bs-btn-close-opacity: 1;
+      --bs-btn-close-hover-opacity: 0.75;
+      --bs-btn-close-focus-shadow: 0 0 0 0.25em rgba(13, 110, 253, 0.25);
+      opacity: var(--bs-btn-close-opacity);
+    }
+    .modal-header button.btn svg {
+      width: inherit;
+      height: inherit;
+    }
+    .modal-header button.btn:focus {
+      box-shadow: var(--bs-btn-close-focus-shadow);
+    }
+    .modal-header button.btn:hover {
+      opacity: var(--bs-btn-close-hover-opacity);
+    }
+    .modal-header button.expand .bi-arrows-expand {
+      display: block !important;
+    }
+    .modal-header button.expand .bi-dash-lg {
+      display: none;
+    }
+    .modal-header .modal-title {
+      padding-left: 2em;
+      color: #712cf9;
+      position: relative;
+      font-size: 1em;
+    }
+    .modal-header .modal-title::before {
+      content: '';
+      position: absolute;
+      left: 0.75em;
+      top: calc(50% - 0.375em);
+      display: block;
+      width: 0.75em;
+      height: 0.75em;
+      border-radius: 50%;
+      background: red;
+      cursor: pointer;
+      box-shadow: 0 0 0 rgba(255, 0, 0, 0.4);
+      animation: pulse 2s infinite;
+    }
+    @-webkit-keyframes pulse {
+      0% {
+        -webkit-box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.4);
+      }
+      70% {
+        -webkit-box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);
+      }
+      100% {
+        -webkit-box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+      }
+    }
+    @keyframes pulse {
+      0% {
+        -moz-box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.4);
+        box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.4);
+      }
+      70% {
+        -moz-box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);
+        box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);
+      }
+      100% {
+        -moz-box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+        box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+      }
+    }
+    /*Body*/
+    .modal-body {
+      max-height: calc(100vh - 7em);
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding: 0.5em 0;
+    }
+    td div {
+      vertical-align: middle;
+      width: 180px;
+      line-height: 24px;
+    }
+    tr button {
+      visibility: hidden;
+    }
+    tr:hover button {
+      visibility: visible;
+    }
+    /*Footer*/
+    .modal-footer {
+      padding: 0;
+      --bs-bg-opacity: 1;
+      background-color: rgba(var(--bs-tertiary-bg-rgb), var(--bs-bg-opacity)) !important;
+    }
+    .modal-footer a {
+      display: flex;
+      align-items: center;
+    }
+    .modal-footer a svg {
+      margin-right: 0.15em;
+    }
+    .modal-footer a:hover {
+      color: #712cf9 !important;
+    }
+  </style>
+  <div id="body" class="modal position-static d-block" data-bs-theme="light">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <header class="modal-header">
+          <h6 class="modal-title text-truncate">Auto Clicker - AutoFill</h6>
+          <div class="d-flex justify-content-center align-items-center">
+            <button type="button" class="btn ms-2" aria-label="collapse">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrows-expand" style="display: none" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13A.5.5 0 0 1 1 8ZM7.646.146a.5.5 0 0 1 .708 0l2 2a.5.5 0 0 1-.708.708L8.5 1.707V5.5a.5.5 0 0 1-1 0V1.707L6.354 2.854a.5.5 0 1 1-.708-.708l2-2ZM8 10a.5.5 0 0 1 .5.5v3.793l1.146-1.147a.5.5 0 0 1 .708.708l-2 2a.5.5 0 0 1-.708 0l-2-2a.5.5 0 0 1 .708-.708L7.5 14.293V10.5A.5.5 0 0 1 8 10Z"></path>
+              </svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dash-lg" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M2 8a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11A.5.5 0 0 1 2 8Z"></path>
+              </svg>
+            </button>
+            <button type="button" class="btn ms-2" data-bs-dismiss="modal" aria-label="Close">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
+                <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"></path>
+              </svg>
+            </button>
+          </div>
+        </header>
+        <main class="modal-body" id="collapse-main">
+          <slot name="actions" hidden="">
+            <table class="table table-sm table-hover mb-0">
+              <thead>
+                <tr>
+                  <th scope="col">Name/Element</th>
+                  <th scope="col">Value</th>
+                  <th scope="col"></th>
+                </tr>
+              </thead>
+              <tbody class="table-group-divider"></tbody>
+            </table>
+          </slot>
+          <slot name="no-actions">
+            <div class="px-2">
+              <div class="card w-100">
+                <div class="card-body">
+                  <h5 class="card-title mb-3 text-primary">Start filling form...</h5>
+                  <hr>
+                  <h6 class="card-subtitle mb-2 text-muted">If you have already filled form</h6>
+                  <button type="button" auto-generate-config="" class="btn btn-sm btn-outline-secondary">Already Filled ?</button>
+                </div>
+              </div>
+            </div>
+          </slot>
+        </main>
+        <footer class="modal-footer justify-content-center" id="collapse-footer">
+          <ul class="nav justify-content-between w-100">
+            <li class="nav-item">
+              <a href="https://getautoclicker.com/docs/4.x/getting-started" class="nav-link px-2 text-muted" target="_blank">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-richtext" viewBox="0 0 16 16">
+                  <path d="M7 4.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0zm-.861 1.542 1.33.886 1.854-1.855a.25.25 0 0 1 .289-.047l1.888.974V7.5a.5.5 0 0 1-.5.5H5a.5.5 0 0 1-.5-.5V7s1.54-1.274 1.639-1.208zM5 9a.5.5 0 0 0 0 1h6a.5.5 0 0 0 0-1H5zm0 2a.5.5 0 0 0 0 1h3a.5.5 0 0 0 0-1H5z"></path>
+                  <path d="M2 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2zm10-1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1z"></path>
+                </svg>
+                <span id="docs-text"></span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="https://discord.gg/ubMBeX3" class="nav-link px-2 text-muted" target="_blank">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chat-fill" viewBox="0 0 16 16">
+                  <path d="M8 15c4.418 0 8-3.134 8-7s-3.582-7-8-7-8 3.134-8 7c0 1.76.743 3.37 1.97 4.6-.097 1.016-.417 2.13-.771 2.966-.079.186.074.394.273.362 2.256-.37 3.597-.938 4.18-1.234A9.06 9.06 0 0 0 8 15z"></path>
+                </svg>
+                <span id="chat-text"></span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="https://dev.getautoclicker.com/" class="nav-link px-2 text-muted" target="_blank" id="settings">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-gear-fill" viewBox="0 0 16 16">
+                  <path d="M9.405 1.05c-.413-1.4-2.397-1.4-2.81 0l-.1.34a1.464 1.464 0 0 1-2.105.872l-.31-.17c-1.283-.698-2.686.705-1.987 1.987l.169.311c.446.82.023 1.841-.872 2.105l-.34.1c-1.4.413-1.4 2.397 0 2.81l.34.1a1.464 1.464 0 0 1 .872 2.105l-.17.31c-.698 1.283.705 2.686 1.987 1.987l.311-.169a1.464 1.464 0 0 1 2.105.872l.1.34c.413 1.4 2.397 1.4 2.81 0l.1-.34a1.464 1.464 0 0 1 2.105-.872l.31.17c1.283.698 2.686-.705 1.987-1.987l-.169-.311a1.464 1.464 0 0 1 .872-2.105l.34-.1c1.4-.413 1.4-2.397 0-2.81l-.34-.1a1.464 1.464 0 0 1-.872-2.105l.17-.31c.698-1.283-.705-2.686-1.987-1.987l-.311.169a1.464 1.464 0 0 1-2.105-.872l-.1-.34zM8 10.93a2.929 2.929 0 1 1 0-5.86 2.929 2.929 0 0 1 0 5.858z"></path>
+                </svg>
+                <span id="advance-text"></span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="https://github.com/sponsors/Dhruv-Techapps" class="nav-link px-2 text-muted" target="_blank">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-balloon-heart text-danger" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd" d="m8 2.42-.717-.737c-1.13-1.161-3.243-.777-4.01.72-.35.685-.451 1.707.236 3.062C4.16 6.753 5.52 8.32 8 10.042c2.479-1.723 3.839-3.29 4.491-4.577.687-1.355.587-2.377.236-3.061-.767-1.498-2.88-1.882-4.01-.721L8 2.42Zm-.49 8.5c-10.78-7.44-3-13.155.359-10.063.045.041.089.084.132.129.043-.045.087-.088.132-.129 3.36-3.092 11.137 2.624.357 10.063l.235.468a.25.25 0 1 1-.448.224l-.008-.017c.008.11.02.202.037.29.054.27.161.488.419 1.003.288.578.235 1.15.076 1.629-.157.469-.422.867-.588 1.115l-.004.007a.25.25 0 1 1-.416-.278c.168-.252.4-.6.533-1.003.133-.396.163-.824-.049-1.246l-.013-.028c-.24-.48-.38-.758-.448-1.102a3.177 3.177 0 0 1-.052-.45l-.04.08a.25.25 0 1 1-.447-.224l.235-.468ZM6.013 2.06c-.649-.18-1.483.083-1.85.798-.131.258-.245.689-.08 1.335.063.244.414.198.487-.043.21-.697.627-1.447 1.359-1.692.217-.073.304-.337.084-.398Z"></path>
+                </svg>
+                <span id="sponsor-text"></span>
+              </a>
+            </li>
+          </ul>
+        </footer>
+      </div>
+    </div>
+  </div>
+</template>
+<template id="auto-clicker-autofill-popup-tr">
+  <tr>
+    <td><div class="text-truncate"></div></td>
+    <td><div class="text-truncate"></div></td>
+    <td>
+      <button type="button" class="btn-close" data-bs-dismiss="tr" aria-label="Close"></button>
+    </td>
+  </tr>
+</template>
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
