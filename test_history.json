@@ -151,5 +151,73 @@
       "uniqueBrands": 41,
       "medianImageCount": 3.0
     }
+  },
+  {
+    "timestamp": "2025-06-17T15:47:48.312955",
+    "date": "2025-06-17",
+    "time": "15:47:48",
+    "summary": {
+      "totalFiles": 46,
+      "successCount": 44,
+      "failedCount": 2,
+      "successRate": 95.7,
+      "avgParseTime": 148.83,
+      "medianParseTime": 44.0,
+      "fastestParse": 6,
+      "slowestParse": 683,
+      "uniqueBrands": 41,
+      "medianImageCount": 3.0
+    }
+  },
+  {
+    "timestamp": "2025-06-17T21:33:45.547410",
+    "date": "2025-06-17",
+    "time": "21:33:45",
+    "summary": {
+      "totalFiles": 60,
+      "successCount": 58,
+      "failedCount": 2,
+      "successRate": 96.7,
+      "avgParseTime": 169.97,
+      "medianParseTime": 48.0,
+      "fastestParse": 5,
+      "slowestParse": 731,
+      "uniqueBrands": 52,
+      "medianImageCount": 3.0
+    }
+  },
+  {
+    "timestamp": "2025-06-17T21:40:17.806188",
+    "date": "2025-06-17",
+    "time": "21:40:17",
+    "summary": {
+      "totalFiles": 66,
+      "successCount": 64,
+      "failedCount": 2,
+      "successRate": 97.0,
+      "avgParseTime": 149.03,
+      "medianParseTime": 53.0,
+      "fastestParse": 4,
+      "slowestParse": 1094,
+      "uniqueBrands": 58,
+      "medianImageCount": 3.5
+    }
+  },
+  {
+    "timestamp": "2025-06-17T21:47:30.648992",
+    "date": "2025-06-17",
+    "time": "21:47:30",
+    "summary": {
+      "totalFiles": 91,
+      "successCount": 89,
+      "failedCount": 2,
+      "successRate": 97.8,
+      "avgParseTime": 159.13,
+      "medianParseTime": 40.0,
+      "fastestParse": 0,
+      "slowestParse": 4626,
+      "uniqueBrands": 83,
+      "medianImageCount": 2.0
+    }
   }
 ]
