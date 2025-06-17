@@ -46,6 +46,18 @@ void main() {
           .cast<File>()
           .toList();
 
+      // Sort files numerically (1.txt, 2.txt, ..., 10.txt, 11.txt) instead of alphabetically
+      files.sort((a, b) {
+        final fileNameA = a.path.split('\\').last;
+        final fileNameB = b.path.split('\\').last;
+
+        // Extract the number from filename (e.g., "1.txt" -> 1)
+        final numA = int.tryParse(fileNameA.replaceAll('.txt', '')) ?? 0;
+        final numB = int.tryParse(fileNameB.replaceAll('.txt', '')) ?? 0;
+
+        return numA.compareTo(numB);
+      });
+
       testResults['Test Files'] = files.isNotEmpty;
       testDetails['Test Files'] = 'Found ${files.length} test files';
       printTestResult('Test Files', files.isNotEmpty, testDetails['Test Files']!);
