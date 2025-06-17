@@ -61,6 +61,14 @@ Future<Map<String, dynamic>?> parseProduct(String htmlContent, String url) async
     _extractEmbeddedJson(document, product, baseUri);
   }
 
+  // --- Lớp bổ sung: Fallback cho price/currency từ itemprop meta tags ---
+  if (product.price == null ||
+      product.price!.isEmpty ||
+      product.priceCurrency == null ||
+      product.priceCurrency!.isEmpty) {
+    _extractMicrodataPrice(document, product);
+  }
+
   // --- Hoàn thiện và xác thực ---
   _finalizeData(product, baseUri);
 
@@ -238,6 +246,75 @@ void _extractHeuristicPrice(Document document, ProductData product) {
         if (priceText.contains('\$')) product.priceCurrency = 'USD';
         if (priceText.contains('€')) product.priceCurrency = 'EUR';
         return;
+      }
+    }
+  }
+}
+
+/// Lớp bổ sung: Trích xuất giá và tiền tệ từ microdata (itemprop) meta tags
+void _extractMicrodataPrice(Document document, ProductData product) {
+  // Common itemprop attributes for price and currency
+  final priceProps = ['price', 'lowPrice', 'highPrice', 'priceValue'];
+  final currencyProps = ['priceCurrency', 'currency'];
+
+  // Try to extract price from itemprop meta tags
+  if (product.price == null || product.price!.isEmpty) {
+    for (final prop in priceProps) {
+      final priceElement = document.querySelector('meta[itemprop="$prop"]');
+      if (priceElement != null) {
+        final priceContent = priceElement.attributes['content'];
+        if (priceContent != null && priceContent.isNotEmpty) {
+          // Clean price: remove currency symbols and keep only numbers and dots
+          final cleanPrice = priceContent.replaceAll(RegExp(r'[^\d\.]'), '');
+          if (cleanPrice.isNotEmpty) {
+            product.price = cleanPrice;
+            break;
+          }
+        }
+      }
+    }
+  }
+
+  // Try to extract currency from itemprop meta tags
+  if (product.priceCurrency == null || product.priceCurrency!.isEmpty) {
+    for (final prop in currencyProps) {
+      final currencyElement = document.querySelector('meta[itemprop="$prop"]');
+      if (currencyElement != null) {
+        final currencyContent = currencyElement.attributes['content'];
+        if (currencyContent != null && currencyContent.isNotEmpty) {
+          product.priceCurrency = currencyContent;
+          break;
+        }
+      }
+    }
+  }
+
+  // Also check for property-based microdata (alternative format)
+  if (product.price == null || product.price!.isEmpty) {
+    for (final prop in priceProps) {
+      final priceElement = document.querySelector('meta[property="$prop"]');
+      if (priceElement != null) {
+        final priceContent = priceElement.attributes['content'];
+        if (priceContent != null && priceContent.isNotEmpty) {
+          final cleanPrice = priceContent.replaceAll(RegExp(r'[^\d\.]'), '');
+          if (cleanPrice.isNotEmpty) {
+            product.price = cleanPrice;
+            break;
+          }
+        }
+      }
+    }
+  }
+
+  if (product.priceCurrency == null || product.priceCurrency!.isEmpty) {
+    for (final prop in currencyProps) {
+      final currencyElement = document.querySelector('meta[property="$prop"]');
+      if (currencyElement != null) {
+        final currencyContent = currencyElement.attributes['content'];
+        if (currencyContent != null && currencyContent.isNotEmpty) {
+          product.priceCurrency = currencyContent;
+          break;
+        }
       }
     }
   }
