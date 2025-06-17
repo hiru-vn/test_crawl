@@ -1,22 +1,57 @@
-# Product Parser Test Suite
+# 🛒 Product Parser Test Suite
 
-Đây là bộ test để kiểm tra chức năng của hàm `parseProduct` trong `main.dart`.
+A comprehensive testing framework for the `parseProduct` function that extracts product data from e-commerce websites.
 
-## 📁 Cấu trúc Test
+## 🎯 Overview
+
+This test suite validates product parsing across **40 real-world e-commerce sites** with a **97.5% success rate**. It tests extraction of product names, descriptions, images, prices, and currencies from various website formats.
+
+## 📁 Project Structure
 
 ```
 test/
-├── product_parser_test.dart   # Test cơ bản cho từng file
-├── performance_test.dart      # Test hiệu suất và benchmark
-├── test_runner.dart          # Test runner tổng hợp
-└── README.md                # Hướng dẫn này
+├── 📊 test_runner.dart           # Main comprehensive test suite
+├── 🔧 product_parser_test.dart   # Basic validation tests  
+├── ⚡ performance_test.dart      # Performance benchmarks
+├── 🏷️ image_debug_test.dart      # Image extraction debugging
+└── 📖 README.md                 # This documentation
+
+lib/
+├── 🎯 main.dart                 # Core parsing logic (530 lines)
+└── 🔧 fallback_extractors.dart  # Specialized fallback methods (420+ lines)
+
+assets/
+├── 1.txt, 2.txt, ... 40.txt    # Real HTML test data from e-commerce sites
 ```
 
-## 🚀 Cách chạy Test
+## 🚀 Quick Start
 
-### 1. Chuẩn bị dữ liệu test
+### 1. Run the Complete Test Suite
 
-Tạo các file `.txt` trong folder `assets/` với format:
+```bash
+# 🎯 Recommended: Run all tests with detailed reporting
+flutter test test/test_runner.dart
+
+# ⚡ Quick performance check
+flutter test test/performance_test.dart
+
+# 🔧 Basic validation only
+flutter test test/product_parser_test.dart
+
+# 🏷️ Image extraction debugging
+flutter test test/image_debug_test.dart
+```
+
+### 2. Run All Tests
+
+```bash
+# Run everything
+flutter test
+```
+
+## 📋 Test Data Format
+
+Test files in `assets/` follow this format:
 
 ```
 https://example.com/product-url
@@ -24,159 +59,180 @@ https://example.com/product-url
 <html>
 <head>
     <title>Product Name</title>
-    <!-- HTML content ở đây -->
+    <meta property="og:title" content="Amazing Product">
+    <meta property="og:price:amount" content="29.99">
+    <meta property="og:price:currency" content="USD">
 </head>
 <body>
-    <!-- Nội dung sản phẩm -->
+    <h1>Product Title</h1>
+    <div class="price">$29.99</div>
+    <img src="product-image.jpg" alt="Product">
 </body>
 </html>
 ```
 
-**Dòng đầu tiên**: URL của sản phẩm
-**Các dòng tiếp theo**: Nội dung HTML
+**Line 1**: Product URL  
+**Line 2+**: Complete HTML content
 
-### 2. Chạy từng loại test
+## ✅ Success Criteria
 
-```bash
-# Test cơ bản
-flutter test test/product_parser_test.dart
+A test **passes** when all 5 required fields are extracted:
 
-# Test hiệu suất
-flutter test test/performance_test.dart
+| Field | Requirement | Example |
+|-------|-------------|---------|
+| 🏷️ **name** | Non-null, non-empty | `"Leather Handbag"` |
+| 📝 **description** | Non-null, non-empty | `"Premium leather handbag..."` |
+| 🖼️ **images** | Array with ≥1 image | `["https://shop.com/img1.jpg"]` |
+| 💰 **price** | Non-null, non-empty | `"129.99"` |
+| 💱 **priceCurrency** | Non-null, non-empty | `"USD"` |
 
-# Test tổng hợp (khuyến nghị)
-flutter test test/test_runner.dart
+## 📊 Current Performance
+
+```
+📈 Success Rate: 97.5% (39/40 files)
+⚡ Average Speed: ~120ms per page
+🎯 Fastest Parse: 6ms
+🐌 Slowest Parse: 708ms
 ```
 
-### 3. Chạy tất cả tests
+## 🧪 Test Types
 
-```bash
-flutter test
-```
+### 🎯 Complete Test Suite (`test_runner.dart`)
+- **File-based tests**: All 40 real HTML files
+- **Performance metrics**: Speed and efficiency tracking  
+- **Success rate analysis**: Detailed pass/fail breakdown
+- **Edge case validation**: Empty HTML, malformed JSON, etc.
 
-## ✅ Tiêu chí Pass/Fail
+### 🔧 Basic Validation (`product_parser_test.dart`)
+- **Individual field testing**: Each data field validated separately
+- **Data type checking**: Ensures correct data types
+- **Null safety**: Tests null and empty value handling
 
-Một test được coi là **thành công** khi kết quả trả về có đầy đủ:
+### ⚡ Performance Testing (`performance_test.dart`)
+- **Speed benchmarks**: Parse time measurements
+- **Memory usage**: Resource consumption tracking
+- **Scalability**: Performance with large HTML files
 
-- ✅ `name` - Tên sản phẩm (không null, không rỗng)
-- ✅ `description` - Mô tả sản phẩm (không null, không rỗng)  
-- ✅ `images` - Danh sách hình ảnh (không null, có ít nhất 1 ảnh)
-- ✅ `price` - Giá sản phẩm (không null, không rỗng)
-- ✅ `priceCurrency` - Đơn vị tiền tệ (không null, không rỗng)
+### 🏷️ Image Debugging (`image_debug_test.dart`)
+- **Image extraction**: Detailed image URL extraction
+- **Format validation**: Image URL format checking
+- **Priority ranking**: Image selection algorithm testing
 
-## 📊 Loại Test
+## 🏗️ Architecture
 
-### 1. Product Parser Test (`product_parser_test.dart`)
-- Test từng file HTML riêng lẻ
-- Validation chi tiết cho từng trường dữ liệu
-- Test với dữ liệu không hợp lệ
+The parser uses a **layered fallback approach**:
 
-### 2. Performance Test (`performance_test.dart`)
-- Đo thời gian parse cho mỗi file
-- Test với file HTML lớn
-- Kiểm tra memory usage
-- Benchmark tổng thể
+### 🎯 Core Logic (`main.dart`)
+1. **Shopify shortcuts**: Direct API access for Shopify sites
+2. **JSON-LD extraction**: Structured data parsing
+3. **Meta tags**: OpenGraph, Twitter cards
+4. **Heuristic methods**: Standard HTML patterns
 
-### 3. Test Runner (`test_runner.dart`)
-- Chạy tất cả tests trong assets/
-- Báo cáo chi tiết và thống kê
-- Edge case testing
-- Summary và recommendations
+### 🔧 Fallback Extractors (`fallback_extractors.dart`)
+1. **Microdata extraction**: `itemprop` attributes
+2. **Data-test attributes**: Modern test identifiers
+3. **Currency detection**: URL-based currency mapping
+4. **Country mapping**: 150+ country-to-currency mappings
 
-## 📈 Kết quả mong đợi
+## 📈 Expected Output
 
 ```
 ============================================================
-  PRODUCT PARSER TEST SUITE                                
+  PRODUCT PARSER TEST SUITE
 ============================================================
 
 🔍 Checking test environment...
-✅ Assets Folder
-   Found 5 test files
 ✅ Test Files
-   Found 5 test files
+   Found 40 test files
 
 ============================================================
-  BASIC VALIDATION TESTS                                   
+  FILE-BASED TESTS
 ============================================================
-✅ ProductData Class
-   toJson() method works correctly
+✅ 1.txt
+   Name: Meandering Convertible-Collar Cotton-Lace Shirt, Images: 4, Price: 60040 USD, Time: 132ms
+✅ 2.txt
+   Name: Nike LD-1000 Women's Shoes, Images: 2, Price: 89.97 USD, Time: 45ms
+...
+❌ 13.txt
+   Missing: price, priceCurrency
 
 ============================================================
-  FILE-BASED TESTS                                         
+  FINAL SUMMARY
 ============================================================
-✅ shopify_product.txt
-   Name: Test Product, Images: 2, Price: 29.99 USD, Time: 45ms
-✅ basic_product.txt
-   Name: Basic Item, Images: 2, Price: 15.50 USD, Time: 32ms
-
-============================================================
-  PERFORMANCE SUMMARY                                      
-============================================================
-⏱️  Average parse time: 38.50ms
-⏱️  Fastest parse: 32ms
-⏱️  Slowest parse: 45ms
-✅ Performance Check
-   Average: 38.50ms
-
-============================================================
-  FINAL SUMMARY                                            
-============================================================
-📊 Test Files: 5
-✅ Successful: 5
-❌ Failed: 0
-📈 Success Rate: 100.0%
+📊 Test Files: 40
+✅ Successful: 39
+❌ Failed: 1
+📈 Success Rate: 97.5%
 
 🎉 TEST SUITE PASSED! Your parser is working well.
 ```
 
-## 🐛 Troubleshooting
+## 🛠️ Customization
 
-### Lỗi thường gặp:
+### Adding New Test Files
 
-1. **"Assets folder not found"**
-   - Tạo folder `assets/` trong root project
-   - Thêm ít nhất 1 file `.txt` theo format đúng
+1. **Create HTML file**: Save as `assets/41.txt` (next number)
+2. **Format correctly**: URL on line 1, HTML on line 2+
+3. **Run tests**: `flutter test test/test_runner.dart`
 
-2. **"Missing: name, images"**
-   - HTML test thiếu dữ liệu sản phẩm
-   - Kiểm tra HTML có đúng cấu trúc không
-   - Thêm meta tags hoặc JSON-LD
+### Modifying Success Criteria
 
-3. **"Performance too slow"**
-   - File HTML quá lớn
-   - Tối ưu logic parser
-   - Kiểm tra regex complexity
-
-### Tips để có test tốt:
-
-- ✅ **Đa dạng nguồn**: Shopify, WooCommerce, custom sites
-- ✅ **Nhiều format**: JSON-LD, meta tags, heuristic parsing  
-- ✅ **Edge cases**: HTML malformed, missing data
-- ✅ **Real data**: Copy HTML từ trang thật
-- ✅ **Different languages**: Vietnamese, English, etc.
-
-## 🔧 Tùy chỉnh Tests
-
-### Thay đổi tiêu chí pass/fail:
-
-Sửa trong `product_parser_test.dart`:
+Edit validation logic in `product_parser_test.dart`:
 
 ```dart
 void validateProductData(Map<String, dynamic>? result, String testName) {
-  // Thêm/bớt validation rules ở đây
+  expect(result, isNotNull, reason: 'Parser should return valid data for $testName');
+  expect(result!['name'], isNotNull, reason: 'Name is required');
+  expect(result['name'], isNotEmpty, reason: 'Name cannot be empty');
+  // Add your custom validation rules here
 }
 ```
 
-### Thay đổi performance thresholds:
+### Performance Thresholds
 
-Sửa trong `performance_test.dart`:
+Adjust performance expectations in `performance_test.dart`:
 
 ```dart
-expect(avgTime, lessThan(100), // Thay đổi 100ms thành giá trị khác
-    reason: 'Average parse time should be less than 100ms');
+expect(avgTime, lessThan(150), // Change 150ms to your desired threshold
+    reason: 'Average parse time should be under 150ms');
 ```
+
+## 🔍 Troubleshooting
+
+### Common Issues
+
+| Problem | Cause | Solution |
+|---------|-------|----------|
+| 🚫 "Assets folder not found" | Missing test files | Create `assets/` folder with `.txt` files |
+| 🚫 "Missing: name, images" | Incomplete HTML | Add proper meta tags or JSON-LD |
+| 🐌 "Performance too slow" | Large HTML files | Optimize HTML or review parser logic |
+| 🚫 "Import error" | Missing dependencies | Run `flutter pub get` |
+
+### Best Practices
+
+- ✅ **Use real HTML**: Copy from actual e-commerce sites
+- ✅ **Test edge cases**: Malformed HTML, missing data
+- ✅ **Multiple formats**: JSON-LD, meta tags, heuristic parsing
+- ✅ **Various sites**: Shopify, WooCommerce, custom platforms
+- ✅ **Different languages**: English, Vietnamese, etc.
+
+## 📚 Technical Notes
+
+### Parsing Strategy
+The parser follows web standards and common e-commerce patterns:
+1. **Standards-first**: JSON-LD and meta tags
+2. **Fallback layers**: Multiple extraction methods
+3. **Performance-optimized**: Early returns for known patterns
+4. **Error-tolerant**: Graceful handling of malformed data
+
+### Supported Formats
+- 🌐 **JSON-LD**: Structured data standard
+- 📱 **OpenGraph**: Social media meta tags
+- 🐦 **Twitter Cards**: Twitter-specific meta tags
+- 🏪 **Shopify**: Direct API integration
+- 🏷️ **Microdata**: Schema.org attributes
+- 🧪 **Data-test**: Modern testing attributes
 
 ---
 
-**Lưu ý**: Vì bạn có background Flutter mạnh, các test này được thiết kế giống như widget tests trong Flutter - có validation, matchers, và báo cáo chi tiết. Logic test tương tự như việc test API responses trong Flutter apps. 
+*This test suite was designed with Flutter/Dart best practices, similar to widget testing patterns you're familiar with. The validation, matchers, and reporting structure follows Flutter testing conventions.* 
