@@ -1,0 +1,104 @@
+[
+  {
+    "timestamp": "2025-06-17T12:15:52.239144",
+    "date": "2025-06-17",
+    "time": "12:15:52",
+    "summary": {
+      "totalFiles": 46,
+      "successCount": 44,
+      "failedCount": 2,
+      "successRate": 95.7,
+      "avgParseTime": 112.57,
+      "medianParseTime": 48.0,
+      "fastestParse": 6,
+      "slowestParse": 431,
+      "uniqueBrands": 39,
+      "medianImageCount": 3.0
+    }
+  },
+  {
+    "timestamp": "2025-06-17T12:16:52.493080",
+    "date": "2025-06-17",
+    "time": "12:16:52",
+    "summary": {
+      "totalFiles": 46,
+      "successCount": 44,
+      "failedCount": 2,
+      "successRate": 95.7,
+      "avgParseTime": 108.61,
+      "medianParseTime": 49.0,
+      "fastestParse": 5,
+      "slowestParse": 454,
+      "uniqueBrands": 39,
+      "medianImageCount": 3.0
+    }
+  },
+  {
+    "timestamp": "2025-06-17T12:25:31.800289",
+    "date": "2025-06-17",
+    "time": "12:25:31",
+    "summary": {
+      "totalFiles": 46,
+      "successCount": 44,
+      "failedCount": 2,
+      "successRate": 95.7,
+      "avgParseTime": 104.39,
+      "medianParseTime": 42.5,
+      "fastestParse": 5,
+      "slowestParse": 412,
+      "uniqueBrands": 39,
+      "medianImageCount": 3.0
+    }
+  },
+  {
+    "timestamp": "2025-06-17T12:28:54.613649",
+    "date": "2025-06-17",
+    "time": "12:28:54",
+    "summary": {
+      "totalFiles": 46,
+      "successCount": 44,
+      "failedCount": 2,
+      "successRate": 95.7,
+      "avgParseTime": 114.48,
+      "medianParseTime": 46.5,
+      "fastestParse": 6,
+      "slowestParse": 544,
+      "uniqueBrands": 39,
+      "medianImageCount": 3.0
+    }
+  },
+  {
+    "timestamp": "2025-06-17T14:49:04.224529",
+    "date": "2025-06-17",
+    "time": "14:49:04",
+    "summary": {
+      "totalFiles": 46,
+      "successCount": 42,
+      "failedCount": 4,
+      "successRate": 91.3,
+      "avgParseTime": 184.3,
+      "medianParseTime": 49.0,
+      "fastestParse": 6,
+      "slowestParse": 742,
+      "uniqueBrands": 39,
+      "medianImageCount": 3.0
+    }
+  },
+  {
+    "timestamp": "2025-06-17T14:50:10.021164",
+    "date": "2025-06-17",
+    "time": "14:50:10",
+    "summary": {
+      "totalFiles": 46,
+      "successCount": 42,
+      "failedCount": 4,
+      "successRate": 91.3,
+      "avgParseTime": 107.96,
+      "medianParseTime": 47.5,
+      "fastestParse": 6,
+      "slowestParse": 426,
+      "uniqueBrands": 39,
+      "medianImageCount": 3.0
+    }
+  }
+]

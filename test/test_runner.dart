@@ -1,5 +1,7 @@
 import 'dart:io';
+import 'dart:convert';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:path/path.dart' as path;
 import '../lib/product_crawl.dart';
 
 /// Test Runner để chạy tất cả tests và tạo báo cáo chi tiết
@@ -212,13 +214,29 @@ void main() {
       // Test 4: Performance summary
       printHeader('PERFORMANCE SUMMARY');
 
+      // Declare performance variables with default values
+      double avgTime = 0.0;
+      double medianTime = 0.0;
+      int maxTime = 0;
+      int minTime = 0;
+
       if (parseTimes.isNotEmpty) {
-        final avgTime =
+        avgTime =
             parseTimes.map((d) => d.inMilliseconds).reduce((a, b) => a + b) / parseTimes.length;
-        final maxTime = parseTimes.map((d) => d.inMilliseconds).reduce((a, b) => a > b ? a : b);
-        final minTime = parseTimes.map((d) => d.inMilliseconds).reduce((a, b) => a < b ? a : b);
+        maxTime = parseTimes.map((d) => d.inMilliseconds).reduce((a, b) => a > b ? a : b);
+        minTime = parseTimes.map((d) => d.inMilliseconds).reduce((a, b) => a < b ? a : b);
+
+        // Calculate median parse time
+        final sortedTimes = parseTimes.map((d) => d.inMilliseconds).toList()..sort();
+        final length = sortedTimes.length;
+        if (length % 2 == 0) {
+          medianTime = (sortedTimes[length ~/ 2 - 1] + sortedTimes[length ~/ 2]) / 2.0;
+        } else {
+          medianTime = sortedTimes[length ~/ 2].toDouble();
+        }
 
         print('⏱️  Average parse time: ${avgTime.toStringAsFixed(2)}ms');
+        print('⏱️  Median parse time: ${medianTime.toStringAsFixed(1)}ms');
         print('⏱️  Fastest parse: ${minTime}ms');
         print('⏱️  Slowest parse: ${maxTime}ms');
 
@@ -256,6 +274,19 @@ void main() {
       if (imageCounts.isNotEmpty) {
         print('🖼️ Median Image Count: ${medianImageCount.toStringAsFixed(1)}');
       }
+
+      // Export results to JSON with historical tracking (summary only)
+      await TestResultExporter.exportResults(
+        totalFiles: totalCount,
+        successCount: successCount,
+        successRate: successRate.toDouble(),
+        avgTime: avgTime,
+        medianTime: medianTime,
+        fastestTime: minTime,
+        slowestTime: maxTime,
+        uniqueBrands: uniqueBrands.length,
+        medianImageCount: medianImageCount,
+      );
 
       // Overall test result
       final overallSuccess = successRate >= 50.0; // Ít nhất 50% thành công
@@ -328,4 +359,166 @@ void main() {
       }
     });
   });
+}
+
+// Test result export functionality
+class TestResultExporter {
+  static const String historyFileName = 'test_history.json';
+
+  static Future<void> exportResults({
+    required int totalFiles,
+    required int successCount,
+    required double successRate,
+    required double avgTime,
+    required double medianTime,
+    required int fastestTime,
+    required int slowestTime,
+    required int uniqueBrands,
+    required double medianImageCount,
+  }) async {
+    final now = DateTime.now();
+
+    // Create current test result (summary only for efficient storage)
+    final currentResult = {
+      'timestamp': now.toIso8601String(),
+      'date':
+          '${now.year}-${now.month.toString().padLeft(2, '0')}-${now.day.toString().padLeft(2, '0')}',
+      'time':
+          '${now.hour.toString().padLeft(2, '0')}:${now.minute.toString().padLeft(2, '0')}:${now.second.toString().padLeft(2, '0')}',
+      'summary': {
+        'totalFiles': totalFiles,
+        'successCount': successCount,
+        'failedCount': totalFiles - successCount,
+        'successRate': double.parse(successRate.toStringAsFixed(1)),
+        'avgParseTime': double.parse(avgTime.toStringAsFixed(2)),
+        'medianParseTime': double.parse(medianTime.toStringAsFixed(1)),
+        'fastestParse': fastestTime,
+        'slowestParse': slowestTime,
+        'uniqueBrands': uniqueBrands,
+        'medianImageCount': double.parse(medianImageCount.toStringAsFixed(1)),
+      },
+    };
+
+    // Load existing history
+    final historyFile = File(historyFileName);
+    List<dynamic> history = [];
+
+    if (await historyFile.exists()) {
+      try {
+        final content = await historyFile.readAsString();
+        history = jsonDecode(content);
+      } catch (e) {
+        print('⚠️  Warning: Could not read existing history file: $e');
+      }
+    }
+
+    // Add current result to history
+    history.add(currentResult);
+
+    // Keep only last 50 results to avoid huge files
+    if (history.length > 50) {
+      history = history.skip(history.length - 50).toList();
+    }
+
+    // Save updated history
+    try {
+      await historyFile.writeAsString(const JsonEncoder.withIndent('  ').convert(history));
+      print('📊 Test results exported to: $historyFileName');
+    } catch (e) {
+      print('❌ Failed to export results: $e');
+      return;
+    }
+
+    // Print comparison with history
+    _printComparison(currentResult, history);
+  }
+
+  static void _printComparison(Map<String, dynamic> current, List<dynamic> history) {
+    if (history.length < 2) {
+      print('📈 No previous results to compare with.');
+      return;
+    }
+
+    final currentSummary = current['summary'] as Map<String, dynamic>;
+    final currentAvgTime = currentSummary['avgParseTime'] as double;
+    final currentMedianTime = currentSummary['medianParseTime'] as double;
+    final currentSuccessRate = currentSummary['successRate'] as double;
+
+    // Compare with previous run (last item before current)
+    final previousRun = history[history.length - 2] as Map<String, dynamic>;
+    final prevSummary = previousRun['summary'] as Map<String, dynamic>;
+    final prevAvgTime = prevSummary['avgParseTime'] as double;
+    final prevMedianTime = prevSummary['medianParseTime'] as double;
+    final prevSuccessRate = prevSummary['successRate'] as double;
+
+    // Calculate historical averages (excluding current run)
+    final historicalRuns = history.take(history.length - 1).toList();
+    if (historicalRuns.isNotEmpty) {
+      final avgOfAvgTimes =
+          historicalRuns
+              .map((r) => (r['summary'] as Map)['avgParseTime'] as double)
+              .reduce((a, b) => a + b) /
+          historicalRuns.length;
+
+      final avgOfMedianTimes =
+          historicalRuns
+              .map((r) => (r['summary'] as Map)['medianParseTime'] as double)
+              .reduce((a, b) => a + b) /
+          historicalRuns.length;
+
+      final avgSuccessRate =
+          historicalRuns
+              .map((r) => (r['summary'] as Map)['successRate'] as double)
+              .reduce((a, b) => a + b) /
+          historicalRuns.length;
+
+      print('');
+      print('=' * 60);
+      print('  PERFORMANCE COMPARISON');
+      print('=' * 60);
+
+      // Compare with previous run
+      final avgTimeDiffPrev = ((prevAvgTime - currentAvgTime) / prevAvgTime * 100);
+      final medianTimeDiffPrev = ((prevMedianTime - currentMedianTime) / prevMedianTime * 100);
+      final successRateDiffPrev = currentSuccessRate - prevSuccessRate;
+
+      print('📊 vs Previous Run:');
+      _printTimeDifference('   Avg time', avgTimeDiffPrev);
+      _printTimeDifference('   Median time', medianTimeDiffPrev);
+      _printSuccessRateDifference('   Success rate', successRateDiffPrev);
+
+      // Compare with historical average
+      final avgTimeDiffHist = ((avgOfAvgTimes - currentAvgTime) / avgOfAvgTimes * 100);
+      final medianTimeDiffHist = ((avgOfMedianTimes - currentMedianTime) / avgOfMedianTimes * 100);
+      final successRateDiffHist = currentSuccessRate - avgSuccessRate;
+
+      print('');
+      print('📈 vs Historical Average (${historicalRuns.length} runs):');
+      _printTimeDifference('   Avg time', avgTimeDiffHist);
+      _printTimeDifference('   Median time', medianTimeDiffHist);
+      _printSuccessRateDifference('   Success rate', successRateDiffHist);
+
+      print('');
+    }
+  }
+
+  static void _printTimeDifference(String label, double percentDiff) {
+    if (percentDiff > 1) {
+      print('$label: 🚀 ${percentDiff.toStringAsFixed(1)}% faster');
+    } else if (percentDiff < -1) {
+      print('$label: 🐌 ${(-percentDiff).toStringAsFixed(1)}% slower');
+    } else {
+      print('$label: ≈ Similar performance');
+    }
+  }
+
+  static void _printSuccessRateDifference(String label, double diff) {
+    if (diff > 0.5) {
+      print('$label: ✅ +${diff.toStringAsFixed(1)}% better');
+    } else if (diff < -0.5) {
+      print('$label: ❌ ${diff.toStringAsFixed(1)}% worse');
+    } else {
+      print('$label: ≈ Similar success rate');
+    }
+  }
 }

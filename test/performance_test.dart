@@ -85,16 +85,20 @@ void main() {
       }
 
       // Calculate statistics
-      final allMilliseconds = allTimes.map((d) => d.inMilliseconds).toList();
-      allMilliseconds.sort();
+      final totalTime = allTimes.fold(0, (sum, time) => sum + time.inMilliseconds);
+      final avgTime = totalTime / allTimes.length;
+      final fastestTime = allTimes.map((d) => d.inMilliseconds).reduce((a, b) => a < b ? a : b);
+      final slowestTime = allTimes.map((d) => d.inMilliseconds).reduce((a, b) => a > b ? a : b);
 
-      final totalTests = allTimes.length;
-      final avgTime = allMilliseconds.reduce((a, b) => a + b) / totalTests;
-      final medianTime = totalTests % 2 == 0
-          ? (allMilliseconds[totalTests ~/ 2 - 1] + allMilliseconds[totalTests ~/ 2]) / 2.0
-          : allMilliseconds[totalTests ~/ 2].toDouble();
-      final minTime = allMilliseconds.first;
-      final maxTime = allMilliseconds.last;
+      // Calculate median parse time
+      final sortedTimes = allTimes.map((d) => d.inMilliseconds).toList()..sort();
+      double medianTime;
+      final length = sortedTimes.length;
+      if (length % 2 == 0) {
+        medianTime = (sortedTimes[length ~/ 2 - 1] + sortedTimes[length ~/ 2]) / 2.0;
+      } else {
+        medianTime = sortedTimes[length ~/ 2].toDouble();
+      }
 
       // Calculate median image count
       double medianImageCount = 0;
@@ -109,12 +113,12 @@ void main() {
       }
 
       print('\n📊 Performance Summary:');
-      print('🏃 Total tests: $totalTests');
+      print('🏃 Total tests: ${allTimes.length}');
       print('✅ Successful parses: $successfulParses');
-      print('⏱️ Average time: ${avgTime.toStringAsFixed(2)}ms');
-      print('⏱️ Median time: ${medianTime.toStringAsFixed(2)}ms');
-      print('⏱️ Min time: ${minTime}ms');
-      print('⏱️ Max time: ${maxTime}ms');
+      print('⏱️ Average parse time: ${avgTime.toStringAsFixed(2)}ms');
+      print('⏱️ Median parse time: ${medianTime.toStringAsFixed(1)}ms');
+      print('⏱️ Fastest parse: ${fastestTime}ms');
+      print('⏱️ Slowest parse: ${slowestTime}ms');
       print('🏷️ Brand tested: ${uniqueBrands.length}');
       print('🖼️ Median image count: ${medianImageCount.toStringAsFixed(1)}');
 
