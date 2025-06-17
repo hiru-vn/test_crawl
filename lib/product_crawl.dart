@@ -10,15 +10,49 @@ class ProductData {
   List<String> images = [];
   String? price;
   String? priceCurrency;
+  String? brand;
+  final String url;
+
+  ProductData(this.url);
 
   Map<String, dynamic> toJson() {
     return {
       'name': name,
-      'description': description,
-      'images': images,
+      'url': url,
+      'image': images,
+      'brand': brand,
       'price': price,
       'priceCurrency': priceCurrency,
+      'site': _extractSiteName(url),
+      'description': description,
+      'gallery': images,
     };
+  }
+
+  String _extractSiteName(String url) {
+    try {
+      final uri = Uri.parse(url);
+
+      // Get the base components
+      final scheme = uri.scheme;
+      final host = uri.host;
+
+      if (scheme.isEmpty || host.isEmpty) {
+        return '';
+      }
+
+      // Build the base URL that's clickable
+      var baseUrl = '$scheme://$host';
+
+      // Add port if present
+      if (uri.hasPort && uri.port != 80 && uri.port != 443) {
+        baseUrl += ':${uri.port}';
+      }
+
+      return baseUrl;
+    } catch (e) {
+      return '';
+    }
   }
 }
 
@@ -27,7 +61,7 @@ class ProductData {
 /// Trả về một Map chứa dữ liệu sản phẩm, hoặc null nếu không tìm thấy
 /// các thông tin cần thiết (tên và hình ảnh).
 Future<Map<String, dynamic>?> parseProduct(String htmlContent, String url) async {
-  final product = ProductData();
+  final product = ProductData(url);
   final baseUri = Uri.parse(url);
 
   // --- Lớp 0: Lối tắt Shopify ---
@@ -49,6 +83,9 @@ Future<Map<String, dynamic>?> parseProduct(String htmlContent, String url) async
   }
   if (product.description == null || product.description!.isEmpty) {
     product.description = _extractHeuristicDescription(document);
+  }
+  if (product.brand == null || product.brand!.isEmpty) {
+    product.brand = _extractHeuristicBrand(document);
   }
   if (product.price == null || product.price!.isEmpty) {
     _extractHeuristicPrice(document, product);
@@ -109,12 +146,18 @@ Future<Map<String, dynamic>?> _extractShopifyData(String htmlContent, String url
 
           return {
             'name': productJson['title'],
-            'description': productJson['body_html'],
-            'images': (productJson['images'] as List)
+            'url': url,
+            'image': (productJson['images'] as List)
                 .map<String>((img) => img['src'] as String)
                 .toList(),
+            'brand': productJson['vendor'] as String?,
             'price': price ?? productJson['variants']?.toString(),
             'priceCurrency': currency,
+            'site': Uri.parse(url).origin,
+            'description': productJson['body_html'],
+            'gallery': (productJson['images'] as List)
+                .map<String>((img) => img['src'] as String)
+                .toList(),
           };
         }
       }
@@ -152,6 +195,16 @@ void _parseJsonLdObject(dynamic jsonObj, ProductData product) {
       final jsonDesc = jsonObj['description'] as String?;
       if (product.description == null && jsonDesc != null && jsonDesc.trim().isNotEmpty) {
         product.description = jsonDesc;
+      }
+
+      // Extract brand information
+      if (jsonObj.containsKey('brand')) {
+        final brand = jsonObj['brand'];
+        if (brand is String) {
+          product.brand ??= brand;
+        } else if (brand is Map) {
+          product.brand ??= brand['name'] as String? ?? brand['@name'] as String?;
+        }
       }
 
       // Trích xuất giá từ offers
@@ -206,6 +259,13 @@ void _extractMetaTags(Document document, ProductData product, Uri baseUri) {
       getMetaContent('twitter:description') ??
       getMetaContent('description');
 
+  // Extract brand from meta tags
+  product.brand ??=
+      getMetaContent('og:brand') ??
+      getMetaContent('product:brand') ??
+      getMetaContent('twitter:data1') ?? // Sometimes brand is in twitter:data1
+      getMetaContent('brand');
+
   final ogImage = getMetaContent('og:image');
   if (ogImage != null) product.images.add(ogImage);
 
@@ -223,6 +283,66 @@ String? _extractHeuristicDescription(Document document) {
   return document.querySelector('meta[name="description"]')?.attributes['content'] ??
       document.querySelector('[class*="description"]')?.text.trim() ??
       document.querySelector('[id*="description"]')?.text.trim();
+}
+
+/// Lớp 2: Suy nghiệm thương hiệu sản phẩm.
+String? _extractHeuristicBrand(Document document) {
+  // Try various selectors for brand information
+  final brandSelectors = [
+    '[class*="brand"]',
+    '[id*="brand"]',
+    '[data-brand]',
+    '.product-brand',
+    '.brand-name',
+    '[class*="manufacturer"]',
+    '[id*="manufacturer"]',
+    '[itemprop="brand"]',
+    '[class*="vendor"]',
+    '[id*="vendor"]',
+  ];
+
+  for (final selector in brandSelectors) {
+    final element = document.querySelector(selector);
+    if (element != null) {
+      var brandText = element.text.trim();
+      // Get data-brand attribute if available
+      brandText = element.attributes['data-brand'] ?? brandText;
+
+      if (brandText.isNotEmpty && brandText.length < 100) {
+        // Reasonable brand name length
+        return brandText;
+      }
+    }
+  }
+
+  // Try to extract from breadcrumbs (often contains brand)
+  final breadcrumbs = document.querySelectorAll(
+    '[class*="breadcrumb"] a, [class*="breadcrumb"] span',
+  );
+  if (breadcrumbs.length >= 2) {
+    // Often the second item in breadcrumbs is the brand
+    final potentialBrand = breadcrumbs[1].text.trim();
+    if (potentialBrand.isNotEmpty && potentialBrand.length < 50) {
+      return potentialBrand;
+    }
+  }
+
+  // Try to extract from product title patterns like "Brand - Product Name"
+  final titleElement = document.querySelector('title');
+  if (titleElement != null) {
+    final title = titleElement.text;
+    final dashMatch = RegExp(r'^([^-\|]+)[-\|]').firstMatch(title);
+    if (dashMatch != null) {
+      final potentialBrand = dashMatch.group(1)?.trim();
+      if (potentialBrand != null &&
+          potentialBrand.length < 50 &&
+          potentialBrand.split(' ').length <= 3) {
+        return potentialBrand;
+      }
+    }
+  }
+
+  return null;
 }
 
 /// Lớp 2: Suy nghiệm giá sản phẩm.
@@ -374,6 +494,7 @@ void _extractShopifyScriptData(String scriptText, ProductData product) {
 void _parseShopifyProductData(Map<String, dynamic> productData, ProductData product) {
   // Extract basic info
   product.name ??= productData['title'] as String?;
+  product.brand ??= productData['vendor'] as String?; // Shopify brand field
 
   // Extract variants for price and currency
   if (productData.containsKey('variants')) {

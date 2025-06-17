@@ -44,9 +44,11 @@ void main() {
 
           if (result != null) {
             print('✅ PRODUCT: ${result['name']}');
+            print('🏢 BRAND: ${result['brand'] ?? 'Not found'}');
+            print('🌐 SITE: ${result['site'] ?? 'N/A'}');
 
-            if (result['images'] != null) {
-              final images = result['images'] as List;
+            if (result['image'] != null) {
+              final images = result['image'] as List;
               print('🖼️  IMAGES FOUND: ${images.length}');
 
               if (images.isNotEmpty) {
@@ -59,6 +61,12 @@ void main() {
               }
             } else {
               print('   ❌ Images field is null');
+            }
+
+            // Show gallery info (should be same as image)
+            if (result['gallery'] != null) {
+              final gallery = result['gallery'] as List;
+              print('🎨 GALLERY: ${gallery.length} items (should match images)');
             }
 
             // Also show other extracted data

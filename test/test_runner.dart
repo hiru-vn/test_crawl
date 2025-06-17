@@ -74,8 +74,10 @@ void main() {
 
       // Test ProductData class
       try {
-        final product = ProductData();
+        const testUrl = 'https://example.com/test';
+        final product = ProductData(testUrl);
         product.name = 'Test';
+        product.brand = 'Test Brand';
         product.description = 'Test Description';
         product.images = ['test.jpg'];
         product.price = '99.99';
@@ -83,10 +85,21 @@ void main() {
 
         final json = product.toJson();
         final validJson =
-            json['name'] == 'Test' && json['images'] is List && (json['images'] as List).isNotEmpty;
+            json['name'] == 'Test' &&
+            json['brand'] == 'Test Brand' &&
+            json['url'] == testUrl &&
+            json['site'] == 'https://example.com' &&
+            json['image'] is List &&
+            (json['image'] as List).isNotEmpty &&
+            json['gallery'] is List &&
+            (json['gallery'] as List).isNotEmpty;
 
         testResults['ProductData Class'] = validJson;
-        printTestResult('ProductData Class', validJson, 'toJson() method works correctly');
+        printTestResult(
+          'ProductData Class',
+          validJson,
+          'toJson() method works correctly with new format',
+        );
       } catch (e) {
         testResults['ProductData Class'] = false;
         testDetails['ProductData Class'] = 'Error: $e';
@@ -138,8 +151,8 @@ void main() {
               result['name'].toString().isNotEmpty &&
               result['description'] != null &&
               result['description'].toString().isNotEmpty &&
-              result['images'] != null &&
-              (result['images'] as List).isNotEmpty &&
+              result['image'] != null &&
+              (result['image'] as List).isNotEmpty &&
               result['price'] != null &&
               result['price'].toString().isNotEmpty &&
               result['priceCurrency'] != null &&
@@ -149,9 +162,11 @@ void main() {
 
           if (success) {
             successCount++;
-            final imageCount = (result!['images'] as List).length;
+            final imageCount = (result!['image'] as List).length;
+            final galleryCount = (result['gallery'] as List).length;
+            final brandInfo = result['brand'] != null ? result['brand'] : 'No brand';
             testDetails[fileName] =
-                'Name: ${result['name']}, Images: $imageCount, ' +
+                'Name: ${result['name']}, Brand: $brandInfo, Images: $imageCount, Gallery: $galleryCount, ' +
                 'Price: ${result['price']} ${result['priceCurrency']}, ' +
                 'Time: ${stopwatch.elapsedMilliseconds}ms';
           } else {
@@ -163,8 +178,8 @@ void main() {
                 missingFields.add('name');
               if (result['description'] == null || result['description'].toString().isEmpty)
                 missingFields.add('description');
-              if (result['images'] == null || (result['images'] as List).isEmpty)
-                missingFields.add('images');
+              if (result['image'] == null || (result['image'] as List).isEmpty)
+                missingFields.add('image');
               if (result['price'] == null || result['price'].toString().isEmpty)
                 missingFields.add('price');
               if (result['priceCurrency'] == null || result['priceCurrency'].toString().isEmpty)

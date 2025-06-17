@@ -31,6 +31,7 @@ void main() {
       expect(result, isNotNull, reason: 'Result should not be null for $testName');
 
       if (result != null) {
+        // Validate core fields
         expect(result['name'], isNotNull, reason: 'Name should not be null for $testName');
         expect(result['name'], isNotEmpty, reason: 'Name should not be empty for $testName');
 
@@ -45,12 +46,22 @@ void main() {
           reason: 'Description should not be empty for $testName',
         );
 
-        expect(result['images'], isNotNull, reason: 'Images should not be null for $testName');
-        expect(result['images'], isA<List>(), reason: 'Images should be a List for $testName');
+        // Validate new image field (renamed from images)
+        expect(result['image'], isNotNull, reason: 'Image should not be null for $testName');
+        expect(result['image'], isA<List>(), reason: 'Image should be a List for $testName');
         expect(
-          (result['images'] as List).isNotEmpty,
+          (result['image'] as List).isNotEmpty,
           true,
-          reason: 'Images should not be empty for $testName',
+          reason: 'Image should not be empty for $testName',
+        );
+
+        // Validate gallery field (should be same as image)
+        expect(result['gallery'], isNotNull, reason: 'Gallery should not be null for $testName');
+        expect(result['gallery'], isA<List>(), reason: 'Gallery should be a List for $testName');
+        expect(
+          (result['gallery'] as List).isNotEmpty,
+          true,
+          reason: 'Gallery should not be empty for $testName',
         );
 
         expect(result['price'], isNotNull, reason: 'Price should not be null for $testName');
@@ -67,10 +78,27 @@ void main() {
           reason: 'PriceCurrency should not be empty for $testName',
         );
 
+        // Validate new fields
+        expect(result['url'], isNotNull, reason: 'URL should not be null for $testName');
+        expect(result['url'], isNotEmpty, reason: 'URL should not be empty for $testName');
+
+        expect(result['site'], isNotNull, reason: 'Site should not be null for $testName');
+        expect(result['site'], isNotEmpty, reason: 'Site should not be empty for $testName');
+
+        // Brand is optional but should be present in the structure
+        expect(result.containsKey('brand'), true, reason: 'Brand field should exist for $testName');
+
         print('✅ $testName - All fields validated successfully');
         print('   Name: ${result['name']}');
-        print('   Description: ${result['description']?.toString().substring(0, 50)}...');
-        print('   Images count: ${(result['images'] as List).length}');
+        print('   Brand: ${result['brand'] ?? 'Not found'}');
+        print('   Site: ${result['site']}');
+        final description = result['description']?.toString() ?? '';
+        final shortDesc = description.length > 50
+            ? '${description.substring(0, 50)}...'
+            : description;
+        print('   Description: $shortDesc');
+        print('   Images count: ${(result['image'] as List).length}');
+        print('   Gallery count: ${(result['gallery'] as List).length}');
         print('   Price: ${result['price']} ${result['priceCurrency']}');
       }
     }
@@ -145,13 +173,24 @@ void main() {
         return;
       }
 
+      // Sort files numerically
+      files.sort((a, b) {
+        final fileNameA = a.path.split(Platform.pathSeparator).last;
+        final fileNameB = b.path.split(Platform.pathSeparator).last;
+
+        final numA = int.tryParse(fileNameA.replaceAll('.txt', '')) ?? 0;
+        final numB = int.tryParse(fileNameB.replaceAll('.txt', '')) ?? 0;
+
+        return numA.compareTo(numB);
+      });
+
       print('🧪 Testing ${files.length} files from assets folder...');
 
       int successCount = 0;
       int failCount = 0;
 
       for (final file in files) {
-        final fileName = file.path.split('\\').last; // Windows path separator
+        final fileName = file.path.split(Platform.pathSeparator).last;
         try {
           print('\n🔍 Testing: $fileName');
           await runTestFromFile(fileName);
@@ -166,6 +205,7 @@ void main() {
       print('   ✅ Successful: $successCount');
       print('   ❌ Failed: $failCount');
       print('   📁 Total files: ${files.length}');
+      print('   📈 Success Rate: ${(successCount / files.length * 100).toStringAsFixed(1)}%');
 
       // Test sẽ pass nếu có ít nhất 1 file thành công
       expect(successCount, greaterThan(0), reason: 'At least one test file should pass');
@@ -173,9 +213,11 @@ void main() {
   });
 
   group('Product Data Validation Tests', () {
-    test('Test ProductData.toJson()', () {
-      final product = ProductData();
+    test('Test ProductData.toJson() with new format', () {
+      const testUrl = 'https://example.com/product';
+      final product = ProductData(testUrl);
       product.name = 'Test Product';
+      product.brand = 'Test Brand';
       product.description = 'Test Description';
       product.images = ['image1.jpg', 'image2.jpg'];
       product.price = '99.99';
@@ -184,22 +226,50 @@ void main() {
       final json = product.toJson();
 
       expect(json['name'], equals('Test Product'));
+      expect(json['brand'], equals('Test Brand'));
+      expect(json['url'], equals(testUrl));
+      expect(json['site'], equals('https://example.com'));
       expect(json['description'], equals('Test Description'));
-      expect(json['images'], equals(['image1.jpg', 'image2.jpg']));
+      expect(json['image'], equals(['image1.jpg', 'image2.jpg']));
+      expect(json['gallery'], equals(['image1.jpg', 'image2.jpg']));
       expect(json['price'], equals('99.99'));
       expect(json['priceCurrency'], equals('USD'));
     });
 
     test('Test ProductData with null values', () {
-      final product = ProductData();
+      const testUrl = 'https://example.com/product';
+      final product = ProductData(testUrl);
 
       final json = product.toJson();
 
       expect(json['name'], isNull);
+      expect(json['brand'], isNull);
+      expect(json['url'], equals(testUrl));
+      expect(json['site'], equals('https://example.com'));
       expect(json['description'], isNull);
-      expect(json['images'], isEmpty);
+      expect(json['image'], isEmpty);
+      expect(json['gallery'], isEmpty);
       expect(json['price'], isNull);
       expect(json['priceCurrency'], isNull);
+    });
+
+    test('Test site extraction', () {
+      final testCases = [
+        ['https://example.com/product', 'https://example.com'],
+        ['http://test.com:8080/item', 'http://test.com:8080'],
+        ['https://shop.example.com/products/123', 'https://shop.example.com'],
+        ['https://www.amazon.com/dp/B123', 'https://www.amazon.com'],
+      ];
+
+      for (final testCase in testCases) {
+        final product = ProductData(testCase[0]);
+        final json = product.toJson();
+        expect(
+          json['site'],
+          equals(testCase[1]),
+          reason: 'Site extraction failed for ${testCase[0]}',
+        );
+      }
     });
   });
 }

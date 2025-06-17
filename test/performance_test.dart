@@ -44,8 +44,10 @@ void main() {
           totalTests++;
           if (result != null &&
               result['name'] != null &&
-              result['images'] != null &&
-              (result['images'] as List).isNotEmpty) {
+              result['image'] != null &&
+              (result['image'] as List).isNotEmpty &&
+              result['gallery'] != null &&
+              (result['gallery'] as List).isNotEmpty) {
             successfulTests++;
           }
 
