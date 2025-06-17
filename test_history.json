@@ -100,5 +100,56 @@
       "uniqueBrands": 39,
       "medianImageCount": 3.0
     }
+  },
+  {
+    "timestamp": "2025-06-17T14:52:17.667565",
+    "date": "2025-06-17",
+    "time": "14:52:17",
+    "summary": {
+      "totalFiles": 46,
+      "successCount": 42,
+      "failedCount": 4,
+      "successRate": 91.3,
+      "avgParseTime": 105.52,
+      "medianParseTime": 45.0,
+      "fastestParse": 6,
+      "slowestParse": 421,
+      "uniqueBrands": 39,
+      "medianImageCount": 3.0
+    }
+  },
+  {
+    "timestamp": "2025-06-17T14:52:58.874585",
+    "date": "2025-06-17",
+    "time": "14:52:58",
+    "summary": {
+      "totalFiles": 46,
+      "successCount": 44,
+      "failedCount": 2,
+      "successRate": 95.7,
+      "avgParseTime": 104.02,
+      "medianParseTime": 43.0,
+      "fastestParse": 6,
+      "slowestParse": 423,
+      "uniqueBrands": 41,
+      "medianImageCount": 3.0
+    }
+  },
+  {
+    "timestamp": "2025-06-17T14:53:05.795668",
+    "date": "2025-06-17",
+    "time": "14:53:05",
+    "summary": {
+      "totalFiles": 46,
+      "successCount": 44,
+      "failedCount": 2,
+      "successRate": 95.7,
+      "avgParseTime": 109.48,
+      "medianParseTime": 46.0,
+      "fastestParse": 6,
+      "slowestParse": 421,
+      "uniqueBrands": 41,
+      "medianImageCount": 3.0
+    }
   }
 ]

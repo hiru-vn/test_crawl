@@ -189,13 +189,13 @@ Future<Map<String, dynamic>?> parseProduct(String htmlContent, String url) async
   }
 
   // --- Lớp bổ sung: Fallback methods for edge cases ---
-  // if (product.price == null ||
-  //     product.price!.isEmpty ||
-  //     product.priceCurrency == null ||
-  //     product.priceCurrency!.isEmpty) {
-  //   extractMicrodataPrice(document, product);
-  //   extractDataTestPrice(document, product);
-  // }
+  if (product.price == null ||
+      product.price!.isEmpty ||
+      product.priceCurrency == null ||
+      product.priceCurrency!.isEmpty) {
+    extractMicrodataPrice(document, product);
+    extractDataTestPrice(document, product);
+  }
 
   // --- Hoàn thiện và xác thực ---
   _finalizeData(product, baseUri);
